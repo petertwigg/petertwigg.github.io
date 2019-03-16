@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+// Import frameworks & theme styles
+@import
+  "normalize",
+  "settings",
+  "sassline-base",
+  "syntax",
+  "flex",
+  "theme"
+;
+
+header {
+	margin-bottom: 16px;
+	background: #211625;
+
+	.feature {
+		margin-bottom: 0;
+	}
+}
+
+nav {
+	a {
+		color: lightgray;
+	}
+	a:hover {
+		color: white;
+	}
+}
