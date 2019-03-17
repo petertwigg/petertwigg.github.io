@@ -27,3 +27,33 @@ nav {
 		color: white;
 	}
 }
+
+.button.button--nav {
+	color: lightgray;
+}
+
+.typeset blockquote footer {
+	margin-bottom: 1em;
+}
+
+blockquote.photo {
+	background: #ded5c7;
+	padding: 1em;
+	margin-bottom: 2em;
+
+	@include breakpoint(break-0) {
+		width: 100%;
+		clear: both;
+	}
+	@include breakpoint(break-1) {
+		overflow: auto;
+	}
+}
+
+blockquote.photo img {
+	@include breakpoint(break-1) {
+		float: right;
+		margin-left: 2em;
+	}
+}
+
