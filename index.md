@@ -1,7 +1,7 @@
 ---
 title: Meditation Based Cognitive Therapies & Practices, Naturopathy & Homeopathy
 layout: page
-feature_image: "/images/banner-main-01.jpg"
+feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:
 ---
 
