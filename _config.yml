@@ -20,12 +20,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://petertwigg.github.io'
+url: 'https://petertwigg.com'
 baseurl: ''
 title: 'Peter Twigg'
-description: 'This is my new website'
+description: 'Peter Twigg'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://s.gravatar.com/avatar/e93642b3913fe528117101c28451d28b?s=80"
 
 # Pagination
 paginate: 5
