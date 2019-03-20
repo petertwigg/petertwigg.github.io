@@ -12,3 +12,7 @@ These videos are designed to address different aspects of meditation so that you
 ## First video example
 
 {% include video.html id="DBXH9jJRaDk" title="Some example video" %}
+
+## Second video example
+
+{% include video.html id="DBXH9jJRaDk" title="Some example video" %}
