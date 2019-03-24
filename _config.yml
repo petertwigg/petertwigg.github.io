@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 # Header nav
 navigation_header:
   Home: /
-  Meditation: /meditation/
+  Meditation: /my_meditation_channel/
   Sessions: /sessions/
   Testimonials: /testimonials/
   Blog: /blog/
