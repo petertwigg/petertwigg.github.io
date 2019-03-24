@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Process & Sessions
-feature_image: "/images/double-spiral.jpg" 
+feature_image: "/images/double-spiral01-200.jpg" 
 feature_text: |
   ### How sessions work
 ---
