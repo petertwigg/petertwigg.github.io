@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Peter
-feature_image: "/images/double-spiral-03.jpg" 
+feature_image: "/images/double-spiral.jpg" 
 feature_text:
 ---
 

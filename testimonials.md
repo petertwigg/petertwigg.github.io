@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Client Testimonials
-feature_image: "/images/double-spiral-03.jpg"
+feature_image: "/images/double-spiral.jpg"
 feature_text:
 ---
 
