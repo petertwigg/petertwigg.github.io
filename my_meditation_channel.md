@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Meditation Channel
-feature_image: "/images/double-spiral01-200.jpg"
+feature_image: "/images/double-spiral-01-200.jpg"
 feature_text:
 feature_text:
 ---
@@ -14,10 +14,10 @@ Ultimately, my work is helping you to raise the voltage of your consciousness to
 
 These videos are designed to address different aspects of meditation so that you might build and sustain a strong meditation practice. It's fair to say there are many pitfalls and traps for beginners and experienced alike when it comes to meditation. I hope you gain many benefits in your meditation from watching these videos.
 
-## First video example
+First video example
 
 {% include video.html id="DBXH9jJRaDk" title="Some example video" %}
 
-## Second video example
+Second video example
 
 {% include video.html id="DBXH9jJRaDk" title="Some example video" %}

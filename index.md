@@ -9,7 +9,7 @@ I have been meditating for over 35 years and had the privilege of teaching medit
 
 I also employ techniques of meditation to bring about health, healing and transformation in conjunction with homeopathy and naturopathy. Some of the outcomes of my work include resolving emotional blockages, restoring health so you are free to be yourself. Achieving more of your potential and helping you to recognise your true nature are key benchmarks to changing. 
 
-In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your consciousness is independent of your physical body. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. "images/home_quote-01-100.jpg" 
+In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your consciousness is independent of your physical body. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. ("images/home_quote-01-100.jpg") 
 In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
 
 I have been a practicing homeopath and naturopath for over 29 years. I've led retreats, workshops and trainings in meditation and self-development and given public lectures on various self-development and meditation related topics in Australia, Asia, Europe and the USA. I have been practicing meditation based techniques since 1988 and I graduated as a naturopath and homeopath in 1990.
@@ -22,4 +22,5 @@ Techniques involve meditation practice, IST - Inner Space Techniques of consciou
 
 In my work with clients I draw from my training in homeopathy and naturopathy together with my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath towards becoming a healer. My task is to find the right tool to help you move forward. My focus also provides a framework in which to help people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest level of yourself.
 
-'Our ordinary consciousness is not natural, but an acquired product. This has given us both many useful skills and many insane sources of useless suffering.' - Charles Tart, Waking Up
+		'Our ordinary consciousness is not natural, but an acquired product. This has given us both many useful skills and many 
+		insane sources of useless suffering.' - Charles Tart, Waking Up
