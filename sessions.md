@@ -2,8 +2,8 @@
 layout: page
 title: Process & Sessions
 feature_image: "/images/double-spiral01-200.jpg" 
-feature_text: |
-  ### How sessions work
+feature_text: 
+
 ---
 
 Below is an outline of the techniques, methodologies and approaches that I use when working with clients in the context of healing and emotional release.
