@@ -8,7 +8,7 @@ feature_text:
 
 Below is an outline of the techniques, methodologies and approaches that I use when working with clients in the context of healing and emotional release.
 
-## Meditating
+### Meditating
 
 Many people recognise the benefits meditation bring to their lives.
 
