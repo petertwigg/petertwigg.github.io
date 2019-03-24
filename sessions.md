@@ -1,18 +1,18 @@
 ---
 layout: page
 title: Process & Sessions
-feature_image: "https://picsum.photos/1300/400?image=984"
+feature_image: "/images/double-spiral.jpg" 
 feature_text: |
   ### How sessions work
 ---
 
-Below is an outline of the techniques, methodologies and approaches that I use when working with clients in the context of healing and emotional councelling.
+Below is an outline of the techniques, methodologies and approaches that I use when working with clients in the context of healing and emotional release.
 
 ## Meditating
 
 Many people recognise the benefits meditation bring to their lives.
 
-On trying however people soon give up saying 'it's too hard' or 'I tried that...'. Often, a few simple adjustments to their technique brings amazing results. My website hosts a series of videos showing how to improve your meditation. In addition, I also offer one on one sessions to help with your meditation process. This can be done over the internet or in person.
+On trying however people soon give up saying 'it's too hard' or 'I tried that...'. Often, a few simple adjustments to their technique brings amazing results. My website and social media hosts a series of videos showing how to improve your meditation. I also offer one on one sessions to help with your meditation process. This can be done over the internet or in person.
 
 There are many health benefits associated with meditation such as lowering blood pressure, relaxation, controlling stress, experiencing more positive emotions, increased immunity to disease. Meditation has also been proven to be of help for various conditions such as depression and anxiety. But the essence of meditation is an internalisation of your consciousness. Meditation allows you to establish a deeper connection with your self on a daily basis.
 
@@ -36,8 +36,7 @@ Human beings have much more potential than is visible at the surface. The style 
 
 Part of my work is to help clients to recognise their true nature and from there, an unravelling and ownership of their very being can begin to take place.
 
-> You don't change by solving your problems. You solve your problems by changing.  
-> -- <cite>Samuel Sagan MD</cite>
+         You don't change by solving your problems. You solve your problems by changing. - Samuel Sagan MD
 
 ## Dynamic Awareness
 
@@ -51,8 +50,7 @@ My approach is one that incorporates different dimensions of your being: physica
 
 I work experientially, that is with an emphasis on your direct experience rather than on theories or beliefs.
 
-> "Try not, do or do not, there is no try"...  
-> -- <cite>Jedi Master Yoda</cite>
+      "Try not, do or do not, there is no try"... - Jedi Master Yoda
 
 I specialize in working with people who have concerns with:
 
@@ -154,4 +152,4 @@ Please give 24 hours notice if you need to cancel your appointment otherwise you
 
 ### Fees
 
-Payments can be made by cash, cheque or Paypal. Payal accepts Visa, MasterCard, American Express, Discover or ECheck.
+Payments can be made by cash, cheque or Paypal. Paypal accepts Visa, MasterCard, American Express, Discover or ECheck.

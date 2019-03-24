@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Peter
-feature_image: "https://picsum.photos/1300/400?image=1057"
+feature_image: "/images/double-spiral.jpg" 
 feature_text:
 ---
 
