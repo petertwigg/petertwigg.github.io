@@ -7,7 +7,7 @@ feature_text:
 
 Some feedback from my clients...
 
-## Testimonials from clients who have worked with Peter Twigg
+Testimonials from clients who have worked with Peter Twigg
 
 Working with you [Peter] moves me deeply. Scenarios or constructs have no place as issues are approached from the core, in a profoundly intense spiritual space. I am eternally grateful for your humanity, guidance and compassion in this journey towards transformation.  
 XXXX Business Owner and Mother, London, UK
