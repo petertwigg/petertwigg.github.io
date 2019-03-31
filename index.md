@@ -1,5 +1,5 @@
 ---
-title: Meditation Based Cognitive Therapies & Practices, Naturopathy & Homeopathy
+title: Meditation Based Cognitive Therapies & Practices 
 layout: page
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:
@@ -9,7 +9,7 @@ I have been meditating for over 35 years and had the privilege of teaching medit
 
 I also employ techniques of meditation to bring about health, healing and transformation in conjunction with homeopathy and naturopathy. Some of the outcomes of my work include resolving emotional blockages, restoring health so you are free to be yourself. Achieving more of your potential and helping you to recognise your true nature are key benchmarks to changing. 
 
-In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your consciousness is independent of your physical body. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. (https://petertwigg.github.io/images/"home_quote-01-100.jp") In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
+In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your consciousness is independent of your physical body. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. ![alt text] (https://petertwigg.github.io/images/"home_quote-01-100.jp "Logo Title Form & Formless") In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
 
 I have been a practicing homeopath and naturopath for over 29 years. I've led retreats, workshops and trainings in meditation and self-development and given public lectures on various self-development and meditation related topics in Australia, Asia, Europe and the USA. I have been practicing meditation based techniques since 1988 and I graduated as a naturopath and homeopath in 1990.
 
