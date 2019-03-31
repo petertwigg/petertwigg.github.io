@@ -143,9 +143,8 @@ Your privacy is valued. All personal information gathered during the provision o
 
 1. It is subpoenaed by a court, or
 2. Failure to disclose information would place you or another person at risk; or
-3. Your prior approval has been obtained to
-1. provide a written report to another professional and/or agency (eg. a GP or lawyer).
-2. discuss the material with another person (eg. employer or relative).
+3. Your prior approval has been obtained to provide a written report to another professional and/or agency (eg. a GP or lawyer).
+4. Discuss the material with another person (eg. employer or relative).
 
 #### Cancellations
 
