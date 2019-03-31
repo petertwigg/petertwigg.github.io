@@ -8,7 +8,7 @@ feature_text:
 
 Below is an outline of the techniques, methodologies and approaches that I use when working with clients in the context of healing and emotional release.
 
-####Meditation
+#### Meditation
 
 Many people recognise the benefits meditation bring to their lives.
 
@@ -20,7 +20,7 @@ Sometimes the cause of your meditation difficulties lie at a deeper cause and we
 
 Listed below is a brief overview of some of the processes I employ along with information on how sessions work.
 
-####Working at the Source
+#### Working at the Source
 
 Working at the source simply means working with causes rather than symptoms.
 
@@ -30,13 +30,14 @@ The methods I use are not band-aid solutions. They are designed to help people k
 
 Working at the source does not mean living in the past. It means working on things held in consciousness that block you from being more of your Self here and now.
 
-####Working with Your Potential
+#### Working with Your Potential
 
 Human beings have much more potential than is visible at the surface. The style of work practiced by myself involves processes that are designed to put clients in touch with inner aspects of themselves. Clients experience parts of themselves that are more joyful, awake and knowing, aspects that have an innate self-healing capacity, and that can help clients move beyond mental and emotional limitations that hold them back in life. These inner aspects of human consciousness are not abstract qualities but have a direct relation to who people are and what they are able achieve in their daily lives.
 
 Part of my work is to help clients to recognise their true nature and from there, an unravelling and ownership of their very being can begin to take place.
 
-         You don't change by solving your problems. You solve your problems by changing. - Samuel Sagan MD
+>You don't change by solving your problems. You solve 
+>your problems bychanging. - Samuel Sagan MD
 
 ####Dynamic Awareness
 
