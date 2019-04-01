@@ -51,7 +51,7 @@ My approach is one that incorporates different dimensions of your being: physica
 
 I work experientially, that is with an emphasis on your direct experience rather than on theories or beliefs.
 
->"Try not, do or do not, there is no try"... - Jedi Master Yoda
+> "Try not, do or do not, there is no try"... - Jedi Master Yoda
 
 I specialize in working with people who have concerns with:
 
@@ -89,7 +89,7 @@ The client lies down comfortably on a mattress with eyes closed and the therapis
 
 Whilst in the meditative state, the therapist asks the clients questions about their experiences and an interactive space is engaged in order to help the client move deeper to the source of experiences. IST often involves a somatic component where the therapist presses a spot (depending where it is) on the client's body. This helps the client connect to emotions and sensations in the body related to issues being worked on. At all times the client is conscious and has control over the process. If the client wishes to return to a normal state of consciousness they only have to open their eyes. IST sessions usually last for up to 1.5 - 2 hours.
 
-For more information see: Sagan, S. Regression: Past Life Therapy for Here and Now Freedom - Available from www.clairvision.org or order through Amazon.
+For more information see: Sagan, S. Regression: Past Life Therapy for Here and Now Freedom - Available from [www.clairvision.org](www.clairvision.org) or order through Amazon.
 
 #### Counselling
 
@@ -99,8 +99,8 @@ Through conversation issues are clarified, strengths revealed and goals for chan
 
 Just as there are physical parasites there are non-physical parasitical negative energies that affect the human body of energy. Energies such as these are dealt with in many forms of traditional medicine:
 
-The topic is both old and new. Old, because in all traditions and folklores on Earth, one finds reference to spirits and non-physical beings that can interfere with human beings. Thus Ayurveda, the traditional medicine of India, is divided into eight sections, one of which is entirely devoted to the study of bhutas, or entities, their influence on health and sanity, and the ways one can get rid of them. This places bhuta-vidya, or science of entities, on the same level as surgery or gynaecology. If we look at traditional Chinese medicine, we find that in acupuncture, among the 361 points of the 14 main meridians, 17 have the word Kuei (disincarnate spirit) as part of their main or secondary name.  
--- <cite>Samuel Sagan, Entities, Parasites of the Body of Energy, Clairvision, (1994).</cite>
+> The topic is both old and new. Old, because in all traditions and folklores on Earth, one finds reference to spirits and non-physical beings that can interfere with human beings. Thus Ayurveda, the traditional medicine of India, is divided into eight sections, one of which is entirely devoted to the study of bhutas, or entities, their influence on health and sanity, and the ways one can get rid of them. This places bhuta-vidya, or science of entities, on the same level as surgery or gynaecology. If we look at traditional Chinese medicine, we find that in acupuncture, among the 361 points of the 14 main meridians, 17 have the word Kuei (disincarnate spirit) as part of their main or secondary name.  
+> <footer>Samuel Sagan, Entities, Parasites of the Body of Energy, Clairvision, (1994).</footer>
 
 These energies may have the effect of exacerbating emotions and emotional patterns; exacerbating cravings; and draining vitality. When explored using the
 
