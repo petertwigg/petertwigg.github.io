@@ -7,3 +7,23 @@ This is a very simple starting point if you wish to use Alembic [as a Jekyll the
 or
 
 **[Download the GitHub Pages kit](https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip)**
+
+## How to run locally
+
+From windows menu type:
+
+`cmd`
+
+will open terminal
+
+In terminal type:
+
+`cd C:\Users\Solon\Documents\GitHub\petertwigg.github.io`
+
+Then to run locally type:
+
+`jekyll serve`
+
+After site is built, navigate to:
+
+`http://127.0.0.1:4000/`

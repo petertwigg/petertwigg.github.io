@@ -37,6 +37,7 @@ navigation_header:
   My Meditation Channel: /my_meditation_channel/
   Sessions: /sessions/
   Testimonials: /testimonials/
+#  Blog: /blog/
   Contact: /contact/
 
 # Footer nav
@@ -51,3 +52,6 @@ collections:
     description: "My thoughts and ideas"
     feature_text:
     feature_image: "https://picsum.photos/2560/600?image=976"
+
+# SEO, social, etc
+google_analytics: "UA-137375529-1"

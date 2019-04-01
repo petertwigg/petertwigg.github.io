@@ -1,8 +1,7 @@
 ---
 layout: page
 title: My Meditation Channel
-feature_image: "/images/double-spiral.jpg"
-feature_text:
+feature_image: "https://picsum.photos/1300/400?image=919"
 feature_text:
 ---
 
@@ -17,14 +16,3 @@ These videos are designed to address different aspects of meditation so that you
 First video example
 
 {% include video.html id="DBXH9jJRaDk" title="Some example video" %}
-
-Second video example
-
-{% include video.html id="DBXH9jJRaDk" title="Some example video" %}
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> 
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-

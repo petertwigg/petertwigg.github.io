@@ -11,7 +11,13 @@ I also employ techniques of meditation to bring about health, healing and transf
 
 #### Experience
 
-In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your consciousness is independent of your physical body. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. ![Form & Formless](https://petertwigg.github.io/images/home_quote-01-100.jpg). In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
+In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
+
+<blockquote class="photo">
+	<img src="/images/peter-twigg-photo.jpg" width="200">
+	<p>True healing takes place when one lets go of form and comes to rest on formless.</p>
+	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
+</blockquote>
 
 I have been a practicing homeopath and naturopath for over 29 years. I've led retreats, workshops and trainings in meditation and self-development and given public lectures on various self-development and meditation related topics in Australia, Asia, Europe and the USA. I have been practicing meditation based techniques since 1988 and I graduated as a naturopath and homeopath in 1990.
 
