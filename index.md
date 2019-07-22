@@ -9,7 +9,15 @@ I have been meditating for over 35 years and had the privilege of teaching medit
 
 I also employ techniques of meditation to bring about health, healing and transformation in conjunction with homeopathy and naturopathy. Some of the outcomes of my work include resolving emotional blockages, restoring health so you are free to be yourself. Achieving more of your potential and helping you to recognise your true nature are key benchmarks to changing. 
 
-#### Experience
+#### Working with Peter
+
+Grounded in long-time meditation and healing practices, the following modalities are currently being offered to my clients:
+
+* Meditation courses for groups and individuals, [learn more...](/sessions/#meditation)
+* One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
+* Counselling, [learn more...](/sessions/#counselling)
+
+#### Expertise
 
 In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
 
@@ -27,9 +35,9 @@ Since starting my meditation path, I have spoken with many people looking for an
 
 Using meditation techniques offers a pathway of self exploration that closely integrates physical and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. It covers a wide range of applications from increased mindfulness, regression and freedom from physical and mental health problems. 
 
-Techniques involve meditation practice, IST - Inner Space Techniques of consciousness (therapeutic cognitive processes) to bring healing and harmony, work with death, bereavement and release from emotional blockages. Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world whilst being open to higher dimensions of yourself.
+Techniques involve meditation practice, IST — Inner Space Techniques of consciousness (therapeutic cognitive processes) to bring healing and harmony, work with death, bereavement and release from emotional blockages. Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world whilst being open to higher dimensions of yourself.
 
 In my work with clients I draw from my training in homeopathy and naturopathy together with my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath towards becoming a healer. My task is to find the right tool to help you move forward. My focus also provides a framework in which to help people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest level of yourself.
 
->'Our ordinary consciousness is not natural, but an acquired product. 
-This as given us both many useful skills and many	insane sources of useless suffering.' - Charles Tart, Waking Up
+> Our ordinary consciousness is not natural, but an acquired product. This as given us both many useful skills and many insane sources of useless suffering.  
+> &mdash; Charles Tart, Waking Up

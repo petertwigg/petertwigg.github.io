@@ -33,16 +33,23 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  My Meditation Channel: /my_meditation_channel/
-  Sessions: /sessions/
-  Testimonials: /testimonials/
-#  Blog: /blog/
-  Contact: /contact/
+- title: Home
+  url: /
+- title: Meditation
+  url: /meditation/
+- title: Sessions
+  url: /sessions/
+- title: Testimonials
+  url: /testimonials/
+- title: Contact
+  url: /contact/
+#- title: Blog
+#  url: /blog/
 
 # Footer nav
 navigation_footer:
-  Back to top: "#top"
+- title: Back to top
+  url: "#top"
 
 # Collections
 collections:
@@ -50,8 +57,6 @@ collections:
     title: Posts
     output: true
     description: "My thoughts and ideas"
-    feature_text:
+    feature_text: |
+      Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=976"
-
-# SEO, social, etc
-google_analytics: "UA-137375529-1"

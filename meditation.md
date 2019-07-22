@@ -11,8 +11,10 @@ Engaging a strong meditation practice also brings an expanded awareness of state
 
 Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world whilst being open to higher dimensions of yourself.
 
+<!--
 These videos are designed to address different aspects of meditation so that you might build and sustain a strong meditation practice. It's fair to say there are many pitfalls and traps for beginners and experienced alike when it comes to meditation. I hope you gain many benefits in your meditation from watching these videos.
+-->
 
-First video example
-
+{% comment %}
 {% include video.html id="DBXH9jJRaDk" title="Some example video" %}
+{% endcomment %}

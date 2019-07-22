@@ -18,11 +18,12 @@ will open terminal
 
 In terminal type:
 
-`cd C:\Users\Solon\Documents\GitHub\petertwigg.github.io`
+`D:`
+`cd D:\Ruby\GitHub\petertwigg.github.io`
 
 Then to run locally type:
 
-`jekyll serve`
+`bundle exec jekyll serve`
 
 After site is built, navigate to:
 
