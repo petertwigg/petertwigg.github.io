@@ -5,17 +5,17 @@ feature_image: "https://picsum.photos/1300/400?image=984"
 feature_text: 
 ---
 
-Below is an outline of the techniques, methodologies and approaches that I use when working with clients in the context of healing and emotional release.
+Below is an outline of the techniques, methodologies and approaches I use when working with clients in the context of healing and emotional release.
 
 * [Meditation](#meditation)
 * [Working with Your Potential](#working-with-your-potential)
 * Something else...
 
-In ["Achieving Direct Experience"](#achieving-direct-experience) I will talk about desired outcomes of the sessions from the client perspective.
+In ["Achieving Direct Experience"](#achieving-direct-experience) I talk about desired outcomes of the sessions from your perspective.
 
-Read ["Techniques and Modalities"](#techniques-and-modalities) to learn about how I work with clients to achieve the desired outcome.
+Read ["Techniques and Modalities"](#techniques-and-modalities) to learn about how I work with clients to achieve their desired outcomes.
 
-In ["About sessions"](#about-sessions) you will find answers to the questions of "how to book a session", "what is my privacy", "session fees" and "cancellation conditions".
+In ["About sessions"](#about-sessions) you will find answers to the questions of "how to book sessions", "my privacy policy", "session fees" and "cancellation conditions".
 
 #### Meditation
 
@@ -23,7 +23,7 @@ Many people recognise the benefits meditation bring to their lives.
 
 On trying however people soon give up saying 'it's too hard' or 'I tried that...'. Often, a few simple adjustments to their technique brings amazing results. My website and social media hosts a series of videos showing how to improve your meditation. I also offer one on one sessions to help with your meditation process. This can be done over the internet or in person.
 
-There are many health benefits associated with meditation such as lowering blood pressure, relaxation, controlling stress, experiencing more positive emotions, increased immunity to disease. Meditation has also been proven to be of help for various conditions such as depression and anxiety. But the essence of meditation is an internalisation of your consciousness. Meditation allows you to establish a deeper connection with your self on a daily basis.
+There are many health benefits associated with meditation such as lowering blood pressure, relaxation, controlling stress, experiencing more positive emotions, increased immunity to disease. Meditation has also been proven to help various conditions such as depression and anxiety. But the essence of meditation is an internalisation of your consciousness. Meditation allows you to establish a deeper connection with your self on a daily basis.
 
 Sometimes the cause of your meditation difficulties lie at a deeper cause and we can employ other techniques to resolve the blocking issue. My aim in working with you is to help you move into a deeper meditative state where an alignment and harmonising of mind, body and soul can take place.
 
@@ -37,11 +37,11 @@ Many psychological and physical issues will exhibit similar symptoms on the surf
 
 The methods I use are not band-aid solutions. They are designed to help people know themselves deeply, to get in touch with their own essence and also to get to the core of issues that block them. I use meditative and awareness techniques that take clients beyond the ordinary "chatty" mind and allow the core of emotional issues to be worked out safely. When made conscious, issues can be transformed, resulting in increased awareness, changes to deeply held psychological patterns, better functioning in daily life and health and an increased sense of enjoyment, fullness and Self.
 
-Working at the source does not mean living in the past. It means working on things held in consciousness that block you from being more of your Self here and now.
+Working at the source does not mean living in the past. It means working on things held in your consciousness that block you from being more of your self here and now.
 
 #### Working with Your Potential
 
-Human beings have much more potential than is visible at the surface. The style of work practiced by myself involves processes that are designed to put clients in touch with inner aspects of themselves. Clients experience parts of themselves that are more joyful, awake and knowing, aspects that have an innate self-healing capacity, and that can help clients move beyond mental and emotional limitations that hold them back in life. These inner aspects of human consciousness are not abstract qualities but have a direct relation to who people are and what they are able achieve in their daily lives.
+Human beings have much more potential than they realise. The style of work I practice involves processes that are designed to put clients in touch with inner aspects of themselves. Clients experience parts of themselves that are more joyful, awake and knowing, aspects that have an innate self-healing capacity, and that can help clients move beyond mental and emotional limitations that hold them back in life. These inner aspects of human consciousness are not abstract qualities but have a direct relation to who people are and what they are able achieve in their daily lives.
 
 Part of my work is to help clients to recognise their true nature and from there, an unravelling and ownership of their very being can begin to take place.
 

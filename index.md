@@ -23,7 +23,7 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 
 <blockquote class="photo">
 	<img src="/images/peter-twigg-photo.jpg" width="200">
-	<p>True healing takes place when one lets go of form and comes to rest on formless.</p>
+	<p>True healing takes place when one lets go of form and comes to rest on the formless.</p>
 	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
 </blockquote>
 
