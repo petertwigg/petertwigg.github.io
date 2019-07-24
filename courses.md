@@ -5,8 +5,6 @@ feature_image: "https://picsum.photos/1300/400?image=984"
 feature_text: 
 ---
 
-Meditation Courses 
-
 Tips, Techniques & Contect to Improve Your Meditation Experience
 
 In this 3 hour course we examine key processes to help improve your meditation experience. We provide necessary context to understand what is happening in your meditation.
