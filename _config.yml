@@ -37,8 +37,10 @@ navigation_header:
   url: /
 - title: Meditation
   url: /meditation/
+- title: Meditation Courses
+  url: /courses/
 - title: Events
-  url: /Events/
+  url: /events/
 - title: Sessions
   url: /sessions/
 - title: Testimonials
