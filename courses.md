@@ -19,4 +19,4 @@ Includes:
 * Meditation practices togther.
 * Opportunities to ask specific questions about your meditation process.
 
-[Check events near you and register here](https://petertwigg.com/events.md)
+[Check events near you and register here](/events)
