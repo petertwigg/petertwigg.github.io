@@ -9,12 +9,10 @@ Below is an outline of the techniques, methodologies and approaches used when wo
 
 * [Meditation](#meditation)
 * [Working with Your Potential](#working-with-your-potential)
+* ["Achieving Direct Experience"](#achieving-direct-experience) I talk about desired outcomes of the sessions from your perspective.
+* Learn about ["Techniques and Modalities"](#techniques-and-modalities) to how I work with clients to achieve their desired outcomes.
+*["About sessions"](#sessions) will provide information to questions of "how to book sessions", "my privacy policy", "session fees" and "cancellation conditions".
 
-In ["Achieving Direct Experience"](#achieving-direct-experience) I talk about desired outcomes of the sessions from your perspective.
-
-Read ["Techniques and Modalities"](#techniques-and-modalities) to learn about how I work with clients to achieve their desired outcomes.
-
-In ["About sessions"](#sessions) you will find answers to the questions of "how to book sessions", "my privacy policy", "session fees" and "cancellation conditions".
 
 #### Meditation
 Many people recognise the benefits meditation bring to their lives.
