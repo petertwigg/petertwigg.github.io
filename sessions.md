@@ -14,7 +14,7 @@ Below is an outline of the techniques, methodologies and approaches used when wo
 *["About sessions"](#sessions) will provide information to questions of "how to book sessions", "my privacy policy", "session fees" and "cancellation conditions".
 
 
-#### Meditation
+## Meditation
 Many people recognise the benefits meditation bring to their lives.
 
 On trying however people soon give up saying 'it's too hard' or 'I tried that...'. Often, a few simple adjustments to their technique brings amazing results. My website and social media host videos showing how to improve your meditation. I also offer one on one sessions to help with your meditation process. This can be done over the internet or in person.
