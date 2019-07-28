@@ -10,15 +10,13 @@ I have been meditating for over 35 years and had the privilege of teaching medit
 I also employ techniques of meditation to bring about health, healing and transformation in conjunction with homeopathy and naturopathy. Some of the outcomes of my work include resolving emotional blockages, restoring health so you are free to be yourself. Achieving more of your potential and helping you to recognise your true nature are key benchmarks to changing. 
 
 #### Working with Peter
-
 Grounded in long-time meditation and healing practices, I offer the following services:
-* Refer to the [My Meditation Channel](/video) page for video content to improve your meditation experience and discuss many aspects of meditation.
+* Refer to [My Meditation Channel](/video) page for video content to improve your meditation experience and discuss many aspects of meditation.
 * Meditation courses for groups and individuals, [learn more...](/events)
 * One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
 * Counselling, [learn more...](/sessions/#counselling)
 
 #### Expertise
-
 In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
 
 <blockquote class="photo">
@@ -31,9 +29,9 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 I have been a practicing homeopath and naturopath for over 29 years. I've led retreats, workshops and trainings in meditation and self-development and given public lectures on various self-development and meditation related topics in Australia, Asia, Europe and the USA. I have been practicing meditation based techniques since 1988 and I graduated as a naturopath and homeopath in 1990.
 
 ####Videos on Meditation
-Since starting my meditation path, I have spoken with many people looking for answers in meditation to many of the questions life brings up. I've also spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/video/) or go directly to [YouTube.com](https://youtube.comXXX)
+I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/video/) or go directly to [YouTube.com](https://youtube.comXXX)
 
-#### Meditation Techniques in Life
+#### Meditation Techniques in life
 Meditation offers a pathway of self exploration  
 that closely integrates physical, mental and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. Improved presence comes from increased mindfulness and a certain freedom from the vexations of the modern world. 
 
