@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Process & Sessions
-feature_image: "https://picsum.photos/1300/400?image=984"
+feature_image: "images/kyrenia-03-1600.jpg"
 feature_text: 
 ---
 
-Below is an outline of the techniques, methodologies and approaches I use when working with clients in the context of healing and emotional release.
+Below is an outline of the techniques, methodologies and approaches I use when working with clients with context to healing and emotional release.
 
 * [Meditation](#meditation)
 * [Working with Your Potential](#working-with-your-potential)
