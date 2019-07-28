@@ -27,6 +27,15 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
 </blockquote>
 
+#### Working with Peter
+
+Grounded in long-time meditation and healing practices, the following modalities are currently being offered to my clients:
+
+* Refer to the [My Meditation Channel](/video) page for video content to improve your meditation experience and discuss many aspects of meditation.
+* Meditation courses for groups and individuals, [learn more...](/events)
+* One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
+* Counselling, [learn more...](/sessions/#counselling)
+
 I have been a practicing homeopath and naturopath for over 29 years. I've led retreats, workshops and trainings in meditation and self-development and given public lectures on various self-development and meditation related topics in Australia, Asia, Europe and the USA. I have been practicing meditation based techniques since 1988 and I graduated as a naturopath and homeopath in 1990.
 
 Since starting my meditation path, I have spoken with many people looking for answers in meditation to many of the questions life brings up. I have spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/meditation/) or go directly to [YouTube.com](https://youtube.com)
