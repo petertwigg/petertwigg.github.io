@@ -32,8 +32,7 @@ I have been a practicing homeopath and naturopath for over 29 years. I've led re
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/video/) or go directly to [YouTube.com](https://youtube.comXXX)
 
 #### Meditation Techniques
-Meditation offers a pathway of self exploration  
-that closely integrates physical, mental and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. Improved presence comes from increased mindfulness and a certain freedom from the vexations of the modern world. 
+Meditation offers a pathway of self exploration that closely integrates physical, mental and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. Improved presence comes from increased mindfulness and a certain freedom from the vexations of the modern world. 
 
 Engaging a strong meditation practice also brings an expanded awareness of states of consciousness, the nature of your mind, healing, harmony and release from emotional blockages.
 
