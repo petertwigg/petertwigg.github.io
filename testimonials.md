@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Client testimonials
-feature_image: "https://picsum.photos/1300/400?image=1037"
+feature_image: "/images/peter-meditating-1600.jpg"
 feature_text:
 ---
 
