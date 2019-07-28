@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Peter
-feature_image: "/images/sunset-kyrenia-1600.jpg"
+feature_image: "/images/kyrenia-03-1600.jpg"
 feature_text:
 ---
 
