@@ -9,7 +9,6 @@ Below is an outline of the techniques, methodologies and approaches used when wo
 
 * [Meditation](#meditation)
 * [Working with Your Potential](#working-with-your-potential)
-* 
 
 In ["Achieving Direct Experience"](#achieving-direct-experience) I talk about desired outcomes of the sessions from your perspective.
 
@@ -88,7 +87,7 @@ Often, metaphysical components of my work will engage at different times during 
 #### What happens during an IST session?
 The client lies down comfortably on a mattress with eyes closed and the therapist sits by his or her side. The therapist guides the client into a meditative state. Once in this meditative state, a state of enhanced 'vision' unfolds where the clients feels and sees things in their own consciousness with increased sensitivity and awareness. An example of this may be experiencing emotions as forms or waves in consciousness, re-experiencing past events such as events from childhood or past lives with vivid sensory details, seeing blockages in the body of energy, experiencing spaces of consciousness or feeling an enhanced sense of 'self'. At times there may be release of emotions, allowing openings and deeper realisations to occur. Due to the nature of the inner space, this can occur in a fluid and untraumatic way.
 
-Whilst in the meditative state, the therapist asks the client questions about their experiences and an interactive space is engaged in order to help the client move deeper to the source of experiences. IST often involves a somatic component where the therapist presses a spot (depending where it is) on the client's body. This helps the client connect to emotions and sensations in the body related to issues being worked on. At all times the client is conscious and has control over the process. If the client wishes to return to a normal state of consciousness they only have to open their eyes. IST sessions usually last for up to 1.5 - 2 hours.
+Whilst in the meditative state, the therapist asks the client questions about their experiences and an interactive space is engaged in order to help the client move deeper to the source of experiences. IST often involves a somatic component where the therapist presses a spot (depending where it is) on the client's body. This helps the client connect to emotions and sensations in the body related to issues being worked on. At all times the client is conscious and has control over the process. If the client wishes to return to a normal state of consciousness they only have to open their eyes. IST sessions usually last for 1.5 hours.
 
 For more information see: Sagan, S. Regression: Past Life Therapy for Here and Now Freedom - Available from [www.clairvision.org](www.clairvision.org) or order through Amazon.
 
@@ -124,7 +123,6 @@ Geopathic stress has been implicated in a variety of conditions such as cancer, 
 Common reactions when sleeping in areas of geopathic stress are waking up feeling tired, irritability, nightmares and bad sleep patterns. There is enough evidence to suggest that for people suffering from various forms of illness or bad sleeping patterns, dowsing for earth lines and moving the location where you sleep will help to aid healing processes.
 
 #### About sessions
-Answering the most important questions.
 
 ##### Where to from here?
 The first thing to do is contact Peter by telephone or e-mail, ask questions you have about the processes and how he might be able to help you. Then, if you wish, you can make an appointment.
