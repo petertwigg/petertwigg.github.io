@@ -11,9 +11,9 @@ I also employ techniques of meditation to bring about health, healing and transf
 
 #### Working with Peter
 
-Grounded in long-time meditation and healing practices, the following modalities are currently being offered to my clients:
-
-* Meditation courses for groups and individuals, [learn more...](/sessions/#meditation)
+Grounded in long-time meditation and healing practices, I offer the following services:
+* Refer to the [My Meditation Channel](/video) page for video content to improve your meditation experience and discuss many aspects of meditation.
+* Meditation courses for groups and individuals, [learn more...](/events)
 * One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
 * Counselling, [learn more...](/sessions/#counselling)
 
@@ -27,22 +27,17 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
 </blockquote>
 
-#### Working with Peter
-
-Grounded in long-time meditation and healing practices, the following modalities are currently being offered to my clients:
-
-* Refer to the [My Meditation Channel](/video) page for video content to improve your meditation experience and discuss many aspects of meditation.
-* Meditation courses for groups and individuals, [learn more...](/events)
-* One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
-* Counselling, [learn more...](/sessions/#counselling)
-
+####About Peter
 I have been a practicing homeopath and naturopath for over 29 years. I've led retreats, workshops and trainings in meditation and self-development and given public lectures on various self-development and meditation related topics in Australia, Asia, Europe and the USA. I have been practicing meditation based techniques since 1988 and I graduated as a naturopath and homeopath in 1990.
 
-Since starting my meditation path, I have spoken with many people looking for answers in meditation to many of the questions life brings up. I have spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/meditation/) or go directly to [YouTube.com](https://youtube.com)
+####Videos on Meditation
+Since starting my meditation path, I have spoken with many people looking for answers in meditation to many of the questions life brings up. I've also spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/video/) or go directly to [YouTube.com](https://youtube.comXXX)
 
-#### Meditation Techniques
+#### Meditation Techniques in Life
+Meditation offers a pathway of self exploration  
+that closely integrates physical, mental and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. Improved presence comes from increased mindfulness and a certain freedom from the vexations of the modern world. 
 
-Using meditation techniques offers a pathway of self exploration that closely integrates physical and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. It covers a wide range of applications from increased mindfulness, regression and freedom from physical and mental health problems. 
+Engaging a strong meditation practice also brings an expanded awareness of states of consciousness, the nature of your mind, healing, harmony and release from emotional blockages.
 
 Techniques involve meditation practice, IST — Inner Space Techniques of consciousness (therapeutic cognitive processes) to bring healing and harmony, work with death, bereavement and release from emotional blockages. Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world whilst being open to higher dimensions of yourself.
 
