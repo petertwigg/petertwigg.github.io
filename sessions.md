@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Process & Sessions
-feature_image: "images/kyrenia-03-1600.jpg"
+feature_image: "images/kyrenia-01-1600.jpg"
 feature_text: 
 ---
 
@@ -23,7 +23,7 @@ There are many health benefits associated with meditation such as lowering blood
 
 Sometimes the cause of your meditation difficulties lie at a deeper cause and we employ other techniques to resolve the blocking issue. My aim in working with you is to help you move into a deeper meditative state where alignment and harmonising of mind, body and soul takes place.
 
-Listed below is a brief overview of some of the processes I employ along with information on how sessions work.
+Listed below is a brief overview of some of the processes I employ along with information on how sessions work:
 
 #### Working at the Source
 Working at the source simply means working with causes rather than symptoms.
