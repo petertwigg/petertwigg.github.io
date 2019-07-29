@@ -28,3 +28,6 @@ Then to run locally type:
 After site is built, navigate to:
 
 `http://127.0.0.1:4000/`
+
+If `_config.yml` changed, restart Jekyll. To stop press `Ctrl-C`
+

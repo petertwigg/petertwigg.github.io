@@ -36,19 +36,20 @@ navigation_header:
 - title: Home
   url: /
 - title: My Meditation Channel
-  url: /video/
+  url: /my-meditation-channel/
 - title: Courses
   url: /courses/
 - title: Events
   url: /events/
+- title: Blog
+  url: /blog/
 - title: Sessions
   url: /sessions/
 - title: Testimonials
   url: /testimonials/
 - title: Contact
   url: /contact/
-#- title: Blog
-#  url: /blog/
+
 
 # Footer nav
 navigation_footer:
@@ -60,7 +61,6 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
-    feature_text: |
-      Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=976"
+    description: "Comments on Meditation"
+    feature_text: 
+    feature_image: "https://picsum.photos/2560/600?image=970"
