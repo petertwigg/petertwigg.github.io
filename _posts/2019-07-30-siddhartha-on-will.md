@@ -10,9 +10,6 @@ feature_image:
 
 > ~ Siddhartha by Herrmann Hess 
 
-> #soul #magic #goals #perform #meditation #mindfulness
-
-
 <img src="/images/kyrenia-02-1600.jpg" width="200"></p>
 
 
