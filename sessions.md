@@ -13,7 +13,6 @@ Below is an outline of the techniques, methodologies and approaches I use when w
 * Learn about ["Techniques and Modalities"](#techniques-and-modalities) to how I work with clients to achieve their desired outcomes.
 *["About sessions"](#sessions) will provide information to questions of "how to book sessions", "my privacy policy", "session fees" and "cancellation conditions".
 
-
 ### Meditation
 Many people recognise the benefits meditation bring to their lives.
 
