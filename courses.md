@@ -5,7 +5,7 @@ feature_image: "/images/kyrenia-02-1600.jpg"
 feature_text: 
 ---
 
-##Tips, Techniques & Context to Improve Your Meditation Experience
+## Tips, Techniques & Context to Improve Your Meditation Experience
 
 In this 3 hour course we examine key processes to help improve your meditation experience. We provide necessary context to understand what is happening in your meditation.
 
