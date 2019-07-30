@@ -20,3 +20,4 @@ Includes:
 * Opportunities to ask specific questions about your meditation process.
 
 [Check events near you and register here](/events)
+______________________________________
