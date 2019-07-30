@@ -11,6 +11,6 @@ When you feel this, let yourself open to this peace. Let yourself expand beyond 
 
 And if you feel inclined, inside yourself, offer your thanks for whatever is relevant in your life at that moment. Stay with the experience until the moment passes.   #mindfulness #experiences #peace #meditation #opening
 <center>
-	<p><img src="/images/IMG_0583.jpg" width="200"></p>
+	<p><img src="/images/img_0583.jpg" width="200"></p>
 </center>
-__________________________________________
+______________________________________________
