@@ -1,6 +1,7 @@
 ---
 layout: post
-title: <center>Meditation Experiences §2</center>
+title: <center>Meditation Experiences §2
+</center>
 categories:
 - General
 feature_image: 
