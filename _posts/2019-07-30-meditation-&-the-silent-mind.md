@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Meditation Experiences §2
+title: <center>Meditation & the Silent Mind
 </center>
 categories:
 - General

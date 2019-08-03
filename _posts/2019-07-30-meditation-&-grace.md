@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Meditation Experiences §1</center>
+title: <center>Meditation & Grace</center>
 categories:
 - General
 feature_image: 
@@ -11,6 +11,6 @@ When you feel this, let yourself open to this peace. Let yourself expand beyond 
 
 And if you feel inclined, inside yourself, offer your thanks for whatever is relevant in your life at that moment. Stay with the experience until the moment passes.   #mindfulness #experiences #peace #meditation #opening
 <center>
-	<p><img src="/images/img_0583.jpg" width="200"></p>
+<img src="/images/img_0583.jpg" width="200">
 </center>
 ______________________________________________
