@@ -6,7 +6,6 @@ categories:
 - General
 feature_image: 
 ---
-
 Meditation is promoted as a path to achieving a silent mind. What a relief to be able to stop the mind chatter!
 
 In truth however, achieving a silent mind (not always a simple task btw) is one that brings immense benefits. It’s part of the alignment between your body, mind and metaphysical self that takes place when you engage in a consistent meditation practice.
