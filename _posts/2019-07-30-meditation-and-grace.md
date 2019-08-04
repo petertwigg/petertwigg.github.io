@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Meditation & Grace</center>
+title: Meditation & Grace
 categories:
 - General
 feature_image: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Siddhartha on Will</center>
+title: Siddhartha on Will
 categories:
 - General
 feature_image: 

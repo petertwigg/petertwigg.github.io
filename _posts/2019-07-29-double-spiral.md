@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Double Spiral Helix</center>
+title: Double Spiral Helix
 categories:
 - General
 feature_image: 

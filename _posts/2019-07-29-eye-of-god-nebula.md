@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <center>Eye of God Nebula</center>
+title: Eye of God Nebula
 categories:
 - General
 feature_image: 

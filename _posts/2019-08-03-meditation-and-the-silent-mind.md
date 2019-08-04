@@ -1,7 +1,6 @@
 ---
 layout: post
-title: <center>Meditation & the Silent Mind
-</center>
+title: Meditation & the Silent Mind
 categories:
 - General
 feature_image: 
