@@ -15,5 +15,6 @@ When that alignment occurs you experience many rewards, as byproducts, including
 
 The more you practice meditation, the more you sharpen the mind. The more you cut through extraneous thoughts. And with all of this, comes a certain fullness, a kind of being where you are no longer perturbed by life’s travails.
 
----
+<hr>
+
 
