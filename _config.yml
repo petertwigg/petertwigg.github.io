@@ -61,6 +61,6 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "Comments on Meditation"
+    description: "Tips, Techniques & Context to Improve your Meditation"
     feature_text: 
     feature_image: "https://picsum.photos/2560/600?image=970"
