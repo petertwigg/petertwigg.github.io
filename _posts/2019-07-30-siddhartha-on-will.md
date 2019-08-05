@@ -12,6 +12,6 @@ This is what Siddhartha has learned among the Samanas. This is what fools call m
 
 > ~ Siddhartha by Herrmann Hess 
 
-{% include figure.html image="/images/{% include figure.html image="/images/chalice-0588.jpg" caption="Bufovento Mountain Views, Cyprus" width="200" %} 
+{% include figure.html image="/images/{% include figure.html image="/images/kyrenia-02-1600.jpg" caption="Bufovento Mountain Views, Cyprus" width="200" %} 
 
 ---
