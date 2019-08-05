@@ -27,7 +27,5 @@ In days gone by, people recognised that we were once like angels that had become
 <center>
 	<p><img src="/images/angel-on-earth.jpg" width="200"></p>
 </center>
-
-__________________________________________
-
+_________________________________________
 
