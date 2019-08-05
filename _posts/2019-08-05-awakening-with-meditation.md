@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-Some meditation processes suggest that attaining a silent or empty mind is the outcome of engaging in a meditation practice. The Holy Grail of meditation you may say. The focus of achieving a silent mind is centred around the brain and measurable brain waves.
+Some meditation processes suggest that attaining a silent or empty mind is the outcome of engaging in a meditation practice. The Holy Grail of meditation you may say. The  focus of achieving a silent mind is centred around the brain and measurable brain waves.
 
 This focus is a form of scientific rationalism where improved brain and body measurements are some sort of result of meditation. It places the brain and attendant electro-chemical impulses at the peak of the human experience.
 
