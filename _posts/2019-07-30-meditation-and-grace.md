@@ -13,4 +13,6 @@ And if you feel inclined, inside yourself, offer your thanks for whatever is rel
 <center>
 <img src="/images/img_0583.jpg" width="200">
 </center>
-______________________________________________
+{% include figure.html image="/images/angel-with-flowers-0583.jpg" caption="Angel with Flowers" width="200" %}
+---
+
