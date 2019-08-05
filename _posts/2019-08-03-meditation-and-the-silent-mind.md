@@ -9,9 +9,7 @@ Meditation is promoted as a path to achieving a silent mind. What a relief to be
 
 In truth however, achieving a silent mind (not always a simple task btw) is one that brings immense benefits. It’s part of the alignment between your body, mind and metaphysical self that takes place when you engage in a consistent meditation practice.
 
-<center><footer><small>The Chalice</small></footer>
-<img src="/images/img_0588.jpg" width="200">
-</center>
+<center><small>The Chalice</small><br><img src="/images/chalice-0588.jpg" width="200"></center>
 
 When that alignment occurs you experience many rewards, as byproducts, including health improvements, clearer thinking, freedom from anxieties and a stronger sense of self.
 
