@@ -18,4 +18,3 @@ Meditators on the other hand want to cultivate that Fire. The burning is like a 
 
 So yes, meditation, as a byproduct may bring you stress relief, or freedom from anxiety or other ailments. But also know meditation is much, much more. It is a pathway to high states of consciousness. It can become addictive. The positive kind of addiction that steps toward becoming the totality of who you can be.
 ---
-
