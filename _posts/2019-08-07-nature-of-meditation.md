@@ -4,6 +4,7 @@ title: The Nature of Meditation
 categories:
 - General
 feature_image:
+---
 
 People view meditation as a means to find relaxation, relief from anxiety, stress, depression or other ailments. This view is a form of spiritual materialism. It is simply not true. If anything, these rewards are the byproduct of maintaining a meditation practice. The riches of meditation lie elsewhere.
 
