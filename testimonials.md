@@ -9,6 +9,12 @@ Some feedback from my clients...
 
 ## Testimonials from clients who have worked with Peter Twigg
 
+> Highly recommended. Whether you are new to meditative practices or not. You will amazing experiences and your life will be richer for it. Do it!
+> <footer>Retiree, Oberon, NSW, Australia</footer>
+
+> Peter is one of best trained therapists and instructors for meditational techniques, I've known and worked with.
+> <footer>Self-employed, Zalec, Slovenia</footer>
+
 > Working with you [Peter] moves me deeply. Scenarios or constructs have no place as issues are approached from the core, in a profoundly intense spiritual space. I am eternally grateful for your humanity, guidance and compassion in this journey towards transformation.  
 > <footer>Business Owner and Mother, London, UK</footer>
 
