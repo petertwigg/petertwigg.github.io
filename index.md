@@ -11,7 +11,7 @@ I also employ techniques of meditation to bring about health, healing and transf
 
 ### Working with Peter
 Grounded in long-time meditation and healing practices, I offer the following services:
-* Refer to [My Meditation Channel](/video) page for video content to improve your meditation experience and discuss many aspects of meditation.
+* Refer to [My Meditation Channel](/my-meditation-channel) page for video content to improve your meditation experience and discuss many aspects of meditation.
 * Meditation courses for groups and individuals, [learn more...](/events)
 * One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
 * Counselling, [learn more...](/sessions/#counselling)
@@ -29,7 +29,7 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 I have been a practicing homeopath and naturopath for over 29 years. I've led retreats, workshops and trainings in meditation and self-development and given public lectures on various self-development and meditation related topics in Australia, Asia, Europe and the USA. I have been practicing meditation based techniques since 1988 and I graduated as a naturopath and homeopath in 1990.
 
 ### Videos on Meditation
-I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/video/) or go directly to [YouTube.com](https://youtube.comXXX)
+I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/my-meditation-channel) or go directly to [YouTube.com](https://https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
 ### Meditation Techniques
 Meditation offers a pathway of self exploration that closely integrates physical, mental and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. Improved presence comes from increased mindfulness and a certain freedom from the vexations of the modern world. 
