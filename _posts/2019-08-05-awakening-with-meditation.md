@@ -25,6 +25,7 @@ That returning home of your consciousness is what allows an alignment of your bo
 In days gone by, people recognised that we were once like angels that had become mired in clay. Through meditation we shake off the dross of the world and raise our vibration. We align our bodies, our minds and our higher selves. We awaken. From this awakened standpoint we can begin to know every level of ourselves from our body to the most ethereal. Once again we can find our angel nature.
 
 {% include figure.html image="/images/angel-on-earth.jpg" caption="Angel on Earth" width="200" %}
+
 ---
 
 
