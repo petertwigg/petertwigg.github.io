@@ -10,6 +10,6 @@ These videos are designed to address different aspects of meditation so that you
 ## The One Rule of Meditation
 {% include video.html id="uRep6giNcv8" title="The One rule of Meditation" %}
 
-In this video we discuss the One Rule of Meditation, which can save a lot of pain and expense with your knees.
+#### In this video we discuss the One Rule of Meditation, which can save a lot of pain and expense with your knees.
 ---
 
