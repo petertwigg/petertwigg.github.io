@@ -3,6 +3,7 @@ title: Meditation Based Cognitive Therapies & Practices
 layout: page
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:
+aside: true
 ---
 
 I have been meditating for over 35 years and had the privilege of teaching meditation in workshops and private practice all around the world.

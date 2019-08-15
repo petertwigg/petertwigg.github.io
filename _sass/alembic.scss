@@ -28,6 +28,22 @@ nav {
 	}
 }
 
+aside {
+	nav.nav.nav--social {
+		a {
+			color: $socialIcons;
+		}
+		a:hover {
+			color: $socialIconsLighter;
+		}
+	}
+
+	.section.section--description {
+		border-left: 1px solid gray;
+    	padding-left: 1em;
+	}
+}
+
 .button.button--nav {
 	color: lightgray;
 }
