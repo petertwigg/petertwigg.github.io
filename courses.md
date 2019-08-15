@@ -3,6 +3,7 @@ layout: page
 title: Courses
 feature_image: "/images/kyrenia-02-1600.jpg"
 feature_text: 
+aside: true
 ---
 
 ### Tips, Techniques & Context to Improve Your Meditation Experience
