@@ -3,6 +3,7 @@ layout: page
 title: Client testimonials
 feature_image: "/images/kyrenia-02-1600.jpg"
 feature_text:
+aside: true
 ---
 
 Some feedback from my clients...
