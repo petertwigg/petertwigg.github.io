@@ -16,7 +16,7 @@ All three Gunas are present in all beings and objects surrounding us but vary in
 
 {% include figure.html image="/images/meditation-group.jpg" caption="Seriously Professional Meditation Group" width="200" %}
 
-### The Three Gunas
+#### The Three Gunas
 
 Tamas is a state of darkness, inertia, inactivity and materiality. It’s a feeling of being wiped out, hungover, lethargic. Traditionally it’s said that tamas manifests from ignorance and deludes all beings from their spiritual truths.
 
@@ -28,7 +28,7 @@ To reduce rajas avoid rajasic foods, over exercising, over work, loud music, exc
 
 Sattva is a state of harmony, balance, joy and intelligence. Sattva is the Guna that meditators and yogi/nis strive towards as it reduces rajas and tamas and thus makes higher states of consciousness including ‘liberation’ possible.
 
-### Working with the Gunas
+#### Working with the Gunas
 
 To increase sattva reduce both rajas and tamas, eat sattvic foods and enjoy activities and environments that produce joy and positive thoughts. Sattvic foods include whole grains and legumes and fresh fruits and vegetables that grow above the ground.
 
