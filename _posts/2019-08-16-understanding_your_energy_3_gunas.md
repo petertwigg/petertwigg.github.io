@@ -14,7 +14,6 @@ These three Gunas are called Tamas (darkness, destructiveness, lethargy, chaos);
 
 All three Gunas are present in all beings and objects surrounding us but vary in their impact. We humans have the unique ability to consciously change the level of state of the Gunas in our bodies and mind. This is an act of will. The Gunas are a natural part of our psyche and form a rhythym as our bodies and minds each cycle through the three Gunas. They cannot be taken out of our psyche but we can learn to observe them inside ourselves and adjust their impact on us.
 
-
 {% include figure.html image="/images/meditation-group.jpg" caption="Seriously Professional Meditation Group" width="200" %}
 
 ### The Three Gunas
@@ -51,7 +50,7 @@ All gunas create attachment and thus bind one’s self to the ego. Tamas to the 
 
 > “When one rises above the three gunas that originate in the body; one is freed from birth, old age, disease, and death; and attains enlightenment” (Bhagavad Gita 14.20).
 
-### Reflection
+#### Reflection
 
 While the goal is to cultivate sattva, our ultimate goal is to transcend their misidentification of the self with each of the gunas and to be unattached to both the good and the bad, the positive and negative qualities of all life.
 
