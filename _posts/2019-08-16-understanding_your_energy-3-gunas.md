@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Your Energy - the Three Gunas Model
+title: Understanding Your Energy - Three Gunas Model
 categories:
 - Context
 feature_image:
@@ -15,7 +15,7 @@ These three Gunas are called Tamas (darkness, destructiveness, lethargy, chaos);
 All three Gunas are present in all beings and objects surrounding us but vary in their impact. We humans have the unique ability to consciously change the level of state of the Gunas in our bodies and mind. This is an act of will. The Gunas are a natural part of our psyche and form a rhythym as our bodies and minds each cycle through the three Gunas. They cannot be taken out of our psyche but we can learn to observe them inside ourselves and adjust their impact on us.
 
 
-{% include figure.html image="/images/XXXX.jpg" caption="Fire" width="200" %}
+{% include figure.html image="/images/meditation-group.jpg" caption="Seriously Professional Meditation Group" width="100" %}
 
 Tamas is a state of darkness, inertia, inactivity and materiality. It’s a feeling of being wiped out, hungover, lethargic. Traditionally it’s said that tamas manifests from ignorance and deludes all beings from their spiritual truths.
 
