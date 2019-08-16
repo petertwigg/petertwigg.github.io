@@ -18,6 +18,7 @@ All three Gunas are present in all beings and objects surrounding us but vary in
 {% include figure.html image="/images/meditation-group.jpg" caption="Seriously Professional Meditation Group" width="100" %}
 
 ### The Three Gunas
+
 Tamas is a state of darkness, inertia, inactivity and materiality. It’s a feeling of being wiped out, hungover, lethargic. Traditionally it’s said that tamas manifests from ignorance and deludes all beings from their spiritual truths.
 
 To help reduce tamas avoid tamasic foods, over sleeping, over eating, over drinking, inactivity, passivity and fearful situations. Light exercise is one way to overcome tamas assuming the body is already rested. Tamasic foods include heavy meats, and foods that are spoiled, chemically treated, processed or refined.
