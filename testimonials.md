@@ -10,6 +10,9 @@ Some feedback from my clients...
 
 ## Testimonials from clients who have worked with Peter Twigg
 
+> Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
+> <footer> Doctor, Sydney, NSW, Australia</footer>
+
 > Highly recommended. Whether you are new to meditative practices or not. You will have amazing experiences and your life will be richer for it. Do it!
 > <footer>Retiree, Oberon, NSW, Australia</footer>
 

@@ -5,5 +5,5 @@ feature_image: "/images/kyrenia-03-1600.jpg"
 feature_text: 
 ---
 
-Forthcoming Courses & Events
+Courses & Events
  
