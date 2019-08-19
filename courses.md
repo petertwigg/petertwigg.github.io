@@ -8,7 +8,7 @@ aside: true
 
 #### Tips, Techniques & Context to Improve Your Meditation Experience
 
-* Assumes you have already tried meditation or have a regular meditation practice and want to know more.
+* Assumes you have already tried meditation or have a regular meditation practice and want to build on your experience.
 
 In this 3 hour course we examine key processes to help improve your meditation experience. We provide necessary context to understand what is happening in your meditation.
 
@@ -17,17 +17,18 @@ Includes:
 * The importance of right posture.
 * Where & when you meditate.
 * A typical meditation practice.
-* Understanding how your body, mind and metaphysical dimensions work together.
+* Understand how your body, mind and metaphysical dimensions work together.
 * Dealing with aches, pains & emotions coming up in meditation.
+* States & experiences in meditation.
 * Meditation practices togther.
 * Opportunities to ask specific questions about your meditation process.
-* We will be engaging in meditation practices together.
+* Note we will be engaging in meditation practices together.
 
 [Check events near you and register here](/events)
 
 _________________________________________________________________
 
-#### Starting Meditation
+#### Introducing Meditation
 
 * For people wishing to start a meditation practice. 
 
@@ -39,13 +40,16 @@ Includes:
 * Where & when you meditate.
 * Your meditation device.
 * A typical meditation practice.
-* Understanding how your body, mind and metaphysical dimensions work together.
+* Understand how your body, mind and metaphysical dimensions work together.
 * Dealing with aches, pains & emotions coming up in meditation.
 * Plenty of time will be given to practice meditation togther.
 * Opportunities to ask specific questions about your meditation process.
+* Note we will be engaging in meditation practices together.
 
 [Check events near you and register here](/events)
 
-__________________________________
+__________________________________________________________________
+
+
 
 
