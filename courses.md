@@ -50,6 +50,28 @@ Includes:
 
 __________________________________________________________________
 
+#### Meditation for Health
+
+* For people experiencing health issues involving anxiety, stress, asthma, or a low level of wellbeing. 
+
+In this 1.5 hour course we provide the key elements to help you deal with health issues from a meditation perspective. We also provide some simple models to help you understand your meditation experience and what will indicate your meditation is working.
+
+Includes: 
+* The importance of right posture.
+* Where & when you meditate.
+* Your meditation device.
+* When and how to use mmeditation to deal with health issues.
+* A typical meditation practice.
+* Understand how your body, mind and metaphysical dimensions work together.
+* Plenty of time will be given to practice meditation togther.
+* Opportunities to ask specific questions about your meditation process.
+* Note we will be engaging in meditation practices together.
+
+[Check events near you and register here](/events)
+
+
+--- 
+
 
 
 
