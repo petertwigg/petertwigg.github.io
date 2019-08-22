@@ -24,7 +24,7 @@ Includes:
 * Opportunities to ask specific questions about your meditation process.
 * Note we will be engaging in meditation practices together.
 
-[Check events near you and register here](/events)
+[Check events near you and register here](/events) Cost: $50.00
 
 _________________________________________________________________
 
@@ -46,7 +46,7 @@ Includes:
 * Opportunities to ask specific questions about your meditation process.
 * Note we will be engaging in meditation practices together.
 
-[Check events near you and register here](/events)
+[Check events near you and register here](/events) Cost: $50.00
 
 __________________________________________________________________
 
@@ -67,7 +67,7 @@ Includes:
 * Opportunities to ask specific questions about your meditation process.
 * Note we will be engaging in meditation practices together.
 
-[Check events near you and register here](/events)
+[Check events near you and register here](/events) Cost: $50.00 
 
 
 --- 
