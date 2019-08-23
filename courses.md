@@ -8,7 +8,7 @@ aside: true
 
 #### Tips, Techniques & Context to Improve Your Meditation Experience
 
-* Assumes you have already tried meditation or have a regular meditation practice and want to build on your experience.
+Assumes you have already tried meditation or have a regular meditation practice and want to build on your experience.
 
 In this 3 hour course we examine key processes to help improve your meditation experience. We provide necessary context to understand what is happening in your meditation.
 
@@ -30,7 +30,7 @@ _________________________________________________________________
 
 #### Introducing Meditation
 
-* For people wishing to start a meditation practice. 
+For people wishing to start a meditation practice. 
 
 In this 3 hour course we provide the key elements to help you on your meditation path. We also provide some simple models to help you understand your meditation experience.
 
@@ -52,7 +52,7 @@ __________________________________________________________________
 
 #### Meditation for Health
 
-* For people experiencing health issues involving anxiety, stress, asthma, or a low level of wellbeing. 
+For people experiencing health issues involving anxiety, stress, asthma, or a low level of wellbeing. 
 
 In this 1.5 hour course we provide the key elements to help you deal with health issues from a meditation perspective. We also provide some simple models to help you understand your meditation experience and what will indicate your meditation is working.
 
