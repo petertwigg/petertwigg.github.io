@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-Meditation is the vehicle which helps your consciousness seeking to return to it’s source. 
+Meditation is the vehicle which helps your consciousness seeking to return to its source. 
 
 Your consciousness seeks to know itself. That quest to know itself is played out in every human, even though we may not know that. It comes as a search for truth in part.
 
