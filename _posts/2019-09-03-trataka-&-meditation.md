@@ -42,6 +42,7 @@ Swami Satyananda Saraswati: Asana Pranayama Mudra Bandha Dr. Sagan, Samuel: Awak
 
 {% include figure.html image="/images/trataka-flame.jpg" caption="Trataka Candle Gazing" width="200" %}
 
+
 ---
 
 
