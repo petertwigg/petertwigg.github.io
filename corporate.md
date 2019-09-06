@@ -7,7 +7,7 @@ feature_text:
 
 For your company event, workshop or personnel needs.
 
-* If your company seeks to implement a corporate meditation program for its employees.
+* If your company seeks to implement a corporate meditation program for your employees.
 
 * If you wish to discuss the benefits meditation may provide your empoyees.
 
