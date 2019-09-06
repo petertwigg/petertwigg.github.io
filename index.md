@@ -14,7 +14,7 @@ I also employ techniques of meditation to bring about health, healing and transf
 Grounded in long-time meditation and healing practices, I offer the following services:
 * Refer to [My Meditation Channel](/my-meditation-channel) page for video content to improve your meditation experience and discuss many aspects of meditation.
 * Meditation courses for groups and individuals, [learn more...](/events)
-* Corporate meditation training programs.
+* Corporate meditation training programs [learn more...](/corporate).
 * One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
 * Counselling, [learn more...](/sessions/#counselling)
 
