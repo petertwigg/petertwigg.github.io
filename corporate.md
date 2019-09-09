@@ -14,4 +14,5 @@ For your company event, workshop or personnel needs.
 * If you wish to discuss the benefits meditation may provide your empoyees.
 
 Please contact Peter Twigg directly 
-on +61 450976441 or email at: info@petertwigg.com 
+on +61 450976441 or email: [info@petertwigg.com](mailto:info@petertwigg.com) 
+
