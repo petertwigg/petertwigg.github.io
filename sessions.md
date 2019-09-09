@@ -19,7 +19,7 @@ Many people recognise the benefits meditation bring to their lives.
 
 On trying however people soon give up saying 'it's too hard' or 'I tried that...'. Often, a few simple adjustments to their technique brings amazing results. My website and social media host videos showing how to improve your meditation. I also offer one on one sessions to help with your meditation process. This can be done over the internet or in person.
 
-There are many health benefits associated with meditation such as lowering blood pressure, relaxation, controlling stress, experiencing more positive emotions, increased immunity to disease. Meditation has also been proven to help various conditions such as depression and anxiety. But the essence of meditation is an internalisation of your consciousness. Meditation allows you to establish a deeper connection with your self on a daily basis.
+There are many health well documented benefits associated with meditation such as lowering blood pressure, relaxation, controlling stress, experiencing more positive emotions, increased immunity to disease. Meditation has also been proven to help various conditions such as depression and anxiety. But the essence of meditation is an internalisation of your consciousness. Meditation allows you to establish a deeper connection with your self on a daily basis.
 
 Sometimes the cause of your meditation difficulties lie at a deeper cause and we employ other techniques to resolve the blocking issue. My aim in working with you is to help you move into deeper meditative states where alignment and harmonising of mind, body and soul takes place.
 
@@ -37,9 +37,9 @@ Working at the source does not mean living in the past. It means working on thin
 
 ### Working with Your Potential
 
-Human beings have much more potential than they realise. The style of work I practice involves processes that are designed to put clients in touch with inner aspects of themselves. Clients experience parts of themselves that are more joyful, awake and knowing, aspects that have an innate self-healing capacity, and that can help clients move beyond mental and emotional limitations that hold them back in life. These inner aspects of human consciousness are not abstract qualities but have a direct relation to who people are and what they are able achieve in their daily lives.
+Human beings have much more potential than they realise. The style of work I practice involves processes that are designed to put clients in touch with inner aspects of themselves. Clients experience parts of themselves that are more joyful, awake and knowing, aspects that have an innate self-healing capacity, and that can help you move beyond mental and emotional limitations that hold you back in life. These inner aspects of human consciousness are not abstract qualities but have a direct relation to who people are and what they are able achieve in their daily lives.
 
-Part of my work is to help clients to recognise their true nature and from there, an unravelling and ownership of their very being can begin to take place.
+Part of my work is to help clients to recognise their true nature and from there, a stepping into and ownership of their very being can begin to take place.
 
 > You don't change by solving your problems. You solve your problems by changing.  
 > &mdash; Samuel Sagan MD
@@ -59,9 +59,9 @@ I work experientially, that is with an emphasis on your direct experience rather
 > Try not, do or do not, there is no try...  
 > &mdash; Jedi Master Yoda
 
-I specialize in working with people who have concerns with:
+I specialize in working with people who have any of the following situations:
 
-* People seeking to build or improve their meditation practice
+* Seeking to build or improve their meditation practice
 * Stress, anxiety, depression
 * Personal development needs
 * Limiting life patterns / emotional and energetic blocks
@@ -81,7 +81,7 @@ Meditation, Regression Techniques (RT), Counselling, Homeopathy, Naturopathy, Cl
  
 ### Regression Techniques (RT)
 
-RT, or more formally known as Regression Techniques. More than just a technique it is a therapeutic process that employs an inner space of meditation to 'source' or look for the causes of conditioned emotions, attitudes and beliefs. It was originally designed by Samuel Sagan MD in the early 1980s for people doing long term meditation practices to remove blockages that stopped them from experiencing deeper states of consciousness. It was also found to have a profound impact on helping people reach emotional freedom in their daily lives. RT was developed into a therapy by a group of psychotherapists, doctors and natural therapists working with Dr Sagan and is now used by therapists around the world.
+RT, or more formally known as Regression Technique. RT is a therapeutic process that employs an inner space of meditation to 'source' or look for the causes of conditioned emotions, attitudes and beliefs. It was originally designed by Samuel Sagan MD in the early 1980s for people doing long term meditation practices to remove blockages that stopped them from experiencing deeper states of consciousness. It was also found to have a profound impact on helping people reach emotional freedom in their daily lives. RT was developed into a therapy by a group of psychotherapists, doctors and natural therapists working with Dr Sagan and is now used by therapists around the world.
 
 RT is a key tool used with clients to help them resolve issues. The inner space provides a powerful 'engine' for experiences beyond the "chatty" mind. It allows clients to see and know for themselves the causes of psychological issues. Once issues are made conscious, there can be understanding and resolution.
 
