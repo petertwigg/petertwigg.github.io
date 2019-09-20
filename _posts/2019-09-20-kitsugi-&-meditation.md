@@ -12,7 +12,7 @@ Kintsugi is Japanese art of putting broken pottery pieces back together with gol
 
 It is said to be reflected in the teachings of Wabi Sabi, the art of acceptance and appreciation of imperfections. A theme that runs through Japanese culture. An early form of aesthetic recycling you might say. Embracing the flawed or the imperfect, less is more and perfection is achieved through bringing into focus what is already present. Every break is unique and instead of repairing an item like new, or throwing it away, the 400-year-old technique actually highlights the "scars" as a part of the design. 
 
-#### The Metaphor
+##### The Metaphor
 Kintsugi is also a metaphor for healing ourselves. As author Candace Kumai writes: “It teaches us an important lesson: Sometimes in the process of repairing things that have broken, we actually create something more unique, beautiful and resilient.”
 
 {% include figure.html image="/kintsugi2.jpg" caption="" width="200" %}
@@ -25,7 +25,7 @@ Rumi, the great Persian poet sums it up when he says: “The wound is the place 
 
 {% include figure.html image="/images/trataka-flame.jpg" caption="kintsugi4" width="200" %}
 
-#### The Practice
+##### The Practice
 So in meditation, we seek direct experience of our inner light. Rather than inadvertently discovering it through crisis and it’s attendant healing, meditation is the path that takes you ultimately to your light. The closer we align to that light: body - mind - Higher Self, moves into harmony with that ineffable light. And we become stronger.
 
 {% include figure.html image="/images/kintsugi5.jpg" caption="" width="200" %}
@@ -34,7 +34,7 @@ In meditation, having experienced a trauma of some sort, sit with the emotions, 
 
 {% include figure.html image="/images/kintsugi6.jpg" caption="" width="200" %}
 
-#### The Experience
+##### The Experience
 The sense of emerging into a bigger part of yourself will occur the more you persevere. And then comes the light. Feeling held, feeling loved. Feeling like you are in harmony and complete. Feeling other aspects of yourself. Keep repeating this as often as you need while the trauma remains to the forefront of your awareness. Do not use meditation or any of the usual tricks (alcohol, drugs, sex, etc) to avoid or minimise the pain. This is how the vessel is mended. How you find a new strength inside yourself. How the light is able to shine through the cracks. How healing takes place. 
 
 {% include figure.html image="/images/kintsugi7.jpg" caption="" width="200" %}
