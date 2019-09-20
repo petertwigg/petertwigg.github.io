@@ -15,7 +15,7 @@ It is said to be reflected in the teachings of Wabi Sabi, the art of acceptance 
 ##### The Metaphor
 Kintsugi is also a metaphor for healing ourselves. As author Candace Kumai writes: “It teaches us an important lesson: Sometimes in the process of repairing things that have broken, we actually create something more unique, beautiful and resilient.”
 
-{% include figure.html image="/kintsugi2.jpg" caption="" width="200" %}
+{% include figure.html image="/images/kintsugi2.jpg" caption="" width="200" %}
 
 We go through life with its many ups and down. Sometimes events are shattering to our sense of self. The death of a loved one, the breakup of a relationship, a life threatening illness, the loss of a business or job. Yet in healing, Kintsugi shows us that, through the healed cracks, shines the golden light of our souls. And we are stronger. Especially strong where the crack occurs because there is some sense of resting on that light. That somehow we can’t be touched or hurt in the same way. We have become stronger for the experience as painful as it was.
 
