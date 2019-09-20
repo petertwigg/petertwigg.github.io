@@ -8,22 +8,22 @@ feature_image:
 
 Kintsugi is Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful pottery piece. 
 
-{% include figure.html image="/images/kintsugi1.jpg" caption="" width="200" %}
+{% include figure.html image="/images/kintsugi1.jpg" width="200" %}
 
 It is said to be reflected in the teachings of Wabi Sabi, the art of acceptance and appreciation of imperfections. A theme that runs through Japanese culture. An early form of aesthetic recycling you might say. Embracing the flawed or the imperfect, less is more and perfection is achieved through bringing into focus what is already present. Every break is unique and instead of repairing an item like new, or throwing it away, the 400-year-old technique actually highlights the "scars" as a part of the design. 
 
 ##### The Metaphor
 Kintsugi is also a metaphor for healing ourselves. As author Candace Kumai writes: “It teaches us an important lesson: Sometimes in the process of repairing things that have broken, we actually create something more unique, beautiful and resilient.”
 
-{% include figure.html image="/kintsugi2.jpg" caption="" width="200" %}
+{% include figure.html image="/kintsugi2.jpg"  width="200" %}
 
 We go through life with its many ups and down. Sometimes events are shattering to our sense of self. The death of a loved one, the breakup of a relationship, a life threatening illness, the loss of a business or job. Yet in healing, Kintsugi shows us that, through the healed cracks, shines the golden light of our souls. And we are stronger. Especially strong where the crack occurs because there is some sense of resting on that light. That somehow we can’t be touched or hurt in the same way. We have become stronger for the experience as painful as it was.
 
-{% include figure.html image="/images/trataka-flame.jpg" caption="kintsugi3" width="200" %}
+{% include figure.html image="/images/kintsugi3.jpg" width="200" %}
 
 Rumi, the great Persian poet sums it up when he says: “The wound is the place where the light enters you.” Kintsugi embraces authenticity and imperfections, highlighting rather than hiding scars. It celebrates these imperfections as part of the pottery’s history, rather than it’s end. In the practice of kintsugi, you create a stronger, more beautiful piece of art.
 
-{% include figure.html image="/images/trataka-flame.jpg" caption="kintsugi4" width="200" %}
+{% include figure.html image="/images/kintsugi4.jpg" width="200" %}
 
 ##### The Practice
 So in meditation, we seek direct experience of our inner light. Rather than inadvertently discovering it through crisis and it’s attendant healing, meditation is the path that takes you ultimately to your light. The closer we align to that light: body - mind - Higher Self, moves into harmony with that ineffable light. And we become stronger.
