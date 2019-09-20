@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-Kintsugi is the sJapanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful pottery piece. 
+Kintsugi is the Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful pottery piece. 
 
 {% include figure.html image="/images/kintsugi1.jpg" caption="" width="200" %}
 
