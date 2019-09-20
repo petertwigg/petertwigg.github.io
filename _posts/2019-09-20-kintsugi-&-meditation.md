@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-Kintsugi is Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful pottery piece. 
+Kintsugi is the sJapanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful pottery piece. 
 
 {% include figure.html image="/images/kintsugi1.jpg" caption="" width="200" %}
 
@@ -38,7 +38,5 @@ In meditation, having experienced a trauma of some sort, sit with the emotions, 
 The sense of emerging into a bigger part of yourself will occur the more you persevere. And then comes the light. Feeling held, feeling loved. Feeling like you are in harmony and complete. Feeling other aspects of yourself. Keep repeating this as often as you need while the trauma remains to the forefront of your awareness. Do not use meditation or any of the usual tricks (alcohol, drugs, sex, etc) to avoid or minimise the pain. This is how the vessel is mended. How you find a new strength inside yourself. How the light is able to shine through the cracks. How healing takes place. 
 
 {% include figure.html image="/images/kintsugi7.jpg" caption="" width="200" %}
-
-{% include figure.html image="/images/trataka-flame.jpg" width="200" %}
 
 ---
