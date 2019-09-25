@@ -6,6 +6,8 @@ feature_text:
 aside: true 
 ---
 
+#### Events Being Held Near You
+
 #### Bathurst
 
 
