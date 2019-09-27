@@ -43,7 +43,7 @@ Other people may experience continual recurring thoughts in meditation. In these
 #### Finally
 As always, keep on sharpening the knife by returning to your meditation device. Persist and you will get results. 
 
-Persistence is the one ingredient that will bring you success in your meeditation endeavours. So be kind to yourself and persevere and the results will come. 
+Persistence is the one ingredient that will bring you success in your meditation endeavors. So be kind to yourself and persevere and the results will come. 
 
 As you sharpen the knife your mind will become quieter and something else can start to take place. The rewards of doing that are huge and waiting for you.
 
