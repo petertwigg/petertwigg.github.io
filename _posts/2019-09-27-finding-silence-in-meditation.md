@@ -23,7 +23,7 @@ The more we keep bringing ourselves back to our meditation device, the more our 
 
 Indeed, it is like sharpening a knife. Every time you bring your mind back to the device, the more you sharpen the blade that cuts through the endless thoughts and the mind becomes sharper, clearer. And with just a little time and perseverance, the mind surrenders. It becomes disciplined. It is there to serve.
 
-{% include figure.html image="/images/posts/lotus.jpg" caption="Lotus" width="200" %}
+{% include figure.html image="/images/posts/lotus.jpg" caption="Lotus" width="400" %}
 
 
 #### Results
