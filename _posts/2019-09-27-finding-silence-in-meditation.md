@@ -23,13 +23,13 @@ The more we keep bringing ourselves back to our meditation device, the more our 
 
 Indeed, it is like sharpening a knife. Every time you bring your mind back to the device, the more you sharpen the blade that cuts through the endless thoughts and the mind becomes sharper, clearer. And with just a little time and perseverance, the mind surrenders. It becomes disciplined. It is there to serve.
 
-{% include figure.html image="/images/posts/lotus.jpg" caption="Lotus" width="200" %}
+{% include figure.html image="/images/posts/lotus.jpg" caption="" width="200" %}
 
 
 #### Results
 Eventually it becomes an instrument bringing clarity. A silent mind. A calm mind. A still mind. Longer periods of silence becomes possible. A mind free of thoughts. A realignment can start to take place between your body, mind and more ethereal parts.
 
-So patience with yourself is an important aspect of meditation. Be consistent in recognising when your mind has drifted off on a chain of thoughts. Gently bring it back to your device. Eventually it will get the message and take its place in the order of things.
+So patience	 with yourself is an important aspect of meditation. Be consistent in recognising when your mind has drifted off on a chain of thoughts. Gently bring it back to your device. Eventually it will get the message and take its place in the order of things.
 
 #### What If
 Sometimes people feel very charged. Emotions may come up in meditation. Or you may start your meditation having something on your mind. It’s like the meditation has fished up hurts or grievances from your psyche you might have thought had been resolved. The general philosophy is “let these emotions come, let them go”. They are like thoughts.
