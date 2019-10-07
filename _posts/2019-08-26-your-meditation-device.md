@@ -2,7 +2,7 @@
 layout: post
 title: Your Meditation Device
 categories:
-- techniques
+- Techniques
 feature_image: 
 ---
 
