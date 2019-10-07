@@ -10,7 +10,7 @@ Another aspect of meditation is stillness. Stillness is an important aspect of m
 
 Achieving stillness is a necessary step towards achieving a silent mind. They go hand in hand. Stillness in meditation along with a silent mind comes with holding right posture. 
 
-In meditation you may, from time to time, feel itches, twitches, pains, ache or desires to move as well as thought, noises and brilliant ideas that make you want you to move your body. When these occur it is important to ignore these impulses. Return to your [device](/2019-08-26-your-meditation-device). These are signals from your astral body, the layer of consciousness that deals with your mind - the thoughts and emotions you feel and think every moment of your day. 
+In meditation you may, from time to time, feel itches, twitches, pains, ache or desires to move as well as thought, noises and brilliant ideas that make you want you to move your body. When these occur it is important to ignore these impulses. Return to your [device](/techniques/2019-08-26-your-meditation-device). These are signals from your astral body, the layer of consciousness that deals with your mind - the thoughts and emotions you feel and think every moment of your day. 
 
 The more you hold stillness in meditation, the more a sense of charged-ness builds up. That is why if you have been couped up inside for a few rainy days or studying for an exam, you feel this compelling urge to go out, do something, party or exercise. 
 
