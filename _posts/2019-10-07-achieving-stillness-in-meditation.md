@@ -22,7 +22,7 @@ Understand that everything is consciousness. Deep in the layers of consciousness
 
 Verticality is a quality closely associated with Cosmic Fire and for this reason alone we meditate sitting up. There are other reasons of course but stillness and verticality are essential components to achieving strong, still meditation states. 
 
-{% include figure.html image="/images/image_posts/intense_fire.jpg" caption="" width="400" %}
+{% include figure.html image="/images/image_posts/intense-fire.jpg" caption="" width="400" %}
 
 ### Practice
 So, sitting in meditation and feeling the urge to scratch an itch, move an aching arm or have a revelation about what you need to do at work are all symptoms that your meditation is starting to work. Thats not to say a minimum of movement is sometimes prudent but generally this guideline is reserved for longer meditations. 
