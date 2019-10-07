@@ -25,7 +25,7 @@ Verticality is a quality closely associated with Cosmic Fire and for this reason
 {% include figure.html image="/images/image_posts/intense-fire.jpg" caption="" width="400" %}
 
 #### Practice
-So, sitting in meditation and feeling the urge to scratch an itch, move an aching arm or have a revelation about what you need to do at work are all symptoms that your meditation is starting to work. Thats not to say a minimum of movement is sometimes prudent but generally this guideline is reserved for longer meditations. 
+So, sitting in meditation and feeling the urge to scratch an itch, move an aching arm or have a revelation about what you need to do at work are all symptoms that your meditation is starting to work. That's not to say a minimum of movement is sometimes prudent but generally this guideline is reserved for longer meditations. 
 
 Your meditation is taking you deeper inside and you are contacting Cosmic Fire. The desire to scratch that itch is an impulse to move away from the flame. Like a child your undisciplined mind doesn’t like the fire and naturally wants to move away. But the burning of the dross of your astral body (mind) is a good thing. It is a kind of purification and that is why, in part, you feel better in yourself the more you meditate. 
 
