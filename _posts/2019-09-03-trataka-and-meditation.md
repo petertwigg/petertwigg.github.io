@@ -2,7 +2,7 @@
 layout: post
 title: Trataka & Meditation
 categories:
-- General
+- Tehnique
 feature_image: 
 ---
 

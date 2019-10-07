@@ -27,7 +27,7 @@ The importance of the Word in all cultures and religions is seen as a gateway to
 #### Chakras
 Using a chakra or centre as your meditation device means selecting one particular chakra and plunging your consciousness into it. This is accompanied by sounds (mantras perhaps) or breath into the centre and leads to an awakening of the energy centre or chakra. It is said that chakras act as the anchor point for your ethereal subtle bodies to your physical body. These anchor points serve as vital gateways for the exchange of subtle energies as well as points of involution (movement inwards) for your consciousness. 
 
-{% include figure.html image="/images/Posts/heart-chakra.jpg" caption="Heart Chakra" width="150" %}
+{% include figure.html image="/images/image_posts/heart-chakra.jpg" caption="Heart Chakra" width="200" %}
 
 #### Your Device
 So the device in meditation is an important instrument. Choosing one device and sticking with it is essential to getting results. It assists your consciousness in its return home and takes your consciousness beyond your ordinary, everyday mind. It is the device that brings your meditation back in focus when your mind scatters like marbles dropped on a stone floor. 
