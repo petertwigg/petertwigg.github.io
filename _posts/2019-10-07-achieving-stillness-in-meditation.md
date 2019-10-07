@@ -10,7 +10,7 @@ Another aspect of meditation is stillness. Stillness is an important aspect of m
 
 Achieving stillness is a necessary step towards achieving a silent mind. They go hand in hand. Stillness in meditation along with a silent mind comes with holding right posture. 
 
-In meditation you may, from time to time, feel itches, twitches, pains, ache or desires to move as well as thought, noises and brilliant ideas that make you want you to move your body. When these occur it is important to ignore these impulses. Return to your [device](/_posts/technique/2019-08-26-your-meditation-device). These are signals from your astral body, the layer of consciousness that deals with your mind - the thoughts and emotions you feel and think every moment of your day. 
+In meditation you may, from time to time, feel itches, twitches, pains, ache or desires to move as well as thought, noises and brilliant ideas that make you want you to move your body. When these occur it is important to ignore these impulses. Return to your [device](https:/petertwigg.com/_posts/technique/2019-08-26-your-meditation-device). These are signals from your astral body, the layer of consciousness that deals with your mind - the thoughts and emotions you feel and think every moment of your day. 
 
 The more you hold stillness in meditation, the more a sense of charged-ness builds up. That is why if you have been couped up inside for a few rainy days or studying for an exam, you feel this compelling urge to go out, do something, party or exercise. 
 
@@ -22,7 +22,7 @@ Understand that everything is consciousness. Deep in the layers of consciousness
 
 Verticality is a quality closely associated with Cosmic Fire and for this reason alone we meditate sitting up. There are other reasons of course but stillness and verticality are essential components to achieving strong, still meditation states. 
 
-{% include figure.html image="/images/image_posts/XXXX.jpg" caption="XXXX" width="200" %}
+{% include figure.html image="/images/image_posts/intense_fire.jpg" caption="" width="400" %}
 
 ### Practice
 So, sitting in meditation and feeling the urge to scratch an itch, move an aching arm or have a revelation about what you need to do at work are all symptoms that your meditation is starting to work. Thats not to say a minimum of movement is sometimes prudent but generally this guideline is reserved for longer meditations. 
