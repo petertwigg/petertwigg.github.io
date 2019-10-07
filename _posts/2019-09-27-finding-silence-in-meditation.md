@@ -2,7 +2,7 @@
 layout: post
 title: Finding Silence in Meditation
 categories:
-- Technique
+- Techniques
 feature_image: 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Achieving Stillness in Meditation 
 categories:
-- Technique
+- Techniques
 feature_image: 
 ---
 
