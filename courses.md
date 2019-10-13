@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Courses
-feature_image: "/images/kyrenia-02-1600.jpg"
+feature_image: "/images/bufovento-02-1664.jpg"
 feature_text: 
 aside: true
 ---
