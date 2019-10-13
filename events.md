@@ -8,9 +8,26 @@ aside: true
 
 #### Events Being Held Near You
 
-#### Bathurst
+#### 2020
+
+### February - TBC
+
+### Bathurst
+### Canberra
+### Melbourne
+
+#### March - TBC 
+
+### Sydney 
+### Adelaide
+
+#### April - TBC
+
+#### May - TBC
 
 
+
+<!--
 ###### Tips, Techniques & Context to Improve Your Meditation Experience
 
 Charles Sturt University, XXX Hall, Saturday 8th November, 09:33am to 12:30pm.
@@ -25,8 +42,7 @@ We assume you have already tried meditation or have a regular meditation practic
 Charles Sturt University, XXX Hall, Saturday 8th November 2:03pm to 5:00pm.
 
 For people wishing to start a meditation practice.
-[Click here for more details](/courses) [Register & book here](/bookings)
-
+[Click here for more details](/courses) [Register & book here](/bookings) -->
  ---
 
 
