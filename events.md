@@ -27,7 +27,7 @@ Dates announced soon.
 
 
 
-###### Tips, Techniques & Context to Improve Your Meditation Experience
+Tips, Techniques & Context to Improve Your Meditation Experience
 
 Charles Sturt University, XXX Hall, Saturday 8th November, 09:33am to 12:30pm.
 
