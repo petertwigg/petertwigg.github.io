@@ -6,24 +6,23 @@ feature_text:
 aside: true 
 ---
 
-#### Events Being Held Near You
-
-#### 2020
+#### 2020 Events Being Held Near You
+Dates announced soon. 
 
 ### February - TBC
 
-### Bathurst
-### Canberra
-### Melbourne
+## Bathurst
+## Canberra
+## Melbourne
 
-#### March - TBC 
+### March - TBC 
 
-### Sydney 
-### Adelaide
+## Sydney 
+## Adelaide
 
-#### April - TBC
+### April - TBC
 
-#### May - TBC
+### May - TBC
 
 
 
