@@ -9,24 +9,24 @@ aside: true
 #### 2020 Events Being Held Near You
 Dates announced soon. 
 
-### February - TBC
-
-## Bathurst
-## Canberra
-## Melbourne
-
-### March - TBC 
-
-## Sydney 
-## Adelaide
-
-### April - TBC
-
-### May - TBC
-
-
 
 <!--
+
+##### February - TBC
+ Bathurst
+ Canberra
+ Melbourne
+
+##### March - TBC 
+ Sydney 
+ Adelaide
+
+##### April - TBC
+
+##### May - TBC
+
+
+
 ###### Tips, Techniques & Context to Improve Your Meditation Experience
 
 Charles Sturt University, XXX Hall, Saturday 8th November, 09:33am to 12:30pm.
