@@ -17,7 +17,7 @@ He aspires for help and a flash of inspiration hits the man and he says to the g
 #### The Analogy
 You see the genie is an analogy for your willpower. Your willpower is a blind instrument that is there to serve. It needs to be occupied, in service, or like a double edged knife, it will cut you. It can serve your mind, it can serve your heart, it can serve other people. It can also serve the Divine. It can also easily lead you astray. Cultivating will is an important aspect of reaching your highest potential, in your daily life, as a meditator. As are seeking truth, or just simply achieving a good life for yourself.
 
-This is why [Siddhartha](https://petertwigg.com/general/2019/07/30/siddhartha-on-will/) in the book by Hermann Hesse is a able to achieve heightened levels of clarity and 'sink like a stone thrown into a river' to achieve his goal. 
+This is why [Siddhartha](https://petertwigg.com/general/2019/07/30/siddhartha-on-will/) in the book by Herrmann Hesse is a able to achieve heightened levels of clarity and 'sink like a stone thrown into a river' to achieve his goal. 
 
 #### Willpower
 Having willpower does not mean that you solve all your problems. More likely you get a new set of problems but so much more interesting. That is the way of the world.
