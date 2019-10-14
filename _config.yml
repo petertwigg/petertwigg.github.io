@@ -74,11 +74,15 @@ social_links:
   Twitter: https://twitter.com/solon_1
   LinkedIn: https://www.linkedin.com/in/peter-twigg-991a8818b/
   Instagram: https://www.instagram.com/peter_twigg_meditation/
-  Patreon: <a href="https://www.patreon.com/bePatron?u=23503895" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+  Patreon: https://www.patreon.com/bePatron?u=23503895 
   RSS: /feed.xml
+
+
+
 
 # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
 sharing_links: 
   Twitter: "#0d94e7"
   facebook: "#3B5998"
   Email: true
+  Patreon: <a href="https://www.patreon.com/bePatron?u=23503895" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
