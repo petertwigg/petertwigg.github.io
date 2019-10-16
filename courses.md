@@ -31,7 +31,7 @@ In this 3 hour course we provide the key elements to help you on your meditation
 
 [Check events near you and register here](/events) Cost: $55.00
 
-_____________________________________________________________________________
+___________________________________________________________________________________________________
 
 ##### Tips, Techniques & Context to Improve Your Meditation Experience
 
@@ -60,7 +60,7 @@ In this 3 hour course we examine key processes to help improve your meditation e
 * A list of items to bring to the workshop will be sent when you register. 
 
 [Check events near you and register here](/events) Cost: $55.00
-______________________________________________________________________________
+__________________________________________________________________________________________________________
 
 ##### Meditation for Health
 
@@ -88,7 +88,6 @@ In this 2 hour course we provide the key elements to help you deal with health i
 
 [Check events near you and register here](/events) Cost: $55.00 
 
-______________________________________________________________________________
 
 --- 
 
