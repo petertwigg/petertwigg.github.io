@@ -7,8 +7,8 @@ aside: true
 ---
 
 #### February Events Being Held Near You
-
-###### Bathurst
+<br>
+#### Bathurst
 
 ##### Tips, Techniques & Context to Improve Your Meditation Experience
 Charles Sturt University Gym (Dance Studio) Panorama Ave, Bathurst, NSW.
