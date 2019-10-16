@@ -21,7 +21,7 @@ In this 3 hour course we provide the key elements to help you on your meditation
 * Layers of Consciousness Model. 
 * Dealing with aches, pains & emotions coming up in meditation.
 * Meditation - The Chakra (3)
-* Close.
+* Discussion & Close.
 
 ##### Note: 
 * We will be engaging in meditation practices together.
@@ -51,7 +51,7 @@ In this 3 hour course we examine key processes to help improve your meditation e
 * Dealing with aches, pains & emotions coming up in meditation.
 * States & experiences in meditation.
 * Meditation - The Chakra (3)
-* Close. 
+* Discussion & Close. 
 
 ##### Note: 
 * We will be engaging in meditation practices together.
