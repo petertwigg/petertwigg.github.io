@@ -55,7 +55,7 @@ In this 3 hour course we examine key processes to help improve your meditation e
 
 ##### Note: 
 * We will be engaging in meditation practices together.
-* Plenty of time will be given to practice meditation togther.
+* Plenty of time will be given to practice the meditations togther.
 * Opportunities to ask specific questions about your meditation process.
 * A list of items to bring to the workshop will be sent when you register. 
 
@@ -82,12 +82,13 @@ In this 2 hour course we provide the key elements to help you deal with health i
 
 ##### Note: 
 * We will be engaging in meditation practices together.
-* Plenty of time will be given to practice meditation togther.
+* Plenty of time will be given to practice the meditation togther.
 * Opportunities to ask specific questions about the meditation process.
 * A list of items to bring to the workshop will be sent when you register. 
 
 [Check events near you and register here](/events) Cost: $55.00 
 
+______________________________________________________________________________
 
 --- 
 
