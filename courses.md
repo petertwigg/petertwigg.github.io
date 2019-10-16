@@ -24,7 +24,7 @@ In this 3 hour course we provide the key elements to help you on your meditation
 * Meditation - The Chakra (3)
 * Close.
 
-###### Note: 
+##### Note: 
 * We will be engaging in meditation practices together.
 * Plenty of time will be given to practice meditation togther.
 * Opportunities to ask specific questions about your meditation process.
