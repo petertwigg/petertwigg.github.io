@@ -6,7 +6,6 @@ feature_text:
 aside: true
 ---
 ##### Introducing Meditation
-
 For people wishing to start a meditation practice. 
 
 In this 3 hour course we provide the key elements to help you on your meditation path. We also provide some simple models to help you understand your meditation experience.
