@@ -20,6 +20,15 @@ In this video we discuss the One Rule of Meditation, which can save a lot of pai
 
 In this video we discuss what to do when aches, pains & emotions come up in meditation. 
 
+### Posture in Meditation
+
+{% include video.html id="M3ENYYYHU5g" title="Posture in Meditation" %}
+
+In this video we demonstration and analysis of what constitutes a good meditation posture.
+
+### Coming Soon
+
+7 Tips to Improve your Meditation.....
 
 ---
 
