@@ -30,16 +30,16 @@ No prior knowledge of meditation is needed.
 [Click here for more details](/courses) <br>
 [Register & book here](https://www.eventbrite.com/e/77062615357)
 
-#### Canberra
-
 ---
 
+#### Canberra
+<br>
+
 ##### Tips, Techniques & Context to Improve Your Meditation Experience
-Friends Meeting Rooms Cnr Bent & Condamine Sts, Turner, ACT 9:30am - 12:30pm.
+Friends Meeting Rooms Cnr Bent & Condamine Sts, Turner, ACT 9:30am - 12:30pm Saturday, 15th February, 2020
 
 We assume you have already tried meditation or have a regular meditation practice and want to build on your experience.
-[Click here for more details](/courses) <br>
-[Register & book here](https://www.eventbrite.com.au/e/tips-techniques-context-to-improve-your-meditation-experience-tickets-84220583031)
+[Click here for more details](/courses)  [Register & book here](https://www.eventbrite.com.au/e/tips-techniques-context-to-improve-your-meditation-experience-tickets-84220583031)
 
 ---
 
