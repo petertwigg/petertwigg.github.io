@@ -29,7 +29,7 @@ For people experiencing health issues involving anxiety, stress, asthma, or a lo
 No prior knowledge of meditation is needed.  
 [Click here for more details](/courses) <br>
 [Register & book here](https://www.eventbrite.com/e/77062615357)
-<br>
+
 #### Canberra
 
 ---
