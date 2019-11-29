@@ -32,6 +32,8 @@ No prior knowledge of meditation is needed.
 <br>
 #### Canberra
 
+---
+
 ##### Tips, Techniques & Context to Improve Your Meditation Experience
 Friends Meeting Rooms Cnr Bent & Condamine Sts, Turner, ACT 9:30am - 12:30pm.
 
