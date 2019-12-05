@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-There is a Russian fable called ‘The Three Hermits’ that Leo Tolstoy, the famous author of War and Peace, Anna Karenina and many other great literary delights. He rewrote ‘Three Hermits’ after experiencing his spiritual awakening. The fable coincidently illustrates the difference between knowledge and understanding and serves as a great teaching device by spiritual teachers. It goes something like this.......
+There is a Russian fable called ‘The Three Hermits’ that Leo Tolstoy wrote; the famous author of War and Peace, Anna Karenina and many other great literary delights. He rewrote ‘Three Hermits’ after experiencing his spiritual awakening. The fable coincidently illustrates the difference between knowledge and understanding and serves as a great teaching device by spiritual teachers. It goes something like this.......
 
 “A bishop was travelling to the Solovetsky Monastery across the White Sea north of Russia. On the course of the journey, a fisherman pointed out a small island to the bishop. The fisherman told him that three hermits live on the island for the salvation of their souls. He knew because they once helped him repair his wrecked boat. The hermits are very old, illiterate and live mostly in silence. They live in mud huts, but they are generous and happy.
 
