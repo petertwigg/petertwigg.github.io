@@ -26,9 +26,13 @@ In this video we discuss what to do when aches, pains & emotions come up in medi
 
 In this video we demonstration and analysis of what constitutes a good meditation posture.
 
-### Coming Soon
+### 7 Tips to Help Improve your Meditation
 
-7 Tips to Improve your Meditation.....
+{% include video.html id="-S7RvvK9S2Y" title="7 Tips to Help Improve your Meditation" %}
+
+### 12 Signs Your Meditation is Working
+
+{% include video.html id="FqIxvn3TQxY" title="12 Signs Your Meditation is Working" %}
 
 ---
 
