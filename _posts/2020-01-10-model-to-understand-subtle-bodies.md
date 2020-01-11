@@ -50,3 +50,10 @@ There is some question about equivalencies between different spiritual and relig
 For now, I hope this small introduction into subtle bodies is useful. These different levels of consciousness operate to make us who we are. It is indeed a miracle and one that contains many mysteries. Knowing yourself to the most profound level is one of the great treasures of engaging in spiritual practice. The more we know ourselves, the more we are able to stand up into the fullness and destiny of being a human being. The pathway there begins with meditation. 
 
 In our next post we will be examining.... Consciousness. 
+
+References:
+Edited by Richard Seddon, Understanding the Human Being, Selected Writings of Rudolf Steiner, Rudolf Steiner Press, Bristol, 1993 
+Steiner, Rudolf, An Occult Physiology, Rudolf Steiner Press, London, 1978
+Steiner, Rudolf, Cosmic Memory, Harper & Row, San Francisco, 1959.
+Heindel, Max, The Vital Body, Rosicrucian Fellowship, Oceanside. 
+
