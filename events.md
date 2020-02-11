@@ -6,31 +6,9 @@ feature_text:
 aside: true 
 ---
 
-#### February Events Being Held Near You
+#### Events Being Held Near You
 <br>
-#### Bathurst
 
-##### Tips, Techniques & Context to Improve Your Meditation Experience
-Charles Sturt University Gym (Dance Studio) Panorama Ave, Bathurst, NSW.
-Saturday 1st February 2020, 1:00pm to 4:00pm.
-
-We assume you have already tried meditation or have a regular meditation practice and want to build on your experience.
-[Click here for more details](/courses) <br>
-[Register & book here](https://www.eventbrite.com/e/69967605993x)
-
----
-
-##### Meditation for Health
-Charles Sturt University Gym (Dance Studio) Panorama Ave, Bathurst, NSW.
-Saturday 8th February 2020, 2:00pm to 4:00pm
-
-For people experiencing health issues involving anxiety, stress, asthma, or a low level of wellbeing. 
-
-No prior knowledge of meditation is needed.  
-[Click here for more details](/courses) <br>
-[Register & book here](https://www.eventbrite.com/e/77062615357)
-
----
 
 
 
