@@ -19,7 +19,7 @@ will open terminal
 In terminal type:
 
 `D:`
-`cd D:\Ruby\GitHub\petertwigg.github.io`
+'cd D:\GitHub\petertwigg.github.io' 
 
 Then to run locally type:
 
