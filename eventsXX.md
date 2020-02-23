@@ -6,7 +6,6 @@ feature_text:
 aside: true 
 ---
 
-<<<<<<< HEAD
 #### Events Being Held Near You
 <br>
 
