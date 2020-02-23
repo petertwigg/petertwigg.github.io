@@ -39,7 +39,9 @@ navigation_header:
   url: /my-meditation-channel/
 - title: Courses
   url: /courses/
+  <!--
 - title: Events
+<!--
   url: /events/
 - title: Corporate Events
   url: corporate 
