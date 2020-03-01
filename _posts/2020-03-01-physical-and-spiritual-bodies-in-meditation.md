@@ -47,7 +47,7 @@ As you fall asleep your body and etheric body remain in your bed. Let’s call t
 When you drift off to sleep, a kind of dissipation of your consciousness takes place. You feel yourself spreading. This is, in part, the upper complex departing. When you wake up in the morning your upper complex docks with the lower complex and you become conscious again. If you faint, you can get a sense of something rushing out of you. This is the upper complex departing in a hurry. When you die, it’s the same process except you obviously don’t wake up. This is why in some spiritual circles, sleep is described as the sister of death. 
 
 #### Different Traditions
-Different traditions have slightly different takes on subtle bodies model. This table illustrates some of the the differences.
+Different traditions have slightly different takes on subtle bodies model. This table illustrates some of the differences.
 
 {% include figure.html image="/images/image_posts/chart_illustrating_fourfold_subtle_body_differences.jpg" caption="Chart Illustrating Fourfold Subtle Body Differences between Traditions" width="800" %}
 
