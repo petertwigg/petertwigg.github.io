@@ -32,7 +32,7 @@ And this possibly explains why meditation and mindfulness have swept the world l
 {% include figure.html image="/images/image_posts/angels.jpg" caption="Angels" width="400" %}
 
 #### Will this happen in Our Lifetime?
-In order for the new human to emerge, our world demands entirely new economic, political and social models of relating. It seems we have reached the stage where the old is ready to pass away, just like the snake sheds its skin. Ultimately it means becoming internally self-referenced — finding the answers inside yourself. Taking responsibility for your actions and decisions. Human evoluton has taken thousands of years to get to this level. The key question is more along the lines of "is humanity mature enough to retain individual human sovereignty".  
+In order for the new human to emerge, our world demands entirely new economic, political and social models of relating. It seems we have reached the stage where the old is ready to pass away, just like the snake sheds its skin. Ultimately it means becoming internally self-referenced  in a balance of logic and intuition — finding the answers inside yourself. Taking responsibility for your actions and decisions. Human evoluton has taken thousands of years to get to this level. The key question is more along the lines of "is humanity mature enough to retain individual human sovereignty".  
 
 For the spiritually aware, it is an opportunity to step up. To be that. It means becoming transpersonal: namely, receiving the will of the divine and acting on that impulse. Maybe then, the vision of heaven on Earth can become a reality. 
 
