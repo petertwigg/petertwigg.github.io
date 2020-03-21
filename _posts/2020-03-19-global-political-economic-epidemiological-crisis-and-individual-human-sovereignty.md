@@ -19,7 +19,7 @@ Behind all of that however lies a vision of unfoldment for humanity. Change alwa
   </footer>
 </blockquote>
 
-{% include figure.html image="/images/image_posts/james_madison.jpg" caption="" width="200" %}
+{% include figure.html image="/images/image_posts/James_Madison.jpg" caption="" width="200" %}
 
 #### Individual Human Sovereignty
 I think what is being shaped is a new type of human consciousness. An alternative human way of being where individual human sovereignty is the primary focus. If we reflect on that, we can see that a significant part of our evolutionary process is the shaking off of the need to be subordinate to others. Needing a leader. Needing an authority. Having things decided for us. This awakening is happening because people are finally seeing politicians, governments and so called leaders for what they really are.  
