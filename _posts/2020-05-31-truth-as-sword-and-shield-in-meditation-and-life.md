@@ -22,14 +22,14 @@ Samuel also comments:
 
 This strangely reminds me of humanity’s current predicament - the coronavirus pandemic, where scientific materialism and the promotion of humanity to unprecedented levels of wealth, age, health and materialism has made us potentially more fragile as a species. Look at how dependent we are on the internet, fossil fuels, mass monoculture forms of agriculture. Yet in the push for greater wealth and better health, our fragility confronts us. Because in reality our fragility can lead to our undoing. 
 
-Until we can come to rest on the formless part of ourselves, we are open to being smashed to the ground. Part of the issue stems from the fact that we have largely forgotten that our roots are spiritual. We place personal safety before the freedoms and sanctity of our individual human sovereignty. Yet we all die anyway. The essence of who we are is formless, to which we return soon enough and that this material body we inhabit in this material world is an illusion.
+Until we can come to rest on the formless part of ourselves, we are open to being smashed on the ground. Part of the issue stems from the fact we have largely forgotten that our roots are spiritual. We place personal safety before the freedoms and sanctity of our individual human sovereignty. Yet we all die anyway. The essence of who we are is formless, to which we return soon enough and that this material body we inhabit in this material world is an illusion.
 
 Samuel adds: 
 
 #### Truth as Your Shield
 
 <blockquote cite="">
-  		<p>“You would be very much misled if you believe that the same laws do not apply to you, here and now. For, you see, you may not be a passionate lover of Truth, but your Higher Self is. Always. You may play games in your life, you may see power for childish motivations, you may cover yourself with mud – your Higher Self will still be yearning for Truth, and Truth alone, in the background of yourself. It does not matter where you, as an individual, may choose to go, your Higher Self simply cannot move towards any other direction than Truth, that is it’s imperishable nature.</p> 
+  		<p>“You would be very much misled if you believe that the same laws do not apply to you, here and now. For, you see, you may not be a passionate lover of Truth, but your Higher Self is. Always. You may play games in your life, you may seek power for childish motivations, you may cover yourself with mud – your Higher Self will still be yearning for Truth, and Truth alone, in the background of yourself. It does not matter where you, as an individual, may choose to go, your Higher Self simply cannot move towards any other direction than Truth, that is it’s imperishable nature.</p> 
 </blockquote>
 {% include figure.html image="/images/image_posts/Angel_B&W.jpeg" caption="Angel (Black & White)" width="400" %}
 <blockquote cite="">
