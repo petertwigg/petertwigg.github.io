@@ -8,7 +8,7 @@ feature_image:
 
  It is said than when storms prevail, fishermen wait patiently, mending their nets. 
 
- #### Self isolation
+#### Self isolation
  A great benefit of self isolation is to turn inward. Reflect, review, meditate. Use a journal to reflect your thoughts, emotions and feelings. Use this time to be more mindful to your inner environment & external world. Work to know yourself better.
 
 #### Liberation
