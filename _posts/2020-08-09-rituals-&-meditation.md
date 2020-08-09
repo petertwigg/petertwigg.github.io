@@ -28,5 +28,4 @@ Most rituals are part of a larger process and entered into after having engaged 
 
 Rituals  are powerful tools helping you to build the qualities needed to sustain your meditation practice. Through rituals, qualities of devotion, opening, clarity, separation and letting go of fallen aspects of yourself can take place; along with the attuning and raising up of yourself towards the spiritual, the divine. That makes ritual a path of transformation.
 
-									ooo000ooo
 --- 
