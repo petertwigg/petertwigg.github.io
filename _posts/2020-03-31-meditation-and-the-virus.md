@@ -8,7 +8,7 @@ feature_image:
 
  It is said than when storms prevail, fishermen wait patiently, mending their nets. 
 
-#### Self isolation
+#### Self Isolation
  A great benefit of self isolation is to turn inward. Reflect, review, meditate. Use a journal to reflect your thoughts, emotions and feelings. Use this time to be more mindful to your inner environment & external world. Work to know yourself better.
 
 #### Liberation
@@ -17,6 +17,6 @@ This can help you liberate, align and open to new possibilities of depth and rel
 #### Reflection
 Remember that you create your own environment. Your own suffering. It’s not what happens to you in your world. Your circumstances merely reflect what is happening deep inside yourself. Now is the perfect window to change your relationship to yourself and your world from inside. 
 
-#meditation #mindfulness #mindfulliving #inner #mindbodyspirit
+ #meditation #mindfulness #mindfulliving #inner #mindbodyspirit
 
 {% include figure.html image="/images/image_posts/kintsugi5.jpg" caption="" width="400" %}
