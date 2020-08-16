@@ -20,7 +20,7 @@ Samuel also comments:
 	<p>“In the distant past of humankind, humanity had reached an extraordinary level of understanding of the different fields of consciousness. However, because the quest for power and manipulation superseded the quest for Truth, the civilisation ended up being destroyed”. </p>
 </blockquote>
 
-This reminds me of humanity’s current predicament - the coronavirus pandemic, where scientific materialism and the promotion of humanity to unprecedented levels of wealth, age, health and materialism has made us potentially more fragile as a species. Look at how dependent we are on the Internet, fossil fuels, mass monoculture forms of agriculture. Yet in the push for greater wealth and better health, our fragility confronts us. Because in reality our fragility can leaves us vulnerable. 
+This reminds me of humanity’s current predicament - the coronavirus pandemic, where scientific materialism and the promotion of humanity to unprecedented levels of wealth, age, health and materialism has made us potentially more fragile as a species. Look at how dependent we are on the internet, fossil fuels, mass monoculture forms of agriculture. Yet in the push for greater wealth and better health, our fragility confronts us. Because in reality our fragility leaves us vulnerable. 
 
 Until we can come to rest on the formless part of ourselves, we are open to being smashed to the ground. Part of the issue stems from the fact that we have largely forgotten that our roots are spiritual. We place personal safety before the freedoms and sanctity of our individual human sovereignty. Yet we all die anyway. The essence of who we are is formless, to which we return soon enough and that this material body we inhabit in this material world is an illusion.
 
@@ -64,7 +64,7 @@ Samuel adds:
 	<p>“If you consistently follow your truth, your capacity to discern will grow like a Banyon tree and your sense of what is true or untrue will become more tangible than your perception of hot or cold. Even if the sense of Truth is faint in the beginning, you should cherish and nurture it as the most precious quality that may ever been given to you. For, ultimately, there is no real protection but the power of Truth”. </p>
 </blockquote>
 
-Not only is Truth an important guiding principle in meditation practice but an important guide to living your life. Using Truth as your sword and shield becomes your greatest protection and discernment to a good life based on principle, integrity and discernment. 
+Not only is Truth an important guiding principle in meditation practice but an important guide to living your life. Using Truth as your sword and shield becomes your greatest protection and discernment for a good life based on principle, integrity and discernment. 
 
 #### References
 <a id="[1]">[1]:</a> Sagan Samuel, Dr: 
