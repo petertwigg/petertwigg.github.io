@@ -19,7 +19,7 @@ Ritual is a formal process where the ritualist builds a vibration, frequency or 
 
 {% include figure.html image="/images/image_posts/ritual2.jpg" caption="Baptism" width="400" %}
 
-When the ritual reaches it’s peak, an elevated state of consciousness is engaged where the ritualist enters a silent phase, staying there, experiencing the resonance and grace of the spiritual being(s) and worlds. This state brings a kind of raising of the spiritual-seekers vibration where a kind of communion takes place. This in itself is a kind of inner alchemy of the soul where your vibration is being raised towards that of spiritual beings. 
+When the ritual reaches it’s peak, an elevated state of consciousness is engaged where the ritualist enters a silent phase, staying there, experiencing the resonance and grace of spiritual being(s) and worlds. This state brings a kind of raising of the spiritual-seekers vibration where a kind of communion takes place. This in itself is a kind of inner alchemy of the soul where your vibration is being raised towards that of spiritual beings. 
 
 Gradually that state diminishes and the ritual is then concluded. Some peak ritual states can be incredibly strong and demanding on the ritualist so an important aspect of rituals is that you are in good health. 
 
@@ -33,6 +33,6 @@ Most rituals are part of a larger process and entered into after having engaged 
 
 {% include figure.html image="/images/image_posts/ritual4.jpg" caption="Hundu Balinese Ritual" width="400" %}
 
-Rituals  are powerful tools helping you to build the qualities needed to sustain your meditation practice. Through rituals, qualities of devotion, opening, clarity, separation and letting go of fallen aspects of yourself can take place; along with the attuning and raising up of yourself towards the spiritual, the divine. That makes ritual a path of transformation.
+Rituals are powerful tools helping you to build qualities needed to sustain your meditation practice. Through rituals, qualities of devotion, opening, clarity, separation and letting go of fallen aspects of yourself can take place; along with the attuning and raising up of yourself towards the spiritual, the divine. That makes ritual a path of transformation.
 
 --- 
