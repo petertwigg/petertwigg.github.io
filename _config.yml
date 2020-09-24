@@ -35,6 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: Blog
+  url: /blog/
 - title: My Meditation Channel
   url: /my-meditation-channel/
 - title: Courses
@@ -43,8 +45,6 @@ navigation_header:
   url: /events/
 - title: Corporate Events
   url: corporate 
-- title: Blog
-  url: /blog/
 - title: Sessions
   url: /sessions/
 - title: Testimonials
