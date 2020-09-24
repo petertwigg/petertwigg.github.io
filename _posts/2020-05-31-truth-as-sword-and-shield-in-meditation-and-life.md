@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Truth as Sword & Shield in Meditation & Life 
+title: Truth as Sword & Shield in Meditation & Life 
 categories:
 - Context
 feature_image: 
