@@ -12,8 +12,8 @@ I also employ techniques of meditation to bring about health, healing and transf
 
 ### Recent Blog Articles
 [Rituals & Meditation](/context/2020/08/09/rituals-&-meditation/)<br>
-[Truth as Sword & Shield in Meditation & Life](https://petertwigg.com/context/2020/05/31/truth-as-sword-and-shield-in-meditation-and-life/)<br>
-[What is consciousness?](https://petertwigg.com/context/2020/05/03/what-is-consciousness/)
+[Truth as Sword & Shield in Meditation & Life](/context/2020/05/31/truth-as-sword-and-shield-in-meditation-and-life/)<br>
+[What is consciousness?](/context/2020/05/03/what-is-consciousness/)
 
 ### Working with Peter
 Grounded in long-time meditation and healing practices, I offer the following services:
