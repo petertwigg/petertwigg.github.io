@@ -11,9 +11,9 @@ I have been meditating for over 35 years and had the privilege of teaching medit
 I also employ techniques of meditation to bring about health, healing and transformation in conjunction with homeopathy and naturopathy. Some of the outcomes of my work include resolving emotional blockages, restoring health so you are free to be yourself. Achieving more of your potential and helping you to recognise your true nature are key benchmarks to changing. 
 
 ### Recent Blog Articles
-[Rituals & Meditation](/context/2020/08/09/rituals-&-meditation/)
-[My Meditation Channel](/my-meditation-channel)
-[My Meditation Channel](/my-meditation-channel)
+[Rituals & Meditation](/context/2020/08/09/rituals-&-meditation/)<br>
+[Truth as Sword & Shield in Meditation & Life](https://petertwigg.com/context/2020/05/31/truth-as-sword-and-shield-in-meditation-and-life/)<br>
+[What is consciousness?](https://petertwigg.com/context/2020/05/03/what-is-consciousness/)
 
 ### Working with Peter
 Grounded in long-time meditation and healing practices, I offer the following services:
