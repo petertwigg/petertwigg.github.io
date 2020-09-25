@@ -33,9 +33,10 @@ Emanationism is an idea in the cosmology or cosmogony of various religious or ph
 
 Neoplatonism and other sources assert that all things “flow” from an underlying principle or reality, usually called the Absolute or Godhead. Some movies touch on these concepts including The Matrix and Star Wars series.
 
-Robert Kleinman [1] suggests that underlying the worldview of traditional cosmology is the idea that the universe is an emanation of a unitary divine principle. There is a chain of emanations extending from massive states of consciousness that might be referred to as the “Divine”, or “God” down to the little individual persona you know yourself as, reading this article. Human individualism and separateness has done a lot to muddy these terms so please bear with me as I attempt to explain a complex story in understandable terms.
+Robert Kleinman <a href="https://petertwigg.com/context/2020/05/03/what-is-consciousness/">[1]</a> suggests that underlying the worldview of traditional cosmology is the idea that the universe is an emanation of a unitary divine principle. There is a chain of emanations extending from massive states of consciousness that might be referred to as the “Divine”, or “God” down to the little individual persona you know yourself as, reading this article. Human individualism and separateness has done a lot to muddy these terms so please bear with me as I attempt to explain a complex story in understandable terms.
 
-#### Yet this is just the start of the journey. The more we meditate, we move to contacting the substance of consciousness. That substance is Fire. One of the two elements that make up the firmament we inhabit. Ultimately consciousness is Fire and extends beyond the creation. Raising the level of Fire means raising your vibration. The more you can hold higher levels of Fire, the more you can resonate with higher order states of consciousness and their attendant spiritual beings.
+#### The Substance of Consciousness
+Yet this is just the start of the journey. The more we meditate, we move to contacting the substance of consciousness. That substance is Fire. One of the two elements that make up the firmament we inhabit. Ultimately consciousness is Fire and extends beyond the creation. Raising the level of Fire means raising your vibration. The more you can hold higher levels of Fire, the more you can resonate with higher order states of consciousness and their attendant spiritual beings.
 
 {% include figure.html image="/images/images/fire-image.jpg" caption="Fire" width="400" %}
 
@@ -51,7 +52,7 @@ Even though Christ and Christ consciousness refer to the same level of the Divin
 To clarify, you have Jesus, the man and Christ, the Christ consciousness which is better thought of as a high spiritual being. In fact, the Christ consciousness is considered an emanation of the Solar Logos, an even higher emanation and spiritual being. The Solar Logos is a manifestation of the Divine who is in charge of humanity and this corner of the worlds to which human beings belong. It can be said that Solar Logos, Lord Melchisedek and Christ as being one and the same consciousness – experientially, they are perceived as that from the standpoint of our earthly human minds. In actuality though, Christ and Melchisedek are not the Solar Logos but the combined essence of the Solar Logos emanations of it.
 
 #### Solar Logos
-Logos is the Ancient Greek term for Word, the creative principle as in, “In the beginning was the Word and the Word was with God, and the Word was God. He was in the beginning with God. All things were made by him, and not one thing was made without him” [2]. The Solar Logos corresponds to what Max Heindel calls ‘the God of our Solar System’ [3]. Christ consciousness is the manifestation of the Solar Logos in charge of humanity for this present period whilst Lord Melchisedek was the manifestation of the Solar Logos which took care of humanity during the prior phase of human evolution.
+Logos is the Ancient Greek term for Word, the creative principle as in, “In the beginning was the Word and the Word was with God, and the Word was God. He was in the beginning with God. All things were made by him, and not one thing was made without him” <a href="https://petertwigg.com/context/2020/05/03/what-is-consciousness/">[2]</a>. The Solar Logos corresponds to what Max Heindel calls ‘the God of our Solar System’ <a href="https://petertwigg.com/context/2020/05/03/what-is-consciousness/">[3]</a>. Christ consciousness is the manifestation of the Solar Logos in charge of humanity for this present period whilst Lord Melchisedek was the manifestation of the Solar Logos which took care of humanity during the prior phase of human evolution.
 
 #### Practical Application
 But why would we want to meditate then? Many people, myself included, reach a point in their lives where they ask themselves: “is this all there is to being alive on Earth?” The answer doesn’t lie in the circumstances of your life, it’s ups and downs, the travesties and the hurt.
@@ -66,11 +67,11 @@ But why would we want to meditate then? Many people, myself included, reach a po
   <footer>Insciption over the portal to the Delphi temple</footer>
 </blockquote>
 
-Our most important task while being here in Earth is to know your Self which, spiritually is an inward journey of discovery that reveals the fullness, richness and the Source [4] from where you come from and where you will return. The Fire that is your consciousness and your Ego, is that substance by which you can know your self.
+Our most important task while being here in Earth is to know your Self which, spiritually is an inward journey of discovery that reveals the fullness, richness and the Source <a href="https://petertwigg.com/context/2020/05/03/what-is-consciousness/">[4]</a>[4] from where you come from and where you will return. The Fire that is your consciousness and your Ego, is that substance by which you can know your self.
 
 
 #### References
-[1] Robert Kleinman, Four Faces of the Universe: An Integrated View of the Cosmos, 2007, p. 186
-[2] Gospel of St John 1:3
-[3] Rosicrucian Cosmo-Conception, part 2, chapter 5, p. 182.
-[4] Sagan, Samuel: Planetary Forces, Alchemy and Healing, Chapter 24
+<a name="[]1">[1] Robert Kleinman, Four Faces of the Universe: An Integrated View of the Cosmos, 2007, p. 186
+<a name="[2]"> Gospel of St John 1:3
+<a name="[3]"> Rosicrucian Cosmo-Conception, part 2, chapter 5, p. 182.
+<a name="[4]"> Sagan, Samuel: Planetary Forces, Alchemy and Healing, Chapter 24
