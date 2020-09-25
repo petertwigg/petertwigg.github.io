@@ -1,6 +1,6 @@
 ---
 layout: post
-title: what-is-consciousness
+title: What is Consciousness?
 categories:
 - Context
 feature_image: 
