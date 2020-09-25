@@ -17,6 +17,7 @@ I also employ techniques of meditation to bring about health, healing and transf
 
 ### Working with Peter
 Grounded in long-time meditation and healing practices, I offer the following services:
+* Read my blog posts for tips, techniques and context on meditation.
 * Refer to [My Meditation Channel](/my-meditation-channel) page for video content to improve your meditation experience and discuss many aspects of meditation.
 * Meditation courses for groups and individuals, [learn more...](/events)
 * Corporate meditation training programs [learn more...](/corporate).
