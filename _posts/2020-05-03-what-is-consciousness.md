@@ -37,7 +37,7 @@ Robert Kleinman [1] suggests that underlying the worldview of traditional cosmol
 
 #### Yet this is just the start of the journey. The more we meditate, we move to contacting the substance of consciousness. That substance is Fire. One of the two elements that make up the firmament we inhabit. Ultimately consciousness is Fire and extends beyond the creation. Raising the level of Fire means raising your vibration. The more you can hold higher levels of Fire, the more you can resonate with higher order states of consciousness and their attendant spiritual beings.
 
-{% include figure.html image="/images/image_posts/fire-image.jpg" caption="Fire" width="400" %}
+{% include figure.html image="/images/images/fire-image.jpg" caption="Fire" width="400" %}
 
 #### Fire
 Why do people get antsy after being forced to be still for a little while? The level of spiritual fire starts to build up and they begin to feel uncomfortable as samskaras (emotional blockages) begin to erupt. They become restless and feel the need to move. To stay in prolonged states of stillness without the requisite releasing of samskaras means people can go into deeply, painful emotional states. This is due to the activation of core samskaras by Fire. Interesting to reflect on the term “trial by fire” isn’t it?
