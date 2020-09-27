@@ -12,6 +12,11 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 
+### Recent Blog Articles
+[Rituals & Meditation](https://petertwigg.com/context/2020/08/09/rituals-&-meditation/)<br>
+[Truth as Sword & Shield in Meditation & Life](https://petertwigg.com/context/2020/05/31/truth-as-sword-and-shield-in-meditation-and-life/)<br>
+[What is consciousness?](https://petertwigg.com/context/2020/05/03/what-is-consciousness/)
+
 ### Working with Peter
 Grounded in long-time meditation and healing practices, I offer the following services:
 * Refer to [My Meditation Channel](/my-meditation-channel) page for video content to improve your meditation experience and discuss many aspects of meditation.
