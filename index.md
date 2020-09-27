@@ -49,5 +49,5 @@ Techniques involve meditation practice, IST — Inner Space Techniques of consci
 
 In my work with clients I draw from my training in homeopathy and naturopathy together with my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath towards becoming a healer. My task is to find the right tool to help you move forward. My focus also provides a framework in which to help people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest level of yourself.
 
-> Our ordinary consciousness is not natural, but an acquired product. This as given us both many useful skills and many insane sources of useless suffering.  
+> Our ordinary consciousness is not natural, but an acquired product. This has given us both many useful skills and many insane sources of useless suffering.  
 > &mdash; Charles Tart, Waking Up
