@@ -24,6 +24,7 @@ Grounded in long-time meditation and healing practices, I offer the following se
 * Corporate meditation training programs [learn more...](/corporate).
 * One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
 * Counselling, [learn more...](/sessions/#counselling)
+* Vibratonal Healing [learn more...](sessions/#vibrationalhealing)
 * Deal with physical health issues using naturopathic or homeopathic methods. 
 
 ### Expertise
