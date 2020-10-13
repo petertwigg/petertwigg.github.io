@@ -16,8 +16,8 @@ I also employ techniques of meditation to bring about health, healing and transf
 [What is consciousness?](/context/2020/05/03/what-is-consciousness/)
 
 ### Recent Testimonials
-> Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
-> <footer> Doctor, Sydney, NSW, Australia</footer>
+> Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.  
+ <footer> Doctor, Sydney, NSW, Australia</footer>
 
 ### Working with Peter
 Grounded in long-time meditation and healing practices, I offer the following services:
