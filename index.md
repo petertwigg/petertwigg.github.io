@@ -11,6 +11,7 @@ I have been meditating for over 35 years and had the privilege of teaching medit
 I also employ techniques of meditation to bring about health, healing and transformation in conjunction with homeopathy and naturopathy. Some of the outcomes of my work include resolving emotional blockages, restoring health so you are free to be yourself. Achieving more of your potential and helping you to recognise your true nature are key benchmarks to changing. 
 
 ### Online Events & Courses
+Coming soon 
 
 ### Recent Blog Articles
 [Rituals & Meditation](/context/2020/08/09/rituals-&-meditation/)
@@ -40,8 +41,6 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
 </blockquote>
 
-
-
 ### Videos on Meditation
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer some short videos with tips and explanations to help you improve your meditation practice. Please click on [My Meditation Channel](/my-meditation-channel) or go directly to [YouTube.com](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
@@ -50,7 +49,7 @@ Meditation offers a pathway of self exploration that closely integrates physical
 
 Engaging a strong meditation practice also brings an expanded awareness of states of consciousness, the nature of your mind, healing, harmony and release from emotional blockages.
 
-Techniques involve meditation practice, IST — Inner Space Techniques of consciousness (therapeutic cognitive processes) to bring healing and harmony, work with death, bereavement and release from emotional blockages. Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world whilst being open to higher dimensions of yourself.
+Techniques involve meditation practice, IST — Inner Space Techniques of consciousness (a therapeutic cognitive process) to bring healing and harmony, work with death, bereavement and release from emotional blockages. Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world whilst being open to higher dimensions of yourself.
 
 In my work with clients I draw from my training in homeopathy and naturopathy together with training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath towards becoming a healer. My task is to find the right tool to help you move forward. My focus also provides a framework in which to help people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest level of yourself.
 
