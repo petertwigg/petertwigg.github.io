@@ -1,6 +1,9 @@
 ---
+title: About Peter
 layout: page
-title: About this website
+feature_image: "/images/banner-main-01-1600.jpg"
+feature_text:
+aside: true
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+{% include figure.html image="/images/"peter-twigg-photo.jpg" caption="Peter Twigg" width="200" %}
