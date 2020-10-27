@@ -9,7 +9,7 @@ Peter Twigg, Meditation Based Therapies, Healer & Naturopath
 
 Email: [info@petertwigg.com](mailto:info@petertwigg.com)
 
-Face to Face Sessions: Address provided on appointment, Bathurst, NSW Australia. 
+Face2Face Sessions: Address provided on appointment, Bathurst, NSW Australia. 
 
 Online Sessions: See [info@petertwigg.com](mailto:info@petertwigg.com)
 
