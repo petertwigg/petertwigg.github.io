@@ -71,7 +71,7 @@ Our most important task while being here in Earth is to know your Self which, sp
 
 
 #### References
-<a name="[]1">[1] Robert Kleinman, Four Faces of the Universe: An Integrated View of the Cosmos, 2007, p. 186
+<a name="[1]">[1] Robert Kleinman, Four Faces of the Universe: An Integrated View of the Cosmos, 2007, p. 186
 <a name="[2]"> Gospel of St John 1:3
 <a name="[3]"> Rosicrucian Cosmo-Conception, part 2, chapter 5, p. 182.
 <a name="[4]"> Sagan, Samuel: Planetary Forces, Alchemy and Healing, Chapter 24

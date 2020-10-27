@@ -33,10 +33,10 @@ Grounded in long-time meditation and healing practices, I offer the following se
 * Counselling, [learn more...](/sessions/#counselling)
 
 ### Expertise
-In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
+In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your consciousness is independent of your physical body. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In other words, the general neuroses of the modern world responds well to meditation and meditation based cognitive therapies.
 
 <blockquote class="photo">
-	<img src="/images/"peter-twigg-photo.jpg width="200">
+	{% include figure.html image="/images/images/"peter-twigg-photo.jpg" width="200" %}
 	<p>True healing takes place when one lets go of form and comes to rest on the formless.</p>
 	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
 </blockquote>
