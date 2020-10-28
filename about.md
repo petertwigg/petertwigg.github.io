@@ -6,7 +6,7 @@ feature_text:
 aside: true
 ---
 
-{% include figure.html image="/images/"peter-twigg-photo.jpg" caption="Peter Twigg" width="400" %}
+{% include figure.html image="/images/peter-twigg-photo.jpg" caption="Peter Twigg" width="400" %}
 
 
 ### About Peter
