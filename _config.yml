@@ -49,7 +49,7 @@ navigation_header:
   url: /sessions/
 - title: Testimonials
   url: /testimonials/
-  - title: About
+- title: About
   url: /about/
 - title: Contact
   url: /contact/
