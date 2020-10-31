@@ -12,6 +12,17 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 
+### Forthcoming Online Workshops & Meditation Groups
+Coming soon for 2021.  
+
+### Latest Video
+
+[12 Signs Your Meditation is Working](https://youtu.be/FqIxvn3TQxY). Experiences we have in meditation are indicators of the success of your practice. Everything means something in meditation. This is where tips, techniques and context become invaluable in aiding you to deeper, more fulfilling meditations.
+
+### Latest Testimonial 
+>Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
+> <footer> Doctor, Sydney, NSW, Australia</footer>
+
 ### Working with Peter
 Grounded in long-time meditation and healing practices, I offer the following services:
 * Refer to [My Meditation Channel](/my-meditation-channel) page for video content to improve your meditation experience and discuss many aspects of meditation.
@@ -45,5 +56,7 @@ Techniques involving meditation practice, enhanced mindfulness, sourcing and rel
 
 In my work with clients I draw from my training in homeopathy and naturopathy together with my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath towards becoming a healer. My task is to find the right tool to help you move forward. My focus also provides a framework in which to help people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest level of yourself.
 
-> Our ordinary consciousness is not natural, but an acquired product. This has given us both many useful skills and many insane sources of useless suffering.  
-> &mdash; Charles Tart, Waking Up
+<blockquote class="photo">
+		<p>Our ordinary consciousness is not natural, but an acquired product. This has given us both many useful skills and many insane sources of useless suffering.</p>
+	<footer>~ Charles Tart, Waking Up</footer>
+</blockquote>
