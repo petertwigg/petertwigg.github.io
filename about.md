@@ -11,6 +11,5 @@ I have been a practicing homeopath and naturopath for over 29 years. I've led re
 
 <blockquote class="photo">
 	<img src="/images/peter-twigg-photo.jpg" width="500">
-	
 	<footer>Peter Twigg<br></footer>
 </blockquote>
