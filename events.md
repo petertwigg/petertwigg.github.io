@@ -6,9 +6,42 @@ feature_text:
 aside: true 
 ---
 
-#### Events Being Held Near You
-<br>
+### Events Being Held Near You
 
-Interested in events near you? Contact Peter Twigg to discuss your needs on 0450 976 441.
+
+##### Zoom Online - Introducing Meditation 
+
+Language Spoken: English
+
+Dates: 
+18th January 2021  
+25th January 2021  
+1st  February 2021 
+18th February 2021 
+
+Time: 6pm AEST, 8am Eastern European Time, 7am Western European Time, 
+(Please check your times carefully)
+
+Cost: AUD$33.00
+
+Register here for [Zoom Online - Introducing Meditation (Online)]()
+
+
+##### Zoom Online - Meditation for Health 
+
+Language Spoken: English
+
+Dates: 
+
+23rd January 2021  
+
+Time: 6pm AEST, 8am Eastern European Time, 7am Western European Time, 
+(Please check your times carefully)
+
+Cost: AUD$33.00
+
+Register here for [Zoom Online - Meditation for Health (Online)]()
+
 
 ---
+
