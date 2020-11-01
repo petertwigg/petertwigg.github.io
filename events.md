@@ -34,6 +34,9 @@ Language Spoken: English
 Dates: 
 
 23rd January 2021  
+30th January 2021  
+6th  February 2021 
+13th February 2021
 
 Time: 6pm AEST, 8am Eastern European Time, 7am Western European Time, 
 (Please check your times carefully)
