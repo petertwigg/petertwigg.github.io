@@ -73,6 +73,15 @@ blockquote.photo img {
 	}
 }
 
-#mc_embed_signup form {
-	background: #ded5c7; padding-bottom: 2em;
+aside #mc_embed_signup {
+
+	form {
+		background: #ded5c7; padding-bottom: 2em;
+
+			label {
+				font-weight: normal;
+				padding-bottom: 0;
+				margin-bottom: 0;
+			}
+	}
 }

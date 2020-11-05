@@ -55,5 +55,5 @@ In my work with clients I draw from my training in homeopathy and naturopathy to
 
 <blockquote class="photo">
 		<p>Our ordinary consciousness is not natural, but an acquired product. This has given us both many useful skills and many insane sources of useless suffering.</p>
-	<footer>~ Charles Tart, Waking Up</footer>
+	<footer>~ Charles Tart, <i>Waking Up</i></footer>
 </blockquote>
