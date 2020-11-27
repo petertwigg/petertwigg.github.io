@@ -9,8 +9,6 @@ aside: true
 
 For people choosing to start a meditation practice. 
 
-Prerequisite for joining weekly meditation groups (free).***
-
 In this weekly 1 hour course I provide the key elements to help you onto your meditation path. I also provide some simple models and context to help you understand your meditation experience.
 
 ##### Topics Include: 
@@ -19,40 +17,44 @@ In this weekly 1 hour course I provide the key elements to help you onto your me
 * Meditation - The Breath (1)
 * Where & when you meditate.
 * Your meditation device.
-* Meditation - The Mantra (2)
+* Meditation - Mantras (2)
 * A typical meditation practice (e-Handout).
-* Layers of Consciousness Model. 
+* Subtle Bodies Model. 
+* Understand how your body, mind and metaphysical dimensions work together.
 * Dealing with aches, pains & emotions coming up in meditation.
-* Meditation - The Chakra (3)
-* Discussion & Close.
+* Meditating with Chakras (3)
+* Discussion
+* Meditation & Close.
 
 ##### Note: 
 * We will be engaging in meditation practices together.
 * Opportunities to ask specific questions about your meditation process.
 * A list of items to have at the workshop will be sent when you register. 
+* This course is a prerequisite for joining our free weekly meditation groups unless you have a prior history of meditation and/or completed a short entry interview.
 
-[Check events near you and register here](/events) Cost: AUD$33.00
+[Check for events and register here](/events) Cost: AUD$33.00
 
 ---
 
 ##### Tips, Techniques & Context to Improve Your Meditation (Online)
 
-For people wanting to build on their experience. It assumes you have already tried meditation or have a regular meditation practice. 
+For people wanting to build on their meditation experience. It assumes you have already tried meditation or have a regular meditation practice. 
 
 In this weekly 1 hour course we examine key processes to help improve your meditation experience. I provide necessary context to understand what is happening in your meditation.
 
 ##### Includes: 
 * The importance of right posture.
 * Your meditation device.
-* Meditation - The Breath (1)
+* Meditation - Mantras (2). 
 * Where & when you meditate.
 * A typical meditation practice (e-Handout).
-* Layers of Consciousness Model.
-* Meditation - The Mantra (2)
+* Subtle Bodies Model.
+* Understand how your body, mind and metaphysical dimensions work together.
 * Dealing with aches, pains & emotions coming up in meditation.
 * States & experiences in meditation.
-* Meditation - The Chakra (3)
-* Discussion & Close. 
+* Meditating with Chakras (3)
+* Discussion
+* Meditation & Close. 
 
 ##### Note: 
 * We will be engaging in meditation practices together.
@@ -60,11 +62,11 @@ In this weekly 1 hour course we examine key processes to help improve your medit
 * Opportunities to ask specific questions about your meditation process.
 * A list of items to have at the workshop will be sent when you register. 
 
-[Check events near you and register here](/events) Cost: $33.00
+[Check events near you and register here](/events) Cost: AUD$33.00
 
 --- 
 
-##### Meditation for Health
+##### Meditation for Health (Online)
 
 For people experiencing health issues involving anxiety, stress, asthma, or a low level of wellbeing.
 
@@ -77,20 +79,20 @@ In this 2 hour course I provide the key elements to help you deal with health is
 * The importance of right posture.
 * Where & when you meditate.
 * A simple healing meditation (1)
-* Layers of Consciousness Model.
+* Dealing with acute situations.
+* Subtle Bodies Model.
 * When and how to use meditation to deal with health issues.
 * A typical meditation practice.
-* Meditation (2)
 * Understand how your body, mind and metaphysical dimensions work together.
 * Meditation & Close (3)
 
 ##### Note: 
 * We will be engaging in meditation practices together.
 * Plenty of time will be given to practice the meditation togther.
-* Opportunities to ask specific questions about the meditation process.
+* Opportunities to ask specific questions about your meditation process.
 * A list of items to have at the workshop will be sent when you register. 
 
-[Check events near you and register here](/events) Cost: $33.00 
+[Check events near you and register here](/events) Cost: AUD$33.00 
 
 
 --- 

@@ -13,7 +13,15 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 
 ### Forthcoming Online Workshops & Meditation Groups
-Coming soon for 2021.  
+
+##### Introducing Meditation (Online) 
+[Find out more here](https://petertwigg.com/courses/IntroducingMeditation (Online) )
+
+##### Tips, Techniques & Context to Improve Your Meditation (Online)
+[]()
+
+##### Meditation for Health (Online)
+[]()
 
 ### Latest Video
 
