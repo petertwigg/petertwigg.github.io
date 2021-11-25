@@ -30,7 +30,7 @@ You are invited to join in this free weekly 40 minute meditation group. We medit
 * A list of items to have at the workshop will be sent when you register. 
 * This program is free and a requisite for joining our weekly meditation training unless you have a prior history of meditation and/or completed a short entry interview.
 
-To register, please email me: [info@petertwigg.com](info@petertwigg.com) 
+To register, please email me: info@petertwigg.com 
 
 ---
 
@@ -52,7 +52,7 @@ In this 2 hour course I provide the key elements to help you deal with health is
 * When and how to use meditation to deal with health issues.
 * A typical meditation practice.
 * Understand how your body, mind and metaphysical dimensions work together.
-* Meditation & Close 
+* Meditation & Close. 
 
 ##### Note: 
 * We will be engaging in meditation practices together.
@@ -62,7 +62,7 @@ In this 2 hour course I provide the key elements to help you deal with health is
 
 [Check events dates](/events) Cost: $/€/£ 50.00 
 
-To register, please email me: [info@petertwigg.com](info@petertwigg.com)
+To register, please email me: info@petertwigg.com 
 
 <!-------->
 

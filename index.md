@@ -16,12 +16,12 @@ Helping clients to achieve more of their potential and recognise their true natu
 
 ##### Meditation Groups (Online)
 
-[Find out more here](https://petertwigg.com/courses/) (Online)
+[Find out more here](https://petertwigg.com/courses/) 
 
 ##### Meditation for Health (Online)
 Next course: 5th February, 2022  
 
-[Find out more here](https://petertwigg.com/courses/) (Online)
+[Find out more here](https://petertwigg.com/courses/) 
 
 
 ### Latest Video

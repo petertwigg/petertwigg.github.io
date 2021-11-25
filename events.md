@@ -16,7 +16,7 @@ Language Spoken: English
 Dates: 
 
 5th February 2022  
-6th March 2022 
+6th March 2022   
 2nd April 2022
 
 Time: 10am Eastern European Time, 9am Western European Time, 
