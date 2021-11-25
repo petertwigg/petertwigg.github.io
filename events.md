@@ -6,25 +6,7 @@ feature_text:
 aside: true 
 ---
 
-### Events Being Held Near You
-
-
-##### Zoom Online - Introducing Meditation 
-
-Language Spoken: English
-
-Dates: 
-18th January 2021  
-25th January 2021  
-1st  February 2021 
-18th February 2021 
-
-Time: 6pm AEST, 8am Eastern European Time, 7am Western European Time, 
-(Please check your times carefully)
-
-Cost: AUD$33.00
-
-Register here for [Zoom Online - Introducing Meditation (Online)]()
+### Events 
 
 
 ##### Zoom Online - Meditation for Health 
@@ -33,18 +15,18 @@ Language Spoken: English
 
 Dates: 
 
-23rd January 2021  
-30th January 2021  
-6th  February 2021 
-13th February 2021
+5th February 2022  
+6th March 2022 
+2nd April 2022
 
-Time: 6pm AEST, 8am Eastern European Time, 7am Western European Time, 
+Time: 10am Eastern European Time, 9am Western European Time, 
 (Please check your times carefully)
 
-Cost: AUD$33.00
+Cost: $/€/£ 50.00
 
-Register here for [Zoom Online - Meditation for Health (Online)]()
+Zoom Online - Meditation for Health (Online)
 
+To register, please email me: info@petertwigg.com 
 
 ---
 
