@@ -14,14 +14,15 @@ Helping clients to achieve more of their potential and recognise their true natu
 
 ### Forthcoming Online Workshops & Meditation Groups
 
-##### Introducing Meditation (Online) 
-[Find out more here](https://petertwigg.com/courses/IntroducingMeditation (Online) )
+##### Meditation Groups (Online)
 
-##### Tips, Techniques & Context to Improve Your Meditation (Online)
-[]()
+[Find out more here](https://petertwigg.com/courses/MeditationGroups (Online))
 
 ##### Meditation for Health (Online)
-[]()
+Next course: 5th February, 2022  
+
+[Find out more here](https://petertwigg.com/courses/MeditationforHealth (Online))
+
 
 ### Latest Video
 
