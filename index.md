@@ -6,7 +6,7 @@ feature_text:
 aside: true
 ---
 
-I have been meditating for over 35 years and had the privilege of teaching meditation in workshops and private practice all around the world.
+I have been meditating for over 38 years and had the privilege of teaching meditation in workshops and private practice all around the world.
 
 I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I also practice as a homeopath and naturopath. Some of the outcomes of my work include helping people restore health and resolve emotional blockages so you are free to be yourself. 
 
@@ -16,12 +16,12 @@ Helping clients to achieve more of their potential and recognise their true natu
 
 ##### Meditation Groups (Online)
 
-[Find out more here](https://petertwigg.com/courses/MeditationGroups (Online))
+[Find out more here](https://petertwigg.com/courses/) (Online)
 
 ##### Meditation for Health (Online)
 Next course: 5th February, 2022  
 
-[Find out more here](https://petertwigg.com/courses/MeditationforHealth (Online))
+[Find out more here](https://petertwigg.com/courses/) (Online)
 
 
 ### Latest Video
