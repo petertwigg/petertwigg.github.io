@@ -5,66 +5,34 @@ feature_image: "/images/bufovento-02-1664.jpg"
 feature_text: 
 aside: true
 ---
-##### Introducing Meditation (Online)
+##### Free Meditation Groups (Online)
 
-For people choosing to start a meditation practice. 
+For people wanting to experience and practice meditation in a group. 
 
-In this weekly 1 hour course I provide the key elements to help you onto your meditation path. I also provide some simple models and context to help you understand your meditation experience.
+You are invited to join in this free weekly 40 minute meditation group. We meditate for 10 minutes to begin, follow with a short talk and question  introducing key elements to help you on your meditation path. I also provide some simple models and context to help you understand your meditation experience. We then follow up with a final meditation.
 
 ##### Topics Include: 
 * The only rule of meditation.
 * The importance of right posture.
-* Meditation - The Breath (1)
+* Meditation - The Breath.
 * Where & when you meditate.
 * Your meditation device.
-* Meditation - Mantras (2)
+* Meditation - Mantras.
 * A typical meditation practice (e-Handout).
 * Subtle Bodies Model. 
 * Understand how your body, mind and metaphysical dimensions work together.
 * Dealing with aches, pains & emotions coming up in meditation.
-* Meditating with Chakras (3)
-* Discussion
-* Meditation & Close.
+* Meditation - Focus on Chakras. 
 
 ##### Note: 
-* We will be engaging in meditation practices together.
-* Opportunities to ask specific questions about your meditation process.
+* We engage in meditation practices together.
+* There are opportunities to ask specific questions about your meditation process.
 * A list of items to have at the workshop will be sent when you register. 
-* This course is a prerequisite for joining our free weekly meditation groups unless you have a prior history of meditation and/or completed a short entry interview.
+* This program is free and a requisite for joining our weekly meditation training unless you have a prior history of meditation and/or completed a short entry interview.
 
-[Check for events and register here](/events) Cost: AUD$33.00
+To register, please email me: info@petertwigg.com 
 
 ---
-
-##### Tips, Techniques & Context to Improve Your Meditation (Online)
-
-For people wanting to build on their meditation experience. It assumes you have already tried meditation or have a regular meditation practice. 
-
-In this weekly 1 hour course we examine key processes to help improve your meditation experience. I provide necessary context to understand what is happening in your meditation.
-
-##### Includes: 
-* The importance of right posture.
-* Your meditation device.
-* Meditation - Mantras (2). 
-* Where & when you meditate.
-* A typical meditation practice (e-Handout).
-* Subtle Bodies Model.
-* Understand how your body, mind and metaphysical dimensions work together.
-* Dealing with aches, pains & emotions coming up in meditation.
-* States & experiences in meditation.
-* Meditating with Chakras (3)
-* Discussion
-* Meditation & Close. 
-
-##### Note: 
-* We will be engaging in meditation practices together.
-* Plenty of time will be given to practice the meditations togther.
-* Opportunities to ask specific questions about your meditation process.
-* A list of items to have at the workshop will be sent when you register. 
-
-[Check events near you and register here](/events) Cost: AUD$33.00
-
---- 
 
 ##### Meditation for Health (Online)
 
@@ -78,13 +46,13 @@ In this 2 hour course I provide the key elements to help you deal with health is
 * Your meditation device.
 * The importance of right posture.
 * Where & when you meditate.
-* A simple healing meditation (1)
+* A simple healing meditation 
 * Dealing with acute situations.
 * Subtle Bodies Model.
 * When and how to use meditation to deal with health issues.
 * A typical meditation practice.
 * Understand how your body, mind and metaphysical dimensions work together.
-* Meditation & Close (3)
+* Meditation & Close 
 
 ##### Note: 
 * We will be engaging in meditation practices together.
@@ -92,11 +60,11 @@ In this 2 hour course I provide the key elements to help you deal with health is
 * Opportunities to ask specific questions about your meditation process.
 * A list of items to have at the workshop will be sent when you register. 
 
-[Check events near you and register here](/events) Cost: AUD$33.00 
+[Check events dates](/events) Cost: $/€/£ 50.00 
 
+To register, please email me: info@petertwigg.com 
 
---- 
-
+<!-------->
 
 
 
