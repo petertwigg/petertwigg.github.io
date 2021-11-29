@@ -60,7 +60,7 @@ In this 2 hour course I provide the key elements to help you deal with health is
 * Opportunities to ask specific questions about your meditation process.
 * A list of items to have at the workshop will be sent when you register. 
 
-[Check events dates](/events) Cost: $/€/£ 50.00 
+[Check event dates](/events) Cost: $/€/£ 50.00 
 
 To register, please email me: info@petertwigg.com 
 
