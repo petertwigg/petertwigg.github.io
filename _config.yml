@@ -41,8 +41,6 @@ navigation_header:
   url: /courses/
 - title: Events
   url: /events/
-- title: Corporate Events
-  url: corporate 
 - title: Blog
   url: /blog/
 - title: Sessions
