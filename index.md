@@ -14,7 +14,7 @@ Helping clients to achieve more of their potential and recognise their true natu
 
 ### Forthcoming Online Meditation Groups & Courses
 
-##### Meditation Groups (Online)
+##### Free Meditation Groups (Online)
 
 [Find out more here](https://petertwigg.com/courses/) 
 
@@ -36,7 +36,6 @@ Next course: 5th February, 2022
 Grounded in long-time meditation and healing practices, I offer the following services:
 * Refer to [My Meditation Channel](/my-meditation-channel) page for video content to improve your meditation experience and discuss many aspects of meditation.
 * Meditation courses for groups and individuals, [learn more...](/events)
-* Corporate meditation training programs [learn more...](/corporate).
 * One-on-one transformative sessions, [learn more...](/sessions/#working-with-your-potential)
 * Counselling, [learn more...](/sessions/#counselling)
 * Deal with physical health issues using naturopathic or homeopathic methods. 
