@@ -26,3 +26,16 @@ After site is built, navigate to:
 
 If `_config.yml` changed, restart Jekyll. To stop press `Ctrl-C`
 
+
+
+
+Add back pages if required: 
+<!-------->
+- title: Events
+  url: /events/
+- title: Blog
+  url: /blog/
+- title: Sessions
+  url: /sessions/
+
+ <!-------->
