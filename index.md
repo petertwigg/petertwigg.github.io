@@ -23,7 +23,7 @@ Coming Soon.
 In 'Spiritual Perspectives: What Do You Rest on in Meditation?'' we explore what you rest on in meditation. We discuss the device on which your consciousness rests. Tips, techniques & context to help improve your meditation. 
 
 {% include video.html id="xrjVtMfJOvs" title="Using Apps in Meditation" %}   
-Using Apps in Meditation explores using apps in meditation. We discuss what your consciousness does and how meditation apps impact that. Tips, techniques & context to help improve your meditation. 
+We explores using apps in meditation. We discuss what your consciousness does and how meditation apps impact that. Tips, techniques & context to help improve your meditation. 
 
 ##### Expertise
 In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In general, the neuroses of the modern world respond well to meditation and mindfulness processes.
