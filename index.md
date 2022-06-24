@@ -12,20 +12,12 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 
-### Forthcoming Online Meditation Groups & Courses
-
-##### Free Meditation Groups (Online)
-
-[Find out more here](https://petertwigg.com/courses/) 
-
-##### Meditation for Health (Online)
-Next course: 
-
-[Find out more here](https://petertwigg.com/courses/) 
+#### Online Meditation Groups & Courses
+Coming Soon.
 
 
-### Latest Video
-[Spiritual Perspectives:   What Do You Rest on in Meditation?] https://youtu.be/zT2YeE8nuPA
+### Latest Videos
+[Spiritual Perspectives: What Do You Rest on in Meditation?] https://youtu.be/zT2YeE8nuPA
 In this video we explore what you rest on in meditation? We discuss the device on which your consciousness rests.
 Tips, techniques & context to help improve your meditation. 
 
