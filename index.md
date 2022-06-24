@@ -12,22 +12,20 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 
-#### Videos on Meditation & Mindfulness
+##### Videos on Meditation & Mindfulness
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [My Meditation Channel](/my-meditation-channel) or go directly to [YouTube.com](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
-#### Online Meditation Courses
+##### Online Meditation Courses
 Coming Soon.
 
-#### Latest Videos
-[Spiritual Perspectives: What Do You Rest on in Meditation?]{% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}
-In this video we explore what you rest on in meditation? We discuss the device on which your consciousness rests.
-Tips, techniques & context to help improve your meditation. 
+##### Latest Videos
+{% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}
+In 'Spiritual Perspectives: What Do You Rest on in Meditation?'' we explore what you rest on in meditation. We discuss the device on which your consciousness rests. Tips, techniques & context to help improve your meditation. 
 
-[Using Apps in Meditation]{% include video.html id="xrjVtMfJOvs" title="Using Apps in Meditation" %}
-In this video we explore using apps in meditation.
-Tips, techniques & context to help improve your meditation. 
+{% include video.html id="xrjVtMfJOvs" title="Using Apps in Meditation" %}
+Using Apps in Meditation explores using apps in meditation. We discuss what your consciousness does and how meditation apps impact that. Tips, techniques & context to help improve your meditation. 
 
-#### Expertise
+##### Expertise
 In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In general, the neuroses of the modern world respond well to meditation and mindfulness processes.
 
 <blockquote class="photo">
@@ -36,7 +34,7 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
 </blockquote>
 
-#### Meditation & Mindfulness
+##### Meditation & Mindfulness
 Meditation offers a pathway of self exploration that closely integrates physical, mental and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. Improved presence comes from increased mindfulness and a certain freedom from the vexations of the modern world. 
 
 Engaging a strong meditation practice brings an expanded awareness of states of consciousness, the nature of your mind, healing, harmony and release from emotional blockages.
@@ -45,7 +43,7 @@ Techniques involving meditation practice, enhanced mindfulness, sourcing and rel
 
 In working with clients I draw from my training in homeopathy and naturopathy together with my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath towards becoming a healer. My task is to find the right tool to help you move forward. My focus also provides a framework by which people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest level of yourself.
 
-#### Latest Testimonial 
+##### Latest Testimonial 
 >Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
 > <footer> Doctor, Sydney, NSW, Australia</footer>
 

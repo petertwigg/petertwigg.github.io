@@ -8,7 +8,7 @@ aside: true
 
 Some feedback from my clients...
 
-## Testimonials from clients who have worked with Peter Twigg
+##### Testimonials from clients who have worked with Peter Twigg
 
 
 > Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
