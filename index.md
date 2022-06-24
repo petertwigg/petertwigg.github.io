@@ -19,14 +19,19 @@ Helping clients to achieve more of their potential and recognise their true natu
 [Find out more here](https://petertwigg.com/courses/) 
 
 ##### Meditation for Health (Online)
-Next course: 5th February, 2022  
+Next course: 
 
 [Find out more here](https://petertwigg.com/courses/) 
 
 
 ### Latest Video
+[Spiritual Perspectives:   What Do You Rest on in Meditation?] https://youtu.be/zT2YeE8nuPA
+In this video we explore what you rest on in meditation? We discuss the device on which your consciousness rests.
+Tips, techniques & context to help improve your meditation. 
 
-[12 Signs Your Meditation is Working](https://youtu.be/FqIxvn3TQxY). Experiences we have in meditation are indicators of the success of your practice. Everything means something in meditation. This is where tips, techniques and context become invaluable in aiding you to deeper, more fulfilling meditations.
+[Using Apps in Meditation] https://youtu.be/xrjVtMfJOvs 
+In this video we explore using apps in meditation.
+Tips, techniques & context to help improve your meditation. 
 
 ### Latest Testimonial 
 >Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
