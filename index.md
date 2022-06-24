@@ -1,5 +1,5 @@
 ---
-title: Meditation Based Cognitive Therapies & Practices 
+title: Peter Twigg Meditation
 layout: page
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:

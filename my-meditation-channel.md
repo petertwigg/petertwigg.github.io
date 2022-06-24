@@ -38,6 +38,17 @@ Tips and techniques to help improve your meditation. Often simple adjustments ca
 
 12 signs your meditation is working. Experiences we have in meditation are indicators of the success of your practice. Everything means something in meditation. This is where tips, techniques and context become invaluable in aiding you to deeper, more fulfilling meditations.
 
+### Using Apps in Meditation] 
+{% include video.html id="xrjVtMfJOvs" title="Using Apps inMeditation" %}
+In this video we explore using apps in meditation.
+Tips, techniques & context to help improve your meditation. 
+
+### Spiritual Perspectives:   What Do You Rest on in Meditation? 
+{% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}
+In this video we explore what you rest on in meditation? We discuss the device on which your consciousness rests.
+Tips, techniques & context to help improve your meditation. 
+
+
 
 ---
 
