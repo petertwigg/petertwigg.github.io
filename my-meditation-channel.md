@@ -33,9 +33,7 @@ In this video we demonstration and analyse what constitutes a good meditation po
 Tips and techniques to help improve your meditation. Often simple adjustments can bring dramatic results for your meditation practice.
 
 ### 12 Signs Your Meditation is Working
-
 {% include video.html id="FqIxvn3TQxY" title="12 Signs Your Meditation is Working" %}
-
 12 signs your meditation is working. Experiences we have in meditation are indicators of the success of your practice. Everything means something in meditation. This is where tips, techniques and context become invaluable in aiding you to deeper, more fulfilling meditations.
 
 ### Using Apps in Meditation 
