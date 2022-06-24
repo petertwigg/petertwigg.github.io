@@ -12,7 +12,7 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 
-#### Online Meditation Groups & Courses
+#### Online Meditation Courses
 Coming Soon.
 
 
