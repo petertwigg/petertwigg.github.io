@@ -19,10 +19,10 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Coming Soon.
 
 ##### Latest Videos
-{% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}
+{% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}  
 In 'Spiritual Perspectives: What Do You Rest on in Meditation?'' we explore what you rest on in meditation. We discuss the device on which your consciousness rests. Tips, techniques & context to help improve your meditation. 
 
-{% include video.html id="xrjVtMfJOvs" title="Using Apps in Meditation" %}
+{% include video.html id="xrjVtMfJOvs" title="Using Apps in Meditation" %}   
 Using Apps in Meditation explores using apps in meditation. We discuss what your consciousness does and how meditation apps impact that. Tips, techniques & context to help improve your meditation. 
 
 ##### Expertise
