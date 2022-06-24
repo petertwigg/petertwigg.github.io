@@ -11,6 +11,6 @@ Email: [info@petertwigg.com](mailto:info@petertwigg.com)
 
 Practice: Address provided on appointment, Sydney, NSW Australia. Skype sessions also provided.
 
-Mobile: +61 0450 976 441
+
 
 	
