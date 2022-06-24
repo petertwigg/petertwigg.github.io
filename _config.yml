@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://petertwigg.com'
 baseurl: ''
-title: 'Peter Twigg'
-description: 'Tips, techniques & context to help you improve your meditation experience. Meditation courses for groups and individuals. One-on-one transformative sessions and counselling.'
+title: 'Peter Twigg Meditation'
+description: 'Tips, techniques & context to help improve your meditation experience. Meditation courses for groups and individuals. How to videos providing tips, technques & context.'
 permalink: pretty
 logo: "https://s.gravatar.com/avatar/e93642b3913fe528117101c28451d28b?s=80"
 
@@ -39,12 +39,6 @@ navigation_header:
   url: /my-meditation-channel/
 - title: Courses
   url: /courses/
-- title: Events
-  url: /events/
-- title: Blog
-  url: /blog/
-- title: Sessions
-  url: /sessions/
 - title: Testimonials
   url: /testimonials/
 - title: About
@@ -74,7 +68,7 @@ social_links:
   Twitter: https://twitter.com/solon_1
   LinkedIn: https://www.linkedin.com/in/peter-twigg-991a8818b/
   Instagram: https://www.instagram.com/peter_twigg_meditation/
-  RSS: /feed.xml
+
   
 
 
@@ -84,3 +78,13 @@ sharing_links:
   facebook: "#3B5998"
   Email: true
  
+
+ <!-------->
+- title: Events
+  url: /events/
+- title: Blog
+  url: /blog/
+- title: Sessions
+  url: /sessions/
+
+ <!-------->
