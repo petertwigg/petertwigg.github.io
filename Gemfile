@@ -11,3 +11,5 @@ gem "jekyll-feed", "~> 0.13"
 gem "jemoji", "~> 0.11"
 gem "jekyll-remote-theme", "~> 0.4"
 gem "kramdown-parser-gfm",	"~> 1.1"
+
+gem "webrick", "~> 1.7"

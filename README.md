@@ -10,16 +10,11 @@ or
 
 ## How to run locally
 
-From windows menu type:
-
-`cmd`
-
-will open terminal
+Open terminal.
 
 In terminal type:
 
-`D:`
-'cd D:\GitHub\petertwigg.github.io' 
+`cd /Users/edwardtwigg/Documents/GitHub/petertwigg.github.io`
 
 Then to run locally type:
 
