@@ -5,13 +5,16 @@ feature_image: "/images/bufovento-02-1664.jpg"
 feature_text: 
 aside: true
 ---
-##### Free Meditation Groups (Online)
+### Online Meditation Trainings & Groups
+
+
+#### Free Online Meditation Group
 
 For people wanting to experience and practice meditation in a group. 
 
-You are invited to join in this free weekly 40 minute meditation group. We meditate for 10 minutes to begin, follow with a short talk and question  introducing key elements to help you on your meditation path. I also provide some simple models and context to help you understand your meditation experience. We then follow up with a final meditation.
+You are invited to join in this free weekly 60 minute meditation group. We meditate for 10 minutes to begin with, following up  with a short talk and question time and additional meditations. I introduce key elements to help you on your meditation path. I also provide some simple models and context to help you understand your meditation experience. We then follow up with a final meditation.
 
-##### Topics Include: 
+#### Topics Include: 
 * The only rule of meditation.
 * The importance of right posture.
 * Meditation - The Breath.
@@ -24,17 +27,19 @@ You are invited to join in this free weekly 40 minute meditation group. We medit
 * Dealing with aches, pains & emotions coming up in meditation.
 * Meditation - Focus on Chakras. 
 
-##### Note: 
+#### Note: 
 * We engage in meditation practices together.
 * There are opportunities to ask specific questions about your meditation process.
 * A list of items to have at the workshop will be sent when you register. 
 * This program is free and a requisite for joining our weekly meditation training unless you have a prior history of meditation and/or completed a short entry interview.
 
-To register, please email me: info@petertwigg.com 
+To register, email me: info@petertwigg.com 
 
 ---
 
-##### Meditation for Health (Online)
+
+<!--------->
+#### Meditation for Health (Online)
 
 For people experiencing health issues involving anxiety, stress, asthma, or a low level of wellbeing.
 
@@ -42,7 +47,7 @@ No prior knowledge needed.
 
 In this 2 hour course I provide the key elements to help you deal with health issues from a meditation perspective. I also provide some simple models to help you understand your meditation experience within the context of health and what indicates your meditation is working. 
 
-##### Includes: 
+#### Includes: 
 * Your meditation device.
 * The importance of right posture.
 * Where & when you meditate.
@@ -54,7 +59,7 @@ In this 2 hour course I provide the key elements to help you deal with health is
 * Understand how your body, mind and metaphysical dimensions work together.
 * Meditation & Close. 
 
-##### Note: 
+#### Note: 
 * We will be engaging in meditation practices together.
 * Plenty of time will be given to practice the meditation togther.
 * Opportunities to ask specific questions about your meditation process.

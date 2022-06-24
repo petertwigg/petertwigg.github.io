@@ -5,11 +5,10 @@ feature_image: "/images/kyrenia-03-1600.jpg"
 feature_text:
 ---
 
-Peter Twigg, Meditation Based Therapies, Healer & Naturopath
+Peter Twigg Meditation about Online Meditation Trainings and videos.
 
 Email: [info@petertwigg.com](mailto:info@petertwigg.com)
 
-Practice: Address provided on appointment, Sydney, NSW Australia. Skype sessions also provided.
 
 
 
