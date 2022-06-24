@@ -38,4 +38,11 @@ Add back pages if required:
 - title: Sessions
   url: /sessions/
 
+
+Index page (if needed)
+  #### Working with Peter
+Grounded in long-time meditation and healing practices, I offer the following services:
+* Refer to [My Meditation Channel](/my-meditation-channel) page for video content providing tips, technique & context to help improve your meditation experience.
+* Meditation courses  [learn more...](/courses)
+
  <!-------->

@@ -19,25 +19,16 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Coming Soon.
 
 #### Latest Videos
-[Spiritual Perspectives: What Do You Rest on in Meditation?] https://youtu.be/zT2YeE8nuPA
+[Spiritual Perspectives: What Do You Rest on in Meditation?]{% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}
 In this video we explore what you rest on in meditation? We discuss the device on which your consciousness rests.
 Tips, techniques & context to help improve your meditation. 
 
-[Using Apps in Meditation] https://youtu.be/xrjVtMfJOvs 
+[Using Apps in Meditation]{% include video.html id="xrjVtMfJOvs" title="Using Apps in Meditation" %}
 In this video we explore using apps in meditation.
 Tips, techniques & context to help improve your meditation. 
 
-#### Working with Peter
-Grounded in long-time meditation and healing practices, I offer the following services:
-* Refer to [My Meditation Channel](/my-meditation-channel) page for video content providing tips, technique & context to help improve your meditation experience.
-* Meditation courses  [learn more...](/courses)
-
 #### Expertise
 In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In general, the neuroses of the modern world respond well to meditation and mindfulness processes.
-
-#### Latest Testimonial 
->Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
-> <footer> Doctor, Sydney, NSW, Australia</footer>
 
 <blockquote class="photo">
 	<img src="/images/peter-twigg-photo.jpg" width="200">
@@ -53,6 +44,10 @@ Engaging a strong meditation practice brings an expanded awareness of states of 
 Techniques involving meditation practice, enhanced mindfulness, sourcing and release of emotional imprints and other therapeutic cognitive processes bring healing and harmony resulting in profound shifts. I also work with death and bereavement.  Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world by being open to higher dimensions of yourself.
 
 In working with clients I draw from my training in homeopathy and naturopathy together with my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath towards becoming a healer. My task is to find the right tool to help you move forward. My focus also provides a framework by which people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest level of yourself.
+
+#### Latest Testimonial 
+>Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
+> <footer> Doctor, Sydney, NSW, Australia</footer>
 
 <blockquote class="photo">
 		<p>Our ordinary consciousness is not natural, but an acquired product. This has given us both many useful skills and many insane sources of useless suffering.</p>
