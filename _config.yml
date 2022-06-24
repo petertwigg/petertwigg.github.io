@@ -39,12 +39,12 @@ navigation_header:
   url: /my-meditation-channel/
 - title: Courses
   url: /courses/
-- title: Testimonials
-  url: /testimonials/
 - title: About
   url: /about/
 - title: Contact
   url: /contact/
+  - title: Testimonials
+  url: /testimonials/
 
 
 # Footer nav
