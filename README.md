@@ -12,7 +12,7 @@ or
 
 Open terminal.
 
-In terminal type:
+In terminal type: 
 
 `cd /Users/edwardtwigg/Documents/GitHub/petertwigg.github.io`
 
