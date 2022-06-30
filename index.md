@@ -19,6 +19,7 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Coming Soon.
 
 ##### Latest Videos
+
 {% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}  
 In 'Spiritual Perspectives: What Do You Rest on in Meditation?'' we explore what you rest on in meditation. We discuss the device on which your consciousness rests. Tips, techniques & context to help improve your meditation. 
 
