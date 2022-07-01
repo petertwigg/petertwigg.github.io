@@ -12,7 +12,7 @@ These videos are designed to address different aspects of meditation so that you
 {% include video.html id="uRep6giNcv8" title="The One Rule of Meditation" %}
 In this video we discuss the One Rule of Meditation, which can save a lot of pain and expense with your knees.
 
-ooo000ooo
+<small>ooo000ooo</small>
 
 {% include video.html id="GlTfNfZfFrs" title="Aches, Pains & Emotions in Meditation" %}
 In this video we discuss what to do when aches, pains & emotions come up in meditation. 
