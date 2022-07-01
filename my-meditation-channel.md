@@ -14,7 +14,6 @@ In this video we discuss the One Rule of Meditation, which can save a lot of pai
 
 ooo000ooo
 
-
 {% include video.html id="GlTfNfZfFrs" title="Aches, Pains & Emotions in Meditation" %}
 In this video we discuss what to do when aches, pains & emotions come up in meditation. 
 
