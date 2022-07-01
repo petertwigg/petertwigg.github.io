@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Peter
-feature_image: "/images/intense-fire.jpg"
+feature_image: "/images/Fire3.jpg"
 feature_text:
 ---
 
