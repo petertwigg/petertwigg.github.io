@@ -15,11 +15,11 @@ Helping clients to achieve more of their potential and recognise their true natu
 ##### Videos on Meditation & Mindfulness
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [My Meditation Channel](/my-meditation-channel) or go directly to [YouTube.com](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
+{% include video.html id="kjvvZsJBSE4" title="Creating a Meditation Space for Yourself" %}
+We discuss some of the things you need to take into account when you are creating a meditation space for yourself. 
+
 {% include video.html id="zT2YeE8nuPA" title="Spiritual Perspectives: What Do You Rest on in Meditation? " %}  
 In 'Spiritual Perspectives: What Do You Rest on in Meditation?'' we explore what you rest on in meditation. We discuss the device on which your consciousness rests. Tips, techniques & context to help improve your meditation. 
-
-{% include video.html id="xrjVtMfJOvs" title="Using Apps in Meditation" %}   
-We explores using apps in meditation. We discuss what your consciousness does and how meditation apps impact that. Tips, techniques & context to help improve your meditation. 
 
 ##### Online Meditation Courses
 Coming Soon.
