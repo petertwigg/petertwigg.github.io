@@ -35,8 +35,8 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: My Meditation Channel
-  url: /blog/  
+- title: Blog
+  url: /blog/ 
 - title: Courses
   url: /courses/
 - title: About
