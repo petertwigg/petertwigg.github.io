@@ -35,7 +35,7 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Updates
+- title: Posts
   url: /blog/ 
 - title: Courses
   url: /courses/
