@@ -36,9 +36,7 @@ navigation_header:
 - title: Home
   url: /
 - title: My Meditation Channel
-  url: /blog/ 
-- title: My Meditation Channel
-  url: /my-meditation-channel/
+  url: /blog/  
 - title: Courses
   url: /courses/
 - title: About
