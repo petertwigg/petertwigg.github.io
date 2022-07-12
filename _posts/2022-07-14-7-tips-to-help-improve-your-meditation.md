@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-07-14
+title: 7 Tips to Help Improve your Meditation
 categories:
 - #tips
 feature_image: 

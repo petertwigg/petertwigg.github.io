@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-07-17
+title: Spiritual Perspectives: What Do You Rest on in Meditation?
 categories:
 - #context
 feature_image: 

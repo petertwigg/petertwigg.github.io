@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-07-18
+title: Creating a Meditation Space for Yourself
 categories:
 - #tips
 feature_image: 

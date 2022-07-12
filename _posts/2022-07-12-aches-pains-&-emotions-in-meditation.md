@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2022-07-12
+title: Aches, Pains & Emotions in Meditation
 categories:
-- Context
+- #context
 feature_image: 
 ---
 

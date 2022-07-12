@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-07-15
+title: 12 Signs Your Meditation is Working
 categories:
 - #context
 feature_image: 

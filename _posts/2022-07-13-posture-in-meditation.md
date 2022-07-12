@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2022-07-13
+title: Posture in Meditation
 categories:
-- Context
+- #context
 feature_image: 
 ---
 

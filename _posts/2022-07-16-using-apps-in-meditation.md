@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-07-16
+title: Using Apps in Meditation
 categories:
 - #context
 feature_image: 
