@@ -2,7 +2,7 @@
 layout: post
 title: 12 Signs Your Meditation is Working
 categories:
-- #context
+- Context
 feature_image: 
 ---
 

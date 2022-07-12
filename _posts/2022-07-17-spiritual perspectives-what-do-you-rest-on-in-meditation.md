@@ -2,7 +2,7 @@
 layout: post
 title: Spiritual Perspectives: What Do You Rest on in Meditation?
 categories:
-- #context
+- Context
 feature_image: 
 ---
 

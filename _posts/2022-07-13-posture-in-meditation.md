@@ -2,7 +2,7 @@
 layout: post
 title: Posture in Meditation
 categories:
-- #context
+- Context
 feature_image: 
 ---
 

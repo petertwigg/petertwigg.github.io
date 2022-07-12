@@ -2,7 +2,7 @@
 layout: post
 title: Using Apps in Meditation
 categories:
-- #context
+- Context
 feature_image: 
 ---
 

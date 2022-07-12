@@ -2,7 +2,7 @@
 layout: post
 title: Aches, Pains & Emotions in Meditation
 categories:
-- #context
+- Context
 feature_image: 
 ---
 

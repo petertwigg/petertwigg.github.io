@@ -2,7 +2,7 @@
 layout: post
 title: 7 Tips to Help Improve your Meditation
 categories:
-- #tips
+- Tips
 feature_image: 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Creating a Meditation Space for Yourself
 categories:
-- #tips
+- Tips
 feature_image: 
 ---
 
