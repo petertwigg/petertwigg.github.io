@@ -17,4 +17,5 @@ For a link to understand correct posture in meditation: https://youtu.be/M3ENYYY
 Tips, techniques & context to help improve your meditation. 
 
 #tips #meditation #mindfulness
----
+
+

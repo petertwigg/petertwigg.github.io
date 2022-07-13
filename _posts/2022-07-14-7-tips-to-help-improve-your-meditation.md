@@ -14,4 +14,4 @@ Often simple adjustments can bring dramatic results for your meditation practice
 Tips, techniques & context to help improve your meditation. 
 
 #tips #meditation #mindfulness 
----
+
