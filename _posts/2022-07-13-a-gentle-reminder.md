@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-A Gentle Reminder
+Extract from the Bhagavad Gita......
 
 "O mighty among men, he is fit to attain immortality who is serene and not afflicted by these sensations, but is the same in pleasure and pain. 
 
