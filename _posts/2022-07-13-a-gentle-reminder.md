@@ -19,5 +19,3 @@ Therefore fight, O descendent of Bharata! He who considers this (Self) as a slay
 This (Self) is never born, nor does It die, nor after once having been, does It go into non-being. This (Self) is unborn, eternal, changeless, ancient." 
 
 Bhagavad Gita, II, 15-20, translated by Swami Paramandenda, The Wisdom of China and India, The Modern Library, New York, Random House, 1942, p.62.
-
----
