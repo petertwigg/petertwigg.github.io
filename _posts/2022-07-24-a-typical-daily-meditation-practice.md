@@ -11,11 +11,11 @@ In today's video I look at a "typical" meditation practice and why routine and s
 
 Tips, techniques & context to help improve your meditation. 
 
-Link to <href="https://petertwigg.com/documents/my_meditation_cheatsheet.pdf/">My Meditation Cheatsheet PDF download</a>
+Link to <href="https://petertwigg.com/documents/my_meditation_cheatsheet.pdf/>My Meditation Cheatsheet PDF download</a>
 
 For a link to understand correct <href="https://petertwigg.com/tips/2022/07/13/posture-in-meditation/">Posture in Meditation</a>
 
-And "<href="https://petertwigg.com/tips/2022/07/11/one-rule-of-meditation/">One Rule of Meditation</a>
+And <href="https://petertwigg.com/tips/2022/07/11/one-rule-of-meditation/">One Rule of Meditation</a>
 
 Tips, techniques & context to help improve your meditation. 
 
