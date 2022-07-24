@@ -10,11 +10,11 @@ feature_image:
 We discuss some of the things you need to take into account when you are creating a meditation space for yourself. 
 
 
-Link to Creating My Meditation Space PDF download: https://petertwigg.com/documents/creating_my_meditation_space.pdf 
+Link to [Creating My Meditation Space PDF download](https://petertwigg.com/documents/creating_my_meditation_space.pdf)
 
-For a link to understand correct posture in meditation: https://youtu.be/M3ENYYYHU5g 
+For a link to understand correct [Posture in Meditation](https://youtu.be/M3ENYYYHU5g0)
 
-Tips, techniques & context to help improve your meditation. 
+Tips, techniques & context to help improve your meditation
 
 #tips #meditation #mindfulness
 
