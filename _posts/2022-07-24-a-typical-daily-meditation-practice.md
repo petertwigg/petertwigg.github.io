@@ -20,7 +20,3 @@ And [One Rule of Meditation](https://petertwigg.com/tips/2022/07/11/one-rule-of-
 Tips, techniques & context to help improve your meditation. 
 
 #technique #meditation #mindfulness 
-
-
-
-[consciousness](https://www.merriam-webster.com/dictionary/consciousness)
