@@ -1,7 +1,5 @@
 --
 layout: post
-title: --
-layout: post
 title: Spiritual Perspectives: What is Conciousness?
 categories:
 - Context
