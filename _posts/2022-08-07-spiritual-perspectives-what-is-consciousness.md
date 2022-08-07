@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spiritual Perspectives What is Conciousness?
+title: Spiritual Perspectives - What is Conciousness?
 categories:
 - Context
 feature_image: 
