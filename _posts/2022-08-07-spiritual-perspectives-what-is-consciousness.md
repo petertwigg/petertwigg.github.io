@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Spiritual Perspectives - What is Conciousness?
 categories:
