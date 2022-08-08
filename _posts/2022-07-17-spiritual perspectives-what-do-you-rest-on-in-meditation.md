@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spiritual Perspectives: What Do You Rest on in Meditation?
+title: Spiritual Perspectives - What Do You Rest on in Meditation?
 categories:
 - Context
 feature_image: 
