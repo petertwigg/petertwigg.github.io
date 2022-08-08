@@ -15,11 +15,14 @@ Helping clients to achieve more of their potential and recognise their true natu
 ##### Videos on Meditation & Mindfulness
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
+{% include video.html id="cXMQiJBHBE8" title="Why Gardening, Jogging or Surfing Doesn't Cut IT As Meditation" %}
+Dispelling the myth that gardening, jogging or surfing is a form of meditation. To find out more watch "Spiritual Perspectives: What is Consciousness?" next.
+
+#tips #meditation #mindfulness
+
+
  {% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
 The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.
-
- {% include video.html id="nnuEN3W0TGU" title="A Typical Daily Meditation Practice" %}
-In this video I look at a "typical" meditation practice and why routine and set process each day helps to establish a strong meditation.
 
 Tips, techniques & context to help improve your meditation.
 
