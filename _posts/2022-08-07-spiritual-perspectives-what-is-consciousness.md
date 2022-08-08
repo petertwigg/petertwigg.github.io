@@ -11,6 +11,6 @@ The very essence of meditation is the exploration of consciousness! Consciousnes
 
 Tips, techniques & context to help improve your meditation.
 
-https://www.linkedin.com/in/peter-twigg-991a8818b/
+[My LinkedIn Page](https://www.linkedin.com/in/peter-twigg-991a8818b/)
 
 #context #meditation #mindfulness
