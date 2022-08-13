@@ -22,7 +22,7 @@ Knowing yourself.  #context
 {% include video.html id="eSkd_5WlZtU" title="Why Meditators Sit Upright & Still in Meditation" %}
 Answering a key question about meditation. Sitting upright in meditation is critical to your success as a meditator. #context 
 
- {% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
+{% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
 The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.
 
 Tips, techniques & context to help improve your meditation.
