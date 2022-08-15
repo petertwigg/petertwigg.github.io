@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meditation Explained in 1.5 Minutes
+title: Spiritual Perspectives - States of Grace
 categories:
 - Context
 feature_image: 
