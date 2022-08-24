@@ -22,7 +22,8 @@ Examining mindfulness..... the start of your adventure in consciousness.
 #context
 
 {% include video.html id="Tn8607SUDMs" title="Can Meditation Put People At Risk?" %}
-Does meditation put meditators at risk? We provide answers and context to help understand the issues.  
+Does meditation put meditators at risk? We provide answers and context to help understand the issues.
+[Link to References](/blog/2022-08-25-can-meditation-put-people-at-risk.md) 
 #context 
 
 {% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
