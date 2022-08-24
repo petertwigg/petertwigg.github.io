@@ -15,12 +15,15 @@ Helping clients to achieve more of their potential and recognise their true natu
 ##### Videos on Meditation & Mindfulness
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
-{% include video.html id="uTYleyLdsb4" title="Spiritual Perspectives: States of Grace" %}
-What is your experience of states of grace in meditation? Recognising states of grace in your meditation helps you in your meditations and life.  #technique #context 
 
-{% include video.html id="Lk4JvVEi13I" title="Meditation Explained in 1.5 Minutes" %}
-A brief summary of a vast and fascinating topic. A topic which is possibly the only game in town worth playing. 
-Knowing yourself.  #context 
+{% include video.html id="zBToAEF_hZU" title="Mindfulness Explained" %}
+Examining mindfulness..... the start of your adventure in consciousness.
+[Link to References](/blog/2022-08-27-mindfulness-explained.md)
+#context
+
+{% include video.html id="Tn8607SUDMs" title="Can Meditation Put People At Risk?" %}
+Does meditation put meditators at risk? We provide answers and context to help understand the issues.  
+#context 
 
 {% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
 The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.
