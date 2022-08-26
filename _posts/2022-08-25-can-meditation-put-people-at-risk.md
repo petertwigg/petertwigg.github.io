@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-{% include video.html id="Tn8607SUDMs" title="Can Meditation Put People At Risk " %}
+{% include video.html id="Tn8607SUDMs" title="Can Meditation Put People At Risk? " %}
 Does meditation put meditators at risk? We provide answers and context to help understand the issues.
 
 References: 
