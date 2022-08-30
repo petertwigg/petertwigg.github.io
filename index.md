@@ -20,13 +20,10 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Exploring the impact of recreational & medicinal drugs on meditation.
 #tips #context 
 
-
 {% include video.html id="zBToAEF_hZU" title="Mindfulness Explained" %}
 Examining mindfulness..... the start of your adventure in consciousness.
 [Link to References](/blog/2022-08-27-mindfulness-explained.md)
 #context
-
-
 
 {% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
 The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.
