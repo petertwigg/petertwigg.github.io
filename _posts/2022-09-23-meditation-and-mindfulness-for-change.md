@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drugs & Meditation
+title: Meditation & Mindfulness For Change
 categories:
 - Context
 feature_image: 
