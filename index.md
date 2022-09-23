@@ -29,11 +29,6 @@ We explore meditation & mindfulness as powerful vehicles for changing aspects of
 Exploring the impact of recreational & medicinal drugs on meditation.
 #tips #context 
 
-{% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
-The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.
-
-Tips, techniques & context to help improve your meditation.
-
 ##### Online Meditation Courses
 Coming Soon.
 
