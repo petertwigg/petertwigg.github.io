@@ -12,18 +12,22 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 
-##### Videos on Meditation & Mindfulness
+##### Video Content
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
+
+{% include video.html id="gGgQBXxcFGc" title="Introducing Peter Twigg" %}
+Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
+
+#####
+
+{% include video.html id="DLyeAHBXZ4I" title="Meditation & Mindfulness For Change" %}
+We explore meditation & mindfulness as powerful vehicles for changing aspects of your way of being in the world - emotions, reactions & persona.
+#technique #context #meditation #mindfulness #change #emotions #persona
 
 {% include video.html id="1_1hMrzyiXY" title="Drugs & Meditation " %}
 Exploring the impact of recreational & medicinal drugs on meditation.
 #tips #context 
-
-{% include video.html id="zBToAEF_hZU" title="Mindfulness Explained" %}
-Examining mindfulness..... the start of your adventure in consciousness.
-[Link to References](/blog/2022-08-27-mindfulness-explained.md)
-#context
 
 {% include video.html id="6YxiapBTkTE" title="Spiritual Perspectives: What is Consciousness?" %}
 The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.
