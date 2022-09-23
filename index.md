@@ -21,6 +21,7 @@ Introducing myself and sharing some of my personal journey on my meditation path
 
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list
 
+
 {% include video.html id="DLyeAHBXZ4I" title="Meditation & Mindfulness For Change" %}
 We explore meditation & mindfulness as powerful vehicles for changing aspects of your way of being in the world - emotions, reactions & persona.
 #technique #context #meditation #mindfulness #change #emotions #persona
