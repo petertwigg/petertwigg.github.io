@@ -20,14 +20,14 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
 
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list
+{% include video.html id="GoQosSZIuSc" title="Working With The ThreeGunas Model" %}
+Use modalities found in human nature to change your mind and body state, in meditation and life, for better. Learn what to do to change your state at will. Tips, techniques & context to help improve your meditation.
+#context  #technique #tips #mindfulness #meditation
+
 {% include video.html id="wMTWEmIGXcg" title="Spiritual Perspectives: What Are Subtle Bodies?" %}
 We describe our human subtle (spiritual) bodies and how they work. 
 Tips, techniques & context to help improve your meditation.
 #context #technique 
-
-{% include video.html id="DLyeAHBXZ4I" title="Meditation & Mindfulness For Change" %}
-We explore meditation & mindfulness as powerful vehicles for changing aspects of your way of being in the world - emotions, reactions & persona.
-#technique #context #meditation #mindfulness #change #emotions #persona
 
 ##### Online Meditation Courses
 Coming Soon.
