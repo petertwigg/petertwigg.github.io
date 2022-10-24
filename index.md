@@ -28,12 +28,7 @@ Tips, techniques & context to help improve your meditation.
 
 {% include video.html id="GoQosSZIuSc" title="Working With The Three Gunas Model" %}
 Use modalities found in human nature to change your mind and body state, in meditation and life, for better. Learn what to do to change your state at will. Tips, techniques & context to help improve your meditation.
-#context  #technique #tips #mindfulness #meditation
-
-{% include video.html id="wMTWEmIGXcg" title="Spiritual Perspectives: What Are Subtle Bodies?" %}
-We describe our human subtle (spiritual) bodies and how they work. 
-Tips, techniques & context to help improve your meditation.
-#context #technique 
+#context  #technique #tips #mindfulness #meditation 
 
 ##### Online Meditation Courses
 Coming Soon.
