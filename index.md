@@ -11,7 +11,8 @@ I have been meditating for over 38 years and had the privilege of teaching medit
 I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I also practice as a homeopath and naturopath. Some of the outcomes of my work include helping people restore health and resolve emotional blockages so you are free to be yourself. 
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
-##### Quotes Every moment is a golden one for him who has the vision to recognize it as such.  --  Henry Miller
+##### Quotes 
+Every moment is a golden one for him who has the vision to recognize it as such.  --  Henry Miller
 ##### Video Content
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
