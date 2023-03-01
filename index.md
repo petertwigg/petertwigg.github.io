@@ -21,14 +21,14 @@ Introducing myself and sharing some of my personal journey on my meditation path
 
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list
 
+{% include video.html id="PO_eNyMo0kI" title="Truth as Sword & Shield in Meditation as in Life" %}
+Discussing the importance of Truth as a vehicle to assist your meditation practice and in life. Tips, techniques & context to help improve your meditation.
+#meditation #mindfulness #truth #context #shield #sword @petertwiggmeditation
+
 {% include video.html id="b6quvxVLIeU" title="Aspiration, Prayer & Meditation" %}
 We examine the role of aspiration and prayer with meditation and show how to aspire.
 Tips, techniques & context to help improve your meditation.
-#meditation #mindfulness #prayer #aspiration
-
-{% include video.html id="GoQosSZIuSc" title="Working With The Three Gunas Model" %}
-Use modalities found in human nature to change your mind and body state, in meditation and life, for better. Learn what to do to change your state at will. Tips, techniques & context to help improve your meditation.
-#context  #technique #tips #mindfulness #meditation 
+#meditation #mindfulness #prayer #aspiration 
 
 ##### Online Meditation Courses
 Coming Soon.
