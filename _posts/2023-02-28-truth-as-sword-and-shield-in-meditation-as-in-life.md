@@ -2,7 +2,7 @@
 layout: post
 title: Truth as Sword & Shield in Meditation as in Life
 categories:
-- Technique
+- Context
 feature_image: 
 ---
 
