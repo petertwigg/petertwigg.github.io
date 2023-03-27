@@ -12,8 +12,8 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 ##### Quotes 
-Truth without hope leads to failure
-Hope without truth is fantasy
+Truth without hope leads to failure.
+Hope without truth is fantasy.bundle exec jekyll serve`
 When truth is at its harshest, then hope is most powerful. ~ Unknown Source.
 ##### Video Content
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
