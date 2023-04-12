@@ -18,7 +18,7 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 
 {% include video.html id="gGgQBXxcFGc" title="Introducing Peter Twigg" %}
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
-##### Latest Videos - Refer to [Posts](/blog) for a complete list
+##### Latest Videos - Refer to [Posts](/blog) for a complete list. 
 
 {% include video.html id="eJl8C6n0JZw" title="How I Use Mudras In Meditation" %}
 We look at using mudras in meditation to enhance your experience. 
