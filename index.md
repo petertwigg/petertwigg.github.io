@@ -20,11 +20,10 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list
 
-
 {% include video.html id="beJl8C6n0JZw" title="How I Use Mudras In Meditation" %}
 We look at using mudras in meditation to enhance your experience. 
 Tips, techniques & context to help improve your meditation.
-#meditation #mindfulness #aspiration #mudra #connection 
+#meditation #mindfulness #aspiration #mudra #connection @petertwiggmeditation
 
 {% include video.html id="PO_eNyMo0kI" title="Truth as Sword & Shield in Meditation as in Life" %}
 Discussing the importance of Truth as a vehicle to assist your meditation practice and in life. Tips, techniques & context to help improve your meditation.
