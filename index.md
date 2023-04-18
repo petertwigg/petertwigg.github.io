@@ -12,7 +12,9 @@ I also employ techniques of meditation and mindfulness to bring about health, he
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 ##### Quotes 
-"If you look for truth, you may find comfort in the end; if you look for comfort you will not get either comfort or truth only soft soap and wishful thinking to begin, and in the end, despair." ~  C. S. Lewis
+
+If you are content with being nobody in particular, content not to stand out, you align yourself with the power of the universe. What looks like weakness to the ego is in fact the only true strength. ~ Eckhart Tolle. 
+
 ##### Video Content
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
