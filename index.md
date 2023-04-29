@@ -23,15 +23,16 @@ Introducing myself and sharing some of my personal journey on my meditation path
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list.  
 
 
+{% include video.html id="t4Jg1-I383M" title="Meditation & Yoga" %}
+In this video we explore how yoga can potentiate your meditation practice. 
+Tips, techniques & context to help improve your meditation.
+#meditation #mindfulness #yoga
 
 {% include video.html id="eJl8C6n0JZw" title="How I Use Mudras In Meditation" %}
 We look at using mudras in meditation to enhance your experience. 
 Tips, techniques & context to help improve your meditation.
 #meditation #mindfulness #aspiration #mudra #connection @petertwiggmeditation
 
-{% include video.html id="PO_eNyMo0kI" title="Truth as Sword & Shield in Meditation as in Life" %}
-Discussing the importance of Truth as a vehicle to assist your meditation practice and in life. Tips, techniques & context to help improve your meditation.
-#meditation #mindfulness #truth #context #shield #sword @petertwiggmeditation
 
 ##### Online Meditation Course
 Coming Soon.
