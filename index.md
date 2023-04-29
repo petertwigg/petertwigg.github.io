@@ -26,7 +26,7 @@ Introducing myself and sharing some of my personal journey on my meditation path
 {% include video.html id="t4Jg1-I383M" title="Meditation & Yoga" %}
 In this video we explore how yoga can potentiate your meditation practice. 
 Tips, techniques & context to help improve your meditation.
-#meditation #mindfulness #yoga
+#meditation #mindfulness #yoga @petertwiggmeditation 
 
 {% include video.html id="eJl8C6n0JZw" title="How I Use Mudras In Meditation" %}
 We look at using mudras in meditation to enhance your experience. 
