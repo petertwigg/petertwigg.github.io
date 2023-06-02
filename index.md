@@ -22,16 +22,17 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list.  
 
+{% include video.html id="cAoxAlQdXvc" title="What is Your Device in Meditation?" %}
+We ask the question 'What is Your Device in Meditation'? 
+Your device in meditations an essential component for successful, satisfying and deep meditations. Watch here to find out how and why your device is so important!
+
+Tips, techniques & context to help improve your meditation.
+#meditation #mindfulness #connection #device @petertwiggmeditation
 
 {% include video.html id="t4Jg1-I383M" title="Meditation & Yoga" %}
 In this video we explore how yoga can potentiate your meditation practice. 
 Tips, techniques & context to help improve your meditation.
 #meditation #mindfulness #yoga @petertwiggmeditation 
-
-{% include video.html id="eJl8C6n0JZw" title="How I Use Mudras In Meditation" %}
-We look at using mudras in meditation to enhance your experience. 
-Tips, techniques & context to help improve your meditation.
-#meditation #mindfulness #aspiration #mudra #connection @petertwiggmeditation
 
 
 ##### Online Meditation Course
