@@ -6,7 +6,7 @@ feature_text:
 aside: true
 ---
 
-I have been meditating for over 38 years and had the privilege of teaching meditation in workshops and private practice all around the world.
+I have been meditating for over 40 years and had the privilege of teaching meditation in workshops and private practice all around the world.
 
 I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I also practice as a homeopath and naturopath. Some of the outcomes of my work include helping people restore health and resolve emotional blockages so you are free to be yourself. 
 
