@@ -8,7 +8,7 @@ aside: true
 
 I have been meditating for over 40 years and had the privilege of teaching meditation in workshops and private practice all around the world.
 
-I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I also practice as a homeopath and naturopath. Some of the outcomes of my work include helping people restore health and resolve emotional blockages so you are free to be yourself. 
+I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I practice as a homoeopath and naturopath. Some of the outcomes of my work include helping people restore health and resolve emotional blockages so you are free to be yourself. 
 
 Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
 ##### Quotes 
@@ -22,17 +22,17 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list.  
 
+{% include video.html id="ijO2d8ZyyBQ" title="How Do You Experience Your Life Force?" %}
+I show how you can feel your life force in 3 minutes. Simples!
+Tips, techniques & context to help improve your meditation.
+#meditation #mindfulness #etheric #lifeforce #energy @petertwiggmeditation
+
 {% include video.html id="cAoxAlQdXvc" title="What is Your Device in Meditation?" %}
 We ask the question 'What is Your Device in Meditation'? 
 Your device in meditations an essential component for successful, satisfying and deep meditations. Watch here to find out how and why your device is so important!
-
 Tips, techniques & context to help improve your meditation.
 #meditation #mindfulness #connection #device @petertwiggmeditation
 
-{% include video.html id="t4Jg1-I383M" title="Meditation & Yoga" %}
-In this video we explore how yoga can potentiate your meditation practice. 
-Tips, techniques & context to help improve your meditation.
-#meditation #mindfulness #yoga @petertwiggmeditation 
 
 
 ##### Online Meditation Course
