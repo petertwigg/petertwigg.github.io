@@ -22,7 +22,7 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
 ##### Latest Videos - Refer to [Posts](/blog) for a complete list.  
 
-{% include video.html id="ijO2d8ZyyBQ" title="How Do You Experience Your Life Force?" %}
+{% include video.html id="ijO2d8ZyyBQ" title="How Do You Experience Your Life Force?"%}
 I show how you can feel your life force in 3 minutes. Simples!
 Tips, techniques & context to help improve your meditation.
 #meditation #mindfulness #etheric #lifeforce #energy @petertwiggmeditation
