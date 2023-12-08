@@ -37,6 +37,8 @@ navigation_header:
   url: /
 - title: My Meditation Channel
   url: /my-meditation-channel/
+- title: Book
+  url: /book/ 
 - title: Courses
   url: /courses/
 - title: Events
