@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Unlock the Power of Truth Centred Meditation
+title: Truth Centred Meditation
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
 aside: true 
 ---
 
 
-##### Truth Centred Meditation
+##### Unlock the Power of Truth Centred Meditation
 
 Embark on a transformative journey with "Truth Centred Meditation," a book that invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.
 
