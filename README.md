@@ -16,6 +16,8 @@ In terminal type:
 
 `cd /Users/edwardtwigg/Documents/GitHub/petertwigg.github.io`
 
+ /Users/edwardtwigg/Documents/GitHub
+
 Then to run locally type:
 
 `bundle exec jekyll serve`
