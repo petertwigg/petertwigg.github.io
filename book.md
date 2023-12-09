@@ -15,8 +15,9 @@ Within these pages, we delve into the foundational spiritual principles of truth
 
 "Truth Centered Meditation" equips you with valuable insights, practical techniques, and essential context to fortify your meditation practice. 
 By utilizing truth as a meditative process, you align your life with the spiritual realms and unlock your highest potential. 
-<ul>
+
 This book empowers you to:
+<ul>
 <li>Connect with your Higher Self</li>
 <li>Embrace the evolving path of humanity</li>
 <li>Maximize your meditation experience with expert tips and techniques</li>
