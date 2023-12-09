@@ -12,7 +12,8 @@ aside: true
 ##### Unlock the Power of Truth Centered Meditation
 
 Embark on a transformative journey with "Truth Centered Meditation," a book that invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.
-Within these pages, we delve into the foundational spiritual principles of truth and our profound connection to it. Together, we'll bridge the gap between meditation and truth, learning to infuse its wisdom into our daily lives.
+Within these pages, we delve into the foundational spiritual principles of truth and our <img src="/images/truthcentredmeditation.jpeg" width="200">
+profound connection to it. Together, we'll bridge the gap between meditation and truth, learning to infuse its wisdom into our daily lives.
 "Truth Centered Meditation" equips you with valuable insights, practical techniques, and essential context to fortify your meditation practice. 
 By utilizing truth as a meditative process, you align your life with the spiritual realms and unlock your highest potential.This book empowers you to:
 <ul>
@@ -26,6 +27,6 @@ By utilizing truth as a meditative process, you align your life with the spiritu
 
 a href <center>ISBN 978-0-6459989-1-7</center></a>
 
-Amazon associates link to amazo page of book
+Amazon associates link to amazon page of book
 ---
 
