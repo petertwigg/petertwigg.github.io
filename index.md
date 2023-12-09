@@ -39,8 +39,7 @@ Tips, techniques & context to help improve your meditation.
 Coming Soon.
 
 ##### Expertise
-In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness_ is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In general, the neuroses of the modern world respond well to meditation and mindfulness processes.
-
+In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your _consciousness is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In general, the neuroses of the modern world respond well to meditation and mindfulness processes.
 <blockquote class="photo">
 	<img src="/images/peter-twigg-photo.jpg" width="200">
 	<p>True healing takes place when one lets go of form and comes to rest on the formless.</p>
