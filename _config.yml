@@ -37,8 +37,8 @@ navigation_header:
   url: /
 - title: Posts
   url: /blog/ 
-- title: Courses
-  url: /courses/
+- title: Book
+  url: /book/
 - title: About
   url: /about/
 - title: Contact
