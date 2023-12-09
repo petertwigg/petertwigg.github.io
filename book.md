@@ -11,7 +11,7 @@ aside: true
 
 Embark on a transformative journey with "Truth Centred Meditation," a book that invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.
 
-Within these pages, we delve into the foundational spiritual principles of truth and our <img src="/images/truthcentredmeditation.jpeg" width="400"> profound connection to it. Together, we'll bridge the gap between meditation and truth, learning to infuse its wisdom into our daily lives.
+Within these pages, we delve into the foundational spiritual principles of truth and our <img src="/images/truthcentredmeditation.jpeg" width="300"> profound connection to it. Together, we'll bridge the gap between meditation and truth, learning to infuse its wisdom into our daily lives.
 
 "Truth Centred Meditation" equips you with valuable insights, practical techniques, and essential context to fortify your meditation practice. 
 By utilizing truth as a meditative process, you align your life with the spiritual realms and unlock your highest potential. 
