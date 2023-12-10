@@ -5,6 +5,7 @@ categories:
 - Context
 feature_image: 
 ---
+
 An important aspect of meditation practice is cultivating your sense of Truth. It’s one of the foundation stones of your practice and a discerning factor needed to foster a stronger connection to your Higher Self. 
 
 We have spoken about the Higher Self in previous articles. It’s also important to understand your [spiritual anatomy]( https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/) as a pretext to understanding yourself and your life. A pretext is a purpose or motive alleged, or an appearance assumed in order to cloak the real intention or state of affairs. And isn’t that a great allegory for human life where we got so caught up in the affairs of the world that we forgot the important things about life? 
@@ -16,6 +17,7 @@ My teacher, Samuel Sagan, while he was alive wrote and spoke millions of words i
 </blockquote>
 
 Samuel also comments: 
+
 <blockquote cite="">
 	<p>“In the distant past of humankind, humanity had reached an extraordinary level of understanding of the different fields of consciousness. However, because the quest for power and manipulation superseded the quest for Truth, the civilisation ended up being destroyed”. </p>
 </blockquote>
