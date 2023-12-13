@@ -25,8 +25,11 @@ Australasia: Tuesday Evenings, 6:30pm to 8:30pm.
 
 Africa/Europe: Wednesday Evenings, 6:30pm to 8:30pm. 
 
-The Americas: (East Coast) 
+The Americas: (East Coast) Wednesday Evenings, 6:30pm to 8:30pm. 
+
+The Americas: (West Coast) Tuesday Evenings, 6:30pm to 8:30pm. 
  
+
 ### The Enrolment, Application & Inteview Process
 
 To register your interest, please email me: info@petertwigg.com 
