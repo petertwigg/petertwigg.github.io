@@ -37,4 +37,4 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 <center)>[Buy on Amazon now!](https://amzn.to/3RGcAW5)</center>
 
-<center>![](images/truth-centred-meditation2.jpg)</center>
+<center>[](images/truth-centred-meditation2.jpg)</center>
