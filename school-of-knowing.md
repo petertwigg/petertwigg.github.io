@@ -53,7 +53,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
  
 ### The Enrolment, Application & Inteview Process
 
-To register your interest, please register you interest in the sidebar or, if you have any questions, please email me: info@petertwigg.com 
+To register your interest, please register in the sidebar. If you have any questions, please email me: info@petertwigg.com 
 
 
 
