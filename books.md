@@ -23,7 +23,7 @@ Discover knowledge about meditation techniques and insights in books written by 
 
 Within these pages, we delve into the foundational spiritual principles of truth and our profound connection to it. Together, we'll bridge the gap between meditation and truth, learning to infuse its wisdom into our daily lives.
 
-"Truth Centred Meditation" equips you with valuable insights, practical techniques, and essential context to fortify your meditation practice. 
+*Truth Centred Meditation* equips you with valuable insights, practical techniques, and essential context to fortify your meditation practice. 
 By utilizing truth as a meditative process, you align your life with spiritual realms and unlock your highest potential. 
 
 This book empowers you to: 
@@ -36,4 +36,5 @@ This book empowers you to:
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
 
-[Buy on Amazon now!](https://amzn.to/3RGcAW5)     ![](images/TCM2X3-1.jpg)
+[Buy on Amazon now!](https://amzn.to/3RGcAW5)     
+![](images/TCM2X3-1.jpg)
