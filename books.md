@@ -14,8 +14,9 @@ Discover knowledge about meditation techniques and insights in books written by 
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">
 	<br>
 	<br>
+	<br>
 	<p>Embark on a transformative journey with "Truth Centred Meditation."</p>
-	<footer><small><center><a href="https://amzn.to/3RGcAW5">Go to Amazon now!</a></center></small></footer>
+	<footer><small><center><a href="https://amzn.to/3RGcAW5>Go to Amazon now!</a></center></small></footer>
 </blockquote>
 
 *Truth Centred Meditation* invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.
@@ -34,6 +35,5 @@ This book empowers you to:
 
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
-[Buy on Amazon now!](https://amzn.to/3RGcAW5") ![](images/TCM2X3-1.jpg)
 
---- 
+[Buy on Amazon now!](https://amzn.to/3RGcAW5)     ![](images/TCM2X3-1.jpg)
