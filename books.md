@@ -17,7 +17,7 @@ Discover knowledge about meditation techniques and insights in books written by 
 	<br>
 	<br>
 	<p>Embark on a transformative journey with "Truth Centred Meditation."</p>
-	<footer><small><center><a href="https://www.amazon.com/Amazon-Ads-Authors-Advertising-Potential/dp/178613019X?&linkCode=li1&tag=petertwiggboo-20&linkId=2484966f00541f0fd5f4e3ecdee3578d&language=en_US&ref_=as_li_ss_il">Go to Amazon now!</a></center></small></footer>
+	<footer><small><center><a href="https://amzn.to/3RGcAW5">Go to Amazon now!</a></center></small></footer>
 </blockquote>
 
 
@@ -38,5 +38,5 @@ This book empowers you to:
 
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
-[Buy on Amazon now!](https://www.amazon.com/Amazon-Ads-Authors-Advertising-Potential/dp/178613019X?&linkCode=li1&tag=petertwiggboo-20&linkId=2484966f00541f0fd5f4e3ecdee3578d&language=en_US&ref_=as_li_ss_il") ![](TCM2X3(1).jpg)
+[Buy on Amazon now!](https://amzn.to/3RGcAW5") [](TCM2X3(1).jpg)
 
