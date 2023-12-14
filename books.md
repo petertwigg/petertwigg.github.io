@@ -17,7 +17,7 @@ By Peter Twigg
 	<br>
 	<br>
 	<p>Embark on a transformative journey with "Truth Centred Meditation."</p>
-	<footer><small><center><a href="https://www.amazon.com/Truth-Centred-Meditation-Peter-Twigg-ebook/dp/B0CN6ZF2K7/?_encoding=UTF8&pd_rd_w=2DsEZ&content-id=amzn1.sym.9119971c-28e7-426d-b1df-798ac36bb5cd%3Aamzn1.symc.e5c80209-769f-4ade-a325-2eaec14b8e0e&pf_rd_p=9119971c-28e7-426d-b1df-798ac36bb5cd&pf_rd_r=EHXG0W8FZGEDDMQG6VEE&pd_rd_wg=RY5MW&pd_rd_r=76eefeae-cac5-46bc-add4-d887612f63f4&ref_=pd_gw_ci_mcx_mr_hp_atf_m">Go to Amazon now!</a></center></small></footer>
+	<footer><small><center><a href="https://www.amazon.com/Amazon-Ads-Authors-Advertising-Potential/dp/178613019X?&linkCode=li1&tag=petertwiggboo-20&linkId=2484966f00541f0fd5f4e3ecdee3578d&language=en_US&ref_=as_li_ss_il"></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=petertwiggboo-20&language=en_US&l=li1&o=1&a=178613019X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />Go to Amazon now!</a></center></small></footer>
 </blockquote>
 
 
@@ -37,5 +37,5 @@ This book empowers you to:
 
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
-[Buy on Amazon now!](https://www.amazon.com/Truth-Centred-Meditation-Peter-Twigg-ebook/dp/B0CN6ZF2K7/?_encoding=UTF8&pd_rd_w=2DsEZ&content-id=amzn1.sym.9119971c-28e7-426d-b1df-798ac36bb5cd%3Aamzn1.symc.e5c80209-769f-4ade-a325-2eaec14b8e0e&pf_rd_p=9119971c-28e7-426d-b1df-798ac36bb5cd&pf_rd_r=EHXG0W8FZGEDDMQG6VEE&pd_rd_wg=RY5MW&pd_rd_r=76eefeae-cac5-46bc-add4-d887612f63f4&ref_=pd_gw_ci_mcx_mr_hp_atf_m)
+[Buy on Amazon now!](<a href="https://www.amazon.com/Amazon-Ads-Authors-Advertising-Potential/dp/178613019X?&linkCode=li1&tag=petertwiggboo-20&linkId=2484966f00541f0fd5f4e3ecdee3578d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=178613019X&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=petertwiggboo-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=petertwiggboo-20&language=en_US&l=li1&o=1&a=178613019X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
 
