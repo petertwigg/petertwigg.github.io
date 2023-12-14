@@ -44,7 +44,7 @@ For more details refer here to my [School of Knowing](school-of-knowing) page.
 
 ### My Book, "Truth Centred Meditation"
 
-In November 2023 I published my first book showing how meditating on truth can build a robust [meditation practice](/books), aligning your life with spiritual realms and unlocking your highest potential. The book will equip you with valuable insights and practical techniques to build a strong meditation practice.      
+In November 2023 I published my first book showing how meditating on truth can build a robust [meditation practice](/books), aligning your life with spiritual realms and unlocking your highest potential. The book will equip you with valuable insights and practical techniques to build a strong meditation practice. [Check it out on Amazon now!](https://www.amazon.com/Truth-Centred-Meditation-Peter-Twigg-ebook/dp/B0CN6ZF2K7/?_encoding=UTF8&pd_rd_w=2DsEZ&content-id=amzn1.sym.9119971c-28e7-426d-b1df-798ac36bb5cd%3Aamzn1.symc.e5c80209-769f-4ade-a325-2eaec14b8e0e&pf_rd_p=9119971c-28e7-426d-b1df-798ac36bb5cd&pf_rd_r=EHXG0W8FZGEDDMQG6VEE&pd_rd_wg=RY5MW&pd_rd_r=76eefeae-cac5-46bc-add4-d887612f63f4&ref_=pd_gw_ci_mcx_mr_hp_atf_m)     
 
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">
