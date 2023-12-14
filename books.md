@@ -12,6 +12,7 @@ Discover knowledge about meditation techniques and insights in books written by 
 
 
 
+
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">
 	<br>
