@@ -8,7 +8,7 @@ aside: true
 
 Discover knowledge about meditation techniques and insights in books written by Peter Twigg.
 
-### Unlock the Power of Truth Centred Meditation
+### Unlock the Power of Truth Centred Meditation 
 
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">

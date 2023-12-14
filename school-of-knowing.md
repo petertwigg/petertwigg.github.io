@@ -10,15 +10,15 @@ aside: true
 
 If you are interested in developing a strong and vibrant meditation practice, consider joining our one year, weekly 2 hour online class.  
 
-
 ### The Syllabus
 
-The course will take you on a discovery path to know yourself and spiritual realms to the deepest levels. 
+The course will take you on a self discovery path to know yourself and spiritual realms to the deepest levels. 
 * Learn to connect with your Higher Self
 * Embrace the evolving path of humanity and your place in it 
 * Maximize your meditation experience with expert tips, techniques and context
 * Benchmark your personal growth alongside the collective evolution of humanity
-* Reveal, awaken, learn about & practice:
+
+Reveal, awaken, learn about & practice:
 * Your non-physical bodies
 * The nature of the mind
 * Emotions and feelings
@@ -33,10 +33,7 @@ The course will take you on a discovery path to know yourself and spiritual real
 * Connect with and recognise spiritual beings & worlds including angels, gods & God in your meditation & daily life
 * Experience the Self
 
-
-
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
-
 
 ### What are the requirements to join? 
 
@@ -46,7 +43,6 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * Once you start you will commit to attending classes regularly unless you decide to withdraw 
 * You will commit to completing homework as required prior to the next class  
 
-
 ### Course Starts
 
 * Classes Commence the week of Sunday 24th March, 2024 
@@ -55,7 +51,6 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * The Americas: (East Coast) Wednesday Evenings, 6:30pm to 8:30pm. 
 * The Americas: (West Coast) Tuesday Evenings, 6:30pm to 8:30pm. 
  
-
 ### The Enrolment, Application & Inteview Process
 
 To register your interest, please register you interest in the sidebar or, if you have any questions, please email me: info@petertwigg.com 
