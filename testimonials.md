@@ -42,3 +42,4 @@ Some feedback from my clients...
 
 > Working with Peter Twigg is like working with a masterful trickster. Someone who can trick you past the barriers erected inside of yourself. Using humor, irony, deep care and tenderness, you won't know what hit you till you find yourself on the other side, opening to experiences of awakening and connection and real change that you've been hoping your whole life to have.  
 > <footer>Practitioner, USA</footer>  
+
