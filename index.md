@@ -38,7 +38,7 @@ If you are content with being nobody in particular, content not to stand out, yo
 
 ### School of Knowing 
 
-Classes commencing March 2024. Enrolments now being received. Email your interest in joining our one year course (weekly classes) to info@petertwigg.com  
+Classes commencing March 2024. Enrolments now being received. Register your interest in joining our one year course (weekly classes), or email info@petertwigg.com if you have any questions.   
 
 For more details refer here to my [School of Knowing](school-of-knowing) page. 
 
@@ -49,7 +49,7 @@ In November 2023 I published my first book showing how meditating on truth can b
 
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">
-	<p>True healing takes place when one lets go of form and comes to rest on the formless.</p>
+	<p>Truth Centred Meditation invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.</p>
 	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
 </blockquote>
 
