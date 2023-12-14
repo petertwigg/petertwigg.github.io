@@ -42,4 +42,4 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 </blockquote>
 
 [Buy now on Amazon!](https://amzn.to/3RGcAW5)
-[Truth Centred Meditation](images/truth-centred-meditation2.jpg)
+[Truth Centred Meditation](https://petertwigg.github.io/images/truth-centred-meditation2.jpg)
