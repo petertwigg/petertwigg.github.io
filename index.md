@@ -18,6 +18,12 @@ Meditation offers a pathway of self exploration that closely integrates physical
 
 Engaging a strong meditation practice brings an expanded awareness of states of consciousness, the nature of your mind, healing, harmony and release from emotional blockages.
 
+<blockquote class="photo">
+	<img src="/images/peter-twigg-photo.jpg" width="200">
+	<p>True healing takes place when one lets go of form and comes to rest on the formless.</p>
+	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
+</blockquote>
+
 Techniques involving meditation practice, enhanced mindfulness, sourcing and release of emotional imprints and other therapeutic cognitive processes bring healing and harmony resulting in profound shifts. I also work with death and bereavement.  Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world by being open to higher dimensions of yourself.
 
 In working with students and clients, I draw from my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath into teaching. My task is to find the right tool to help you move forward. My focus also provides a framework by which people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest levels of yourself.
@@ -36,16 +42,10 @@ Classes commencing March 2024. Enrolments now being received. Email your interes
 
 For more details refer here to my [School of Knowing](school-of-knowing) page. 
 
-<blockquote class="photo">
-	<img src="/images/peter-twigg-photo.jpg" width="200">
-	<p>True healing takes place when one lets go of form and comes to rest on the formless.</p>
-	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
-</blockquote>
 
 ### My Book, "Truth Centred Meditation"
 
-In November 2023 I published my first book showing how meditating on truth can build a robust [meditation practice](/books), aligning your life with spiritual realms and unlocking your highest potential. The book will equip you with valuable insights and practical techniques to build a strong meditation practice. [Check it out on Amazon now!](https://www.amazon.com/Truth-Centred-Meditation-Peter-Twigg-ebook/dp/B0CN6ZF2K7/?_encoding=UTF8&pd_rd_w=2DsEZ&content-id=amzn1.sym.9119971c-28e7-426d-b1df-798ac36bb5cd%3Aamzn1.symc.e5c80209-769f-4ade-a325-2eaec14b8e0e&pf_rd_p=9119971c-28e7-426d-b1df-798ac36bb5cd&pf_rd_r=EHXG0W8FZGEDDMQG6VEE&pd_rd_wg=RY5MW&pd_rd_r=76eefeae-cac5-46bc-add4-d887612f63f4&ref_=pd_gw_ci_mcx_mr_hp_atf_m)     
-
+In November 2023 I published my first book showing how meditating on truth can build a robust [meditation practice](/books), aligning your life with spiritual realms and unlocking your highest potential. The book will equip you with valuable insights and practical techniques to build a strong meditation practice. [Check it out on Amazon now!](https://amzn.to/3RGcAW5)     
 
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">

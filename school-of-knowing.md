@@ -51,7 +51,9 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * The Americas: (East Coast) Wednesday Evenings, 6:30pm to 8:30pm. 
 * The Americas: (West Coast) Tuesday Evenings, 6:30pm to 8:30pm. 
  
-### The Enrolment, Application & Inteview Process
+### Cost
+
+US$25 per month or the equivalent in your local currency. 
 
 To register your interest, please register in the sidebar. If you have any questions, please email me: info@petertwigg.com 
 
