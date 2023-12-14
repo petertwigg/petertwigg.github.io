@@ -18,7 +18,7 @@ The course will take you on a self discovery path to know yourself and spiritual
 * Maximize your meditation experience with expert tips, techniques and context
 * Benchmark your personal growth alongside the collective evolution of humanity
 
-Reveal, awaken, learn about & practice:
+Reveal, awaken, practice & learn:
 * Your non-physical bodies
 * The nature of the mind
 * Emotions and feelings
@@ -55,7 +55,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 US$25 per month or equivalent in your local currency. 
 
-To register your interest, please register in the sidebar. If you have any questions, please email me: info@petertwigg.com 
+To register your interest, please register in the sidebar. If you have any questions, please email me: [info@petertwigg.com](info@petertwigg.com) 
 
 
 
