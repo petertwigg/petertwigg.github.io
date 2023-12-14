@@ -34,6 +34,6 @@ This book empowers you to:
 
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
-[Buy on Amazon now!](https://amzn.to/3RGcAW5") ![](https://petertwigg.com/GitHub/petertwigg.github.io/imagesTCM2X3-1.jpg)
+[Buy on Amazon now!](https://amzn.to/3RGcAW5") ![](images/TCM2X3-1.jpg)
 
 --- 
