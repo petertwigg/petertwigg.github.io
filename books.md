@@ -40,8 +40,9 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 	<br>
 	<footer><small><center><img src="/images/truth-centred-meditation2.jpg"></center></small></footer>	
 	<br>
+	
 </blockquote>
 
-![](https://petertwigg.github.io/images/truth-centred-meditation2.jpg)[Buy now on Amazon!](https://amzn.to/3RGcAW5)
+[Buy now on Amazon!](https://amzn.to/3RGcAW5)
 
 
