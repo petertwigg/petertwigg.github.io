@@ -10,8 +10,6 @@ I have been meditating for over 40 years and had the privilege of teaching medit
 
 I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I practice as a homoeopath and naturopath. Some of the outcomes of my work include helping people restore health and resolve emotional blockages so you are free to be yourself. 
 
-Helping clients to achieve more of their potential and recognise their true nature are key benchmarks to changing. 
-
 ### Meditation & Mindfulness
 
 Meditation offers a pathway of self exploration that closely integrates physical, mental and metaphysical dimensions. Health becomes the byproduct as you move into right relationship with yourself, your psyche and your body. Improved presence comes from increased mindfulness and a certain freedom from the vexations of the modern world. 
@@ -49,7 +47,7 @@ In November 2023 I published my first book showing how meditating on truth can b
 
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">
-	<p>Truth Centred Meditation invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.</p>
+	<p><i>Truth Centred Meditation invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.</i></p>
 	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
 </blockquote>
 

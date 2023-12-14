@@ -38,7 +38,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 ### What are the requirements to join? 
 
 * You attend a 20 minute interview prior to commencing the course
-* Your are mentally and physically healthy (please email if you have any questions or doubts)
+* You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you will commit to attending classes regularly unless you decide to withdraw 
 * You will commit to completing homework as required prior to the next class  
@@ -53,7 +53,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
  
 ### Cost
 
-US$25 per month or the equivalent in your local currency. 
+US$25 per month or equivalent in your local currency. 
 
 To register your interest, please register in the sidebar. If you have any questions, please email me: info@petertwigg.com 
 
