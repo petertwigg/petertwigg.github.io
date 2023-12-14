@@ -56,7 +56,6 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 To register your interest, please register you interest in the sidebar or, if you have any questions, please email me: info@petertwigg.com 
 
 
-[School of Knowing Student Portal](XXXX)
 
 ---
 
