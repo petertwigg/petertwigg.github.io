@@ -16,8 +16,6 @@ In terminal type:
 
 `cd /Users/edwardtwigg/Documents/GitHub/petertwigg.github.io`
 
-'/edwardtwigg/Documents/GitHub/petertwigg.github.io'
-
 
 Then to run locally type:
 

@@ -37,6 +37,8 @@ navigation_header:
   url: /
 - title: Posts
   url: /blog/ 
+- title: School of Knowing
+  url: /school-of-knowing/ 
 - title: Books
   url: /books/
 - title: About
