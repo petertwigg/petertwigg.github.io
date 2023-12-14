@@ -35,6 +35,12 @@ This book empowers you to:
 
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
-
+<blockquote class="photo">
+	<img src="/images/truth-centred-meditation2.jpg>
+	<br>
+	<br>
+	<br>
+	<footer><small><center><a href="https://amzn.to/3RGcAW5>Go to Amazon now!</a></center></small></footer>
+</blockquote>
 [Buy on Amazon now!](https://amzn.to/3RGcAW5)     
-![](images/TCM2X3-1.jpg)
+![](images/truth-centred-meditation2.jpg)
