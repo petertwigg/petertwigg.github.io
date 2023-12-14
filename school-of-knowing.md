@@ -19,7 +19,7 @@ The course will take you on a discovery path to know yourself to the deepest lev
 * Maximize your meditation experience with expert tips, techniques and context
 * Benchmark your personal growth alongside the collective evolution of humanity
 * Reveal, awaken, learn about & practice:
-		. * Your non-physical bodies
+		* Your non-physical bodies
 		. * The nature of the mind
 		. * Emotions and feelings
 		. * Inner Alchemy & Transformation
