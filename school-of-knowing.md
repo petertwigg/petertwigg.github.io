@@ -22,14 +22,14 @@ Reveal, awaken, learn about & practice:
 * Your non-physical bodies
 * The nature of the mind
 * Emotions and feelings
-* Inner Alchemy & Transformation
+* Inner alchemy & transformation
 * Identifying the hidden parts of your psyche
 * Meditation and Mindful Sourcing
 * Archetypes, characters, samskaras & complexes
 * Learn to work with aspiration, devotion, opening, surrender and alignment 
-* The masculine and feminie pricniples operating inside each of us
+* The masculine and feminine principles operating inside each of us
 * Using mantras, mudras, mandalas & mandorlas in your life & meditation
-* Reveal & build your spiritual anatomy including chakras, energy channels XXX
+* Reveal & build your spiritual anatomy including awakening chakras & energy channels 
 * Connect with and recognise spiritual beings & worlds including angels, gods & God in your meditation & daily life
 * Experience the Self
 
