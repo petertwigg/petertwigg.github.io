@@ -19,6 +19,7 @@ Discover knowledge about meditation techniques and insights in books written by 
 </blockquote>
 
 
+
 *Truth Centred Meditation* invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.
 
 Within these pages, we delve into the foundational spiritual principles of truth and our profound connection to it. Together, we'll bridge the gap between meditation and truth, learning to infuse its wisdom into our daily lives.
@@ -35,5 +36,5 @@ This book empowers you to:
 
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
-[Buy on Amazon now!](https://www.amazon.com/Amazon-Ads-Authors-Advertising-Potential/dp/178613019X?&linkCode=li1&tag=petertwiggboo-20&linkId=2484966f00541f0fd5f4e3ecdee3578d&language=en_US&ref_=as_li_ss_il") 
+[Buy on Amazon now!](https://www.amazon.com/Amazon-Ads-Authors-Advertising-Potential/dp/178613019X?&linkCode=li1&tag=petertwiggboo-20&linkId=2484966f00541f0fd5f4e3ecdee3578d&language=en_US&ref_=as_li_ss_il") ![](TCM2X3(1).jpg)
 
