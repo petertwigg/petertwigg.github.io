@@ -34,7 +34,7 @@ If you are content with being nobody in particular, content not to stand out, yo
 
 Classes commencing March 2024. Enrolments now being received. Email your interest in joining our one year course (weekly classes) to info@petertwigg.com  
 
-For more details refer here to our [School of Knowing](schoolofknowing) page. 
+For more details refer here to my [School of Knowing](school-of-knowing) page. 
 
 <blockquote class="photo">
 	<img src="/images/peter-twigg-photo.jpg" width="200">
@@ -42,14 +42,14 @@ For more details refer here to our [School of Knowing](schoolofknowing) page.
 	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
 </blockquote>
 
-### My Book "Truth Centred Meditation"
+### My Book, "Truth Centred Meditation"
 
 In November 2023 I published my first book showing how meditating on truth can build a robust [meditation practice](/books), aligning your life with spiritual realms and unlocking your highest potential. The book will equip you with valuable insights and practical techniques to build a strong meditation practice.      
 
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">
 	<p>True healing takes place when one lets go of form and comes to rest on the formless.</p>
-	<footer>Peter Twigg<br><small>Meditation Based Therapies, Healer & Naturopath</small></footer>
+	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
 </blockquote>
 
 ### Video Content
@@ -59,7 +59,7 @@ I've spoken to many people who have said they have tried meditation but 'it's no
 {% include video.html id="gGgQBXxcFGc" title="Introducing Peter Twigg" %}
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
 
-### Latest Videos
+### Latest Videos 
 
 Refer to [Posts](/blog) for a complete list of videos.
 

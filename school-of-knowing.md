@@ -8,13 +8,19 @@ aside: true
 
 ### Your Invitation
 
-If you are interested in developing a strong and vibrant meditation practice, consider joining our one year, weekly, 2 hour online class.  
+If you are interested in developing a strong and vibrant meditation practice, consider joining our one year - weekly 2 hour online class.  
+
+
+XXX
+
+### The Syllabus
+
+XXXX
 
 
 ### What are the requirements to join? 
 
 
-### The Syllabus
 
 
 ### Next Course Starting
