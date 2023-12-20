@@ -23,7 +23,7 @@ plugins:
 url: 'https://petertwigg.com'
 baseurl: ''
 title: 'Peter Twigg Meditation'
-description: 'Tips, techniques & context to help improve your meditation experience. One year meditation training course. How to videos providing tips, technques & context.'
+description: 'Tips, techniques & context to help improve your meditation experience. One year meditation training course. How to videos providing tips, technques & context to imporve your meditation experience.'
 permalink: pretty
 logo: "https://s.gravatar.com/avatar/e93642b3913fe528117101c28451d28b?s=80"
 
@@ -58,13 +58,13 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "Tips, Techniques & Context to Improve your Meditation"
+    description: "Tips, Techniques & Context to Help Improve your Meditation"
     feature_text: 
     feature_image: "/images/banner-main-01-1600.jpg"
 
 # Appears in sidebar. Set the urls then uncomment and comment out as desired
 social_links: 
-  Facebook: https://www.facebook.com/mymeditationchannel
+  Facebook: https://www.facebook.com/petertwiggmeditation
   YouTube: https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw
   Twitter: https://twitter.com/solon_1
   LinkedIn: https://www.linkedin.com/in/peter-twigg-991a8818b/
