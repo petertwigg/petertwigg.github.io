@@ -8,7 +8,7 @@ aside: true
 
 ### Your Invitation
 
-If you are interested in developing a strong and vibrant meditation practice, consider joining our one year, weekly 2 hour online class.  
+If you are interested in developing a strong and vibrant meditation practice, consider joining my one year, weekly 2 hour online class.  
 
 ### The Syllabus
 
@@ -37,6 +37,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 ### What are the requirements to join? 
 
+(Discussions are completely confidential)
 * You attend a 20 minute interview prior to commencing the course
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
@@ -48,7 +49,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * Classes Commence the week of Sunday 24th March, 2024 
 * Australasia: Tuesday Evenings, 6:30pm to 8:30pm. 
 * Africa/Europe: Wednesday Evenings, 6:30pm to 8:30pm. 
-* The Americas: (East Coast) Wednesday Evenings, 6:30pm to 8:30pm. 
+* The Americas: (East Coast) Sunday Evenings, 6:30pm to 8:30pm. 
 * The Americas: (West Coast) Tuesday Evenings, 6:30pm to 8:30pm. 
  
 ### Cost
