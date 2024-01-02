@@ -18,8 +18,9 @@ The course will take you on a self discovery path to know yourself and spiritual
 * Maximize your meditation experience with expert tips, techniques and context
 * Benchmark your personal growth alongside the collective evolution of humanity
 
-Reveal, awaken, practice & learn:
+Reveal, awaken, practice & learn about:
 * Your non-physical bodies
+* Awaken spiritual vision 
 * The nature of the mind
 * Emotions and feelings
 * Inner alchemy & transformation
@@ -30,7 +31,7 @@ Reveal, awaken, practice & learn:
 * The masculine and feminine principles operating inside each of us
 * Using mantras, mudras, mandalas & mandorlas in your life & meditation
 * Reveal & build your spiritual anatomy including awakening chakras & energy channels 
-* Connect with and recognise spiritual beings & worlds including angels, gods & God in your meditation & daily life
+* Connect with spiritual beings & worlds including angels, gods & God in your meditation & daily life
 * Experience the Self
 
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
