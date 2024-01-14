@@ -5,6 +5,7 @@ feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
 aside: true 
 ---
+To register your interest, please register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
 ## Welcome to the School of Knowing
 
@@ -45,73 +46,17 @@ Reveal, awaken, practice & learn about:
 * Reveal & build your spiritual anatomy through awakening chakras & energy channels
 * Connect with spiritual beings & worlds including angels, gods & God in your meditation & daily life
 * Experience the Self
+
 Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
-
-What are the requirements to join?
+#### What are the requirements to join?
 * You attend a 20 minute interview prior to commencing the course
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you will commit to attending classes regularly unless you decide to withdraw
 * You will commit to completing homework as required prior to the next class (Discussions are completely confidential)
 
-
-
-
-____
-### Your Invitation
-
-If you are interested in developing a strong and vibrant meditation practice, consider joining my one year, weekly 2 hour online class.  
-
-### The Syllabus
-
-The course will take you on a self discovery path to know yourself and spiritual realms to the deepest levels. 
-* Learn to connect with your Higher Self
-* Embrace the evolving path of humanity and your place in it 
-* Maximize your meditation experience with expert tips, techniques and context
-* Benchmark your personal growth alongside the collective evolution of humanity
-
-Reveal, awaken, practice & learn about:
-* Your non-physical bodies
-* Awaken spiritual vision 
-* The nature of the mind
-* Emotions and feelings
-* Inner alchemy & transformation
-* Identifying the hidden parts of your psyche
-* Meditation and Mindful Sourcing
-* Archetypes, characters, samskaras & complexes
-* Learn to work with aspiration, devotion, opening, surrender and alignment 
-* The masculine and feminine principles operating inside each of us
-* Using mantras, mudras, mandalas & mandorlas in your life & meditation
-* Reveal & build your spiritual anatomy through awakening chakras & energy channels 
-* Connect with spiritual beings & worlds including angels, gods & God in your meditation & daily life
-* Experience the Self
-
-Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
-
-### What are the requirements to join? 
-
-* You attend a 20 minute interview prior to commencing the course
-* You are mentally and physically healthy (please email if you have any questions or doubts)
-* You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
-* Once you start you will commit to attending classes regularly unless you decide to withdraw 
-* You will commit to completing homework as required prior to the next class  
-(Discussions are completely confidential)
-
-### Course Starts
-
-* Classes Commence the week of Sunday 24th March, 2024 
-* Australasia: Tuesday Evenings, 6:30pm to 8:30pm. 
-* Africa/Europe: Tuesday Evenings, 6:30pm to 8:30pm. 
-* The Americas: (East Coast) To be advised. 
-* The Americas: (West Coast) To be advised.
- 
-### Cost
-
-US$25 per month or equivalent in your local currency. 
-
-To register your interest, please register in the sidebar. If you have any questions: [info@petertwigg.com](info@petertwigg.com) 
-
+To register your interest, please register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
 
 ---
