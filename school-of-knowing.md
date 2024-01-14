@@ -7,13 +7,13 @@ aside: true
 ---
 To register your interest, please register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
-## Welcome to the School of Knowing
+### Welcome to the School of Knowing
 
-### Meditation Truth Presence Transformation Awakening Mindfulness
+##### Meditation Truth Presence Transformation Awakening Mindfulness
 
 Spiritual practice is simple. We make it complicated. 
 
-#### our Invitation
+#### Our Invitation
 If you are interested in developing a strong and vibrant meditation practice, consider joining my one year, weekly 2 hour online class.
 
 #### The Syllabus
@@ -23,7 +23,7 @@ This course offers two fold approach to building a spiritual practice anchored i
 Together we will discern the nature of the mind. To see it’s dualistic nature is the first step in becoming free and mastering the mind. To set yourself free. Mastering this takes you to your very source where you can no longer be rocked by the comings and goings of the world. 
 
 #### Explore Yourself
-Secondly we will begin a systematic exploration of what makes a human being. We are more than our physical body and mind. This exploration will reveal aspects of yourself that will change the way you look at yourself and the world. 
+Secondly we will begin a systematic exploration of what makes a human being - spiritually & psychologically. We are more than our physical body and mind. This exploration will reveal aspects of yourself that will change the way you look at yourself and the world. 
 
 The course will take you on a self discovery path to know yourself and spiritual realms to the deepest levels.
 * Learn to connect with your Higher Self
