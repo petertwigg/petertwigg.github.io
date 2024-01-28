@@ -11,6 +11,11 @@ To register your interest, please register in the sidebar. Any questions email: 
 
 ###### Meditation Truth Presence Transformation Awakening Mindfulness
 
+##### Classes Commence (12 month program)
+Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
+UK/EU/Africa Tuesday 7pm to 9pm UK time. Classes commence Tuesday 26th March, 2024  
+USA East & West Coast to be advised.
+
 Spiritual practice is simple. We make it complicated. 
 
 ##### Our Invitation
@@ -57,6 +62,11 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * You will commit to completing homework as required prior to the next class (Discussions are completely confidential)
 
 To register your interest, please register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
+
+##### Classes Commence (12 month program)
+Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
+UK/EU/Africa Tuesday 7pm to 9pm UK time. Classes commence Tuesday 26th March, 2024  
+USA East & West Coast to be advised.
 
 
 ---
