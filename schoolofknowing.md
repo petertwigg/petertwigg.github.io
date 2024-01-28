@@ -9,7 +9,7 @@ To register your interest, register in the sidebar. Any questions email: [info@p
 
 #### Welcome to the School of Knowing
 
-###### Meditation Truth Presence Transformation Awakening Mindfulness
+##### Meditation Truth Presence Transformation Awakening Mindfulness
 
 ##### Classes Commence (12 month program)
 Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
