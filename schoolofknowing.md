@@ -5,7 +5,7 @@ feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
 aside: true 
 ---
-To register your interest, please register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
+To register your interest, register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
 #### Welcome to the School of Knowing
 
@@ -22,15 +22,15 @@ Spiritual practice is simple. We make it complicated.
 If you are interested in developing a strong and vibrant meditation practice, consider joining my one year, weekly 2 hour online class.
 
 ##### The Syllabus
-This course offers two fold approach to building a spiritual practice anchored in truth. Firstly we will tame the mind in a simple direct path using mindfulness. That is a dynamic, moment to moment practice while engaging in the world. 
+This course offers a twofold approach to building a spiritual practice anchored in truth. Firstly we will tame the mind in a simple direct path using mindfulness. That is a dynamic, moment to moment practice while engaging in the world. 
 
 ##### Tame the Mind
-Together we will discern the nature of the mind. To see it’s dualistic nature is the first step in becoming free and mastering the mind. To set yourself free. Mastering this takes you to your very source where you can no longer be rocked by the comings and goings of the world. 
+Together we will discern the nature of the mind. To see it’s dualistic nature is the first step in becoming free and mastering the mind. Mastering this takes you to your very source where you can no longer be rocked by the comings and goings of the world. 
 
 ##### Explore Yourself
 Secondly we will begin a systematic exploration of what makes a human being - spiritually & psychologically. We are more than our physical body and mind. This exploration will reveal aspects of yourself that will change the way you look at yourself and the world. 
 
-The course will take you on a self discovery path to know yourself and spiritual realms to the deepest levels.
+The course will take you on a self discovery path to know yourself and spiritual realms to the highest levels.
 * Learn to connect with your Higher Self
 * Embrace the evolving path of humanity and your place in it
 * Maximise your meditation experience with expert tips, techniques and context
@@ -59,7 +59,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you will commit to attending classes regularly unless you decide to withdraw
-* You will commit to completing homework as required prior to the next class (Discussions are completely confidential)
+* You will commit to completing homework as required prior to the next class (Discussions are completely confidential)
 
 To register your interest, please register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
