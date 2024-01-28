@@ -18,7 +18,7 @@ USA East & West Coast to be advised.
 
 Spiritual practice is simple. We make it complicated. 
 
-##### Our Invitation
+##### Your Invitation
 If you are interested in developing a strong and vibrant meditation practice, consider joining my one year, weekly 2 hour online class.
 
 ##### The Syllabus
