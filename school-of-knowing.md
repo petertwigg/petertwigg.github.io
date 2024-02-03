@@ -7,8 +7,6 @@ aside: true
 ---
 To register your interest, register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
-#### Welcome to the School of Knowing
-
 ##### Meditation Truth Presence Transformation Awakening Mindfulness
 
 ##### Classes Commence (12 month program)
