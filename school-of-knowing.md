@@ -63,8 +63,8 @@ To register your interest, please register in the sidebar. Any questions email: 
 
 ##### Classes Commence (12 month program)
 Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
-UK/EU/Africa Tuesday 7pm to 9pm UK time. Classes commence Tuesday 26th March, 2024  
-USA East & West Coast to be advised.
+UK/EU/Africa: To Be Advised.
+USA East & West Coast: To Be Advised.
 
 
 ---
