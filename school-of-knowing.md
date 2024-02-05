@@ -56,8 +56,8 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * You attend a 20 minute interview prior to commencing the course
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
-* Once you start you will commit to attending classes regularly unless you decide to withdraw
-* You will commit to completing homework as required prior to the next class (Discussions are completely confidential)
+* Once you start you commit to attending classes regularly unless you decide to withdraw
+* You commit to completing homework as required prior to the next class (Discussions are completely confidential)
 
 To register your interest, please register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
