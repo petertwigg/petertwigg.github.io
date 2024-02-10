@@ -5,7 +5,8 @@ feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
 aside: true 
 ---
-To register your interest, register in the sidebar. Any questions email: [info@petertwigg.com](info@petertwigg.com) 
+To register your interest, register in the sidebar. 
+Any questions email: [info@petertwigg.com](info@petertwigg.com) 
 
 ##### Meditation Truth Presence Transformation Awakening Mindfulness
 
@@ -28,7 +29,7 @@ This course offers a twofold approach to building a spiritual practice anchored 
 ##### Tame the Mind
 Together we will discern the nature of the mind. To see it’s dualistic nature is the first step in becoming free and mastering the mind. Mastering this takes you to your very source where you can no longer be rocked by the comings and goings of the world. 
 
-##### Explore Yourself
+##### Know Yourself
 Secondly we will begin a systematic exploration of what makes a human being - spiritually & psychologically. We are more than our physical body and mind. This exploration will reveal aspects of yourself that will change the way you look at yourself and the world. 
 
 The course will take you on a self discovery path to know yourself and spiritual realms to the highest levels.
