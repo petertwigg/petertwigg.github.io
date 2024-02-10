@@ -11,8 +11,7 @@ To register your interest, register in the sidebar. Any questions email: [info@p
 
 ##### Classes Commence (12 month program)
 Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
-Sunday Evening 8pm to 10pm AEDST/ 7am-9am UK (GMT)  
-Sunday Evening 7pm to 9pm AEST/ 8am-10am UK (BST). Classes commence Sunday 24th March, 2024 
+
 USA East & West Coasts to be advised.
 
 Spiritual practice is simple. We make it complicated. 
