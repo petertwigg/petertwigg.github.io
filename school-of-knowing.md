@@ -6,7 +6,7 @@ feature_text:
 aside: true 
 ---
 
-To register your interest, complete your detaisl in the side bar, or email me at [info@petertwigg.com](info@petertwigg.com) 
+To register your interest, complete your details in the side bar, or email me at [info@petertwigg.com](info@petertwigg.com) 
 
 ##### Meditation Truth Presence Transformation Awakening Mindfulness. 
 
@@ -70,10 +70,10 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 #### Registration: 
 
-To register your interest, email me directly with questions: 
+To enrol or have questions, email me directly: 
 [info@petertwigg.com](info@petertwigg.com) 
 
-##### Classes Commence (12 month program)
+##### Classes Commence (12 month program): 
 
 * Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
 
