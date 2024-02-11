@@ -37,6 +37,3 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 
 [Buy now on Amazon!](https://amzn.to/3RGcAW5)
-
-
---- 

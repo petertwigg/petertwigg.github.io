@@ -78,4 +78,3 @@ Refer to [Posts](/blog) for a complete list of videos.
 	<footer>Charles Tart, <i>Waking Up</i></footer>
 </blockquote>
 
---- 
