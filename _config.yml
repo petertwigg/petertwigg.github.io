@@ -6,7 +6,7 @@ exclude:
 - README.md
 - Gemfile
 - Gemfile.lock
-- site_template
+- site_template/
 
 # Set plugins
 plugins:
