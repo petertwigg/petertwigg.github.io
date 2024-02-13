@@ -6,13 +6,11 @@ feature_text:
 aside: true 
 ---
 
-To register your interest, complete your details in the side bar, or email me at [info@petertwigg.com](info@petertwigg.com) 
+To register your interest, complete your details in the side bar. If you have questions, email me at [info@petertwigg.com](info@petertwigg.com) 
 
-##### Meditation Truth Presence Transformation Awakening Mindfulness. 
+##### Meditation Truth Presence Transformation Awakening Mindfulness 
 
-Classes Commencing (12 month program)
-
-Spiritual practice is simple. We make it complicated. 
+Classes Commencing (12 month program) 
 
 ##### Your Invitation
 
@@ -20,9 +18,11 @@ If you are interested in developing a strong and vibrant meditation practice, co
 
 ##### The Syllabus
 
-This course offers a twofold approach to building a spiritual practice anchored in truth. Firstly we will tame the mind in a simple direct path using mindfulness. That is a dynamic, moment to moment practice while engaging in the world. 
+This course offers a twofold approach to building a spiritual practice anchored in truth. 
 
 ##### Tame the Mind
+
+Firstly we will tame the mind in a simple direct path using mindfulness. That is a dynamic, moment to moment practice engaged while being in the world. 
 
 Together we will discern the nature of the mind. To see it’s dualistic nature is the first step in becoming free and mastering the mind. Mastering this takes you to your very source where you can no longer be rocked by the comings and goings of the world. 
 
@@ -49,7 +49,7 @@ Reveal, awaken, practice & learn about:
 * Archetypes, characters, samskaras & complexes
 * Learn to work with aspiration, devotion, opening, surrender and alignment
 * The masculine and feminine principles operating inside each of us
-* Using mantras, mudras, mandalas & mandorlas in your life & meditation
+* Using mantras, mudras, mandalas, mandorlas and rituals in your life & meditation
 * Reveal & build your spiritual anatomy through awakening chakras & energy channels
 * Connect with spiritual beings & worlds including angels, gods & God in your meditation & daily life
 * Experience the Self
@@ -62,11 +62,11 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you commit to attending classes regularly unless you decide to withdraw
-* You commit to completing homework as required prior to the next class (Discussions are completely confidential)
+* You commit to completing homework and practices as required prior to the next class (Discussions are completely confidential)
 
 #### Tuition: 
 
-* £/$/€ 25.00 paid monthly in advance or equivalent in local currency.
+* £/$/€ 25.00 paid monthly in advance or the equivalent in your local currency.
 
 #### Registration: 
 
@@ -77,6 +77,6 @@ To enrol or have questions, email me directly:
 
 * Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
 
-* UK/EU/Africa: Sunday Morning 8am-10am UK (BST), Africa / Sunday Evening 7pm to 9pm AEST
+* UK/EU/Africa: Sunday Morning 8am-10am UK (GMT), Africa / Sunday Evening 7pm to 9pm AEST
 
 * The Americas: East & West Coast: To Be Advised.
