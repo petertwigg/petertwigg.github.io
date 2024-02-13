@@ -27,6 +27,9 @@ After site is built, navigate to:
 
 If `_config.yml` changed, restart Jekyll. To stop press `Ctrl-C`
 
+## GitHub : Build & deploy with Actions
+
+https://jekyllrb.com/docs/continuous-integration/github-actions/
 
 
 
