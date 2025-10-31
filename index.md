@@ -36,7 +36,7 @@ If you are content with being nobody in particular, content not to stand out, yo
 
 ### School of Knowing 
 
-Classes commencing March 2024. Enrolments now being received. Register your interest in joining our one year course (weekly classes), or email info@petertwigg.com if you have any questions.   
+Classes commencing January & June 2026. Enrolments now being received. Register your interest in joining our one year course (weekly classes), or email info@petertwigg.com if you have any questions.   
 
 For more details refer here to my [School of Knowing](school-of-knowing) page. 
 

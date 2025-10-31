@@ -58,7 +58,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 ##### What are the requirements to join?
 
-* You attend a 20 minute interview prior to commencing the course
+* You attend a 30 minute interview prior to commencing the course
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you commit to attending classes regularly unless you decide to withdraw
@@ -75,8 +75,6 @@ To enrol or have questions, email me directly:
 
 ##### Classes Commence (12 month program): 
 
-* Australasia Tuesday 7pm to 9pm AEDST. Classes commence Tuesday 26th March, 2024 
+* Classes held in time zones: Australasia/UK/EU/Africa Classes commence January & June 2026 
 
-* UK/EU/Africa: Sunday Morning 8am-10am UK (GMT), Africa / Sunday Evening 7pm to 9pm AEST
-
-* The Americas: East & West Coast: To Be Advised.
+* The Americas: East & West Coast: Classes commence January & June 2026
