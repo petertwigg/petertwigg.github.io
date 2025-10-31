@@ -73,8 +73,8 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 To enrol or have questions, email me directly: 
 [info@petertwigg.com](info@petertwigg.com) 
 
-##### Classes Commence (12 month program): 
+##### Classes Commence: 
 
-* Classes held in time zones: Australasia/UK/EU/Africa Classes commence January & June 2026 
+* Classes held in time zones: Australasia/UK/EU/Africa Weekly classes commence January & June 2026 
 
-* The Americas: East & West Coast: Classes commence January & June 2026
+* Classes held in the Americas: East & West Coast: Weekly classes commence January & June 2026
