@@ -6,7 +6,9 @@ categories:
 feature_image: 
 ---
 
-Interested in knowing yourself to the most profound levels: Join My One Year Truth-Centred Meditation Course
+Interested in knowing yourself to the most profound levels? 
+
+Join My One Year Truth-Centred Meditation Course
 
 Dear Fellow Meditator,
 
