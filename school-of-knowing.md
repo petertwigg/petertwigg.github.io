@@ -66,7 +66,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 #### Tuition: 
 
-* £/$/€ 25.00 paid monthly in advance or the equivalent in your local currency.
+* £/$/€ 25.00 paid monthly or the equivalent in your local currency.
 
 #### Registration: 
 
