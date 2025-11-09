@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-***Leading the Paracelsus Lifestyle: Meditation, Transformation & Life****  
+Leading the Paracelsus Lifestyle: Meditation, Transformation & Life  
 
 I retired earlier this year from working for others to focus on my own meditation and my [School of Knowing](https://petertwigg.com/school-of-knowing/). Having been trained to a very high level by my meditation teacher, what does someone who has practiced meditation for over 40 years do in his retirement?  
 
