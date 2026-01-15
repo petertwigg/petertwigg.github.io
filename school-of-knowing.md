@@ -83,3 +83,8 @@ To enrol or have questions, email me directly:
 * Classes held in time zones: Australasia/UK/EU/Africa Weekly classes commence January & June 2026 
 
 * Classes held in the Americas: East & West Coast: Weekly classes commence January & June 2026
+
+<blockquote>
+	<p><i>A lot there, but good, thanks.  I feel there is so much more depth to learn and understand about the practices, and how they connect to daily life.  In fact, how everything is connected and fits together. Thank you. </i></p>
+	<footer>Student, Sheffield, UK</footer>
+</blockquote>
