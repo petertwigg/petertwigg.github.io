@@ -8,7 +8,7 @@ aside: true
 
 To register your interest, complete your details in the side bar. If you have questions, email me at [info@petertwigg.com](info@petertwigg.com) 
 
-##### Meditation Truth Presence Transformation Awakening Mindfulness 
+##### Meditation - Truth - Presence - Transformation - Awakening - Mindfulness 
 
 Classes Commencing (12 month program) 
 
