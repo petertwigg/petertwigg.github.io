@@ -58,11 +58,10 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 
 ##### What are the requirements to join?
 
-* You attend a 30 minute interview prior to commencing the course
+* Join me for a brief conversation to see whether this path is right for you at this stage of your life
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you commit to attending classes regularly unless you decide to withdraw
-* You commit to completing homework and practices as required prior to the next class (Discussions are completely confidential)
 
 #### Tuition: 
 
