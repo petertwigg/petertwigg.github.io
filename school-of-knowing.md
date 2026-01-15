@@ -54,7 +54,7 @@ Reveal, awaken, practice & learn about:
 * Connect with spiritual beings & worlds including angels, gods & God in your meditation & daily life
 * Experience the Self
 
-Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
+Experience a life-changing meditation journey that leads to a deeper understanding of yourself. It leads to a right relationship with your spiritual self and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
 ##### What are the requirements to join?
 
@@ -62,6 +62,12 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you commit to attending classes regularly unless you decide to withdraw
+
+##### What this is not
+
+* Not for people seeking constant novelty
+* Not for app-style consumption
+* Not for bypassing psychological work
 
 #### Tuition: 
 
