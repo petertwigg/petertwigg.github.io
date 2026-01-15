@@ -63,7 +63,7 @@ Experience a life-changing meditation journey that leads to a deeper understandi
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you commit to attending classes regularly unless you decide to withdraw
 
-##### What this is not
+##### Who this is not for
 
 * Not for people seeking constant novelty
 * Not for app-style consumption
