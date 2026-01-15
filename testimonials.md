@@ -10,7 +10,8 @@ Some feedback from my clients...
 
 ###### Testimonials from clients who have worked with Peter Twigg
 
->A lot there, but good, thanks.  I feel there is so much more depth to learn and understand about the practices, and how they connect to daily life.  In fact, how everything is connected and fits together. Thank you. <footer> Student, Sheffield, UK</footer>
+>A lot there, but good, thanks.  I feel there is so much more depth to learn and understand about the practices, and how they connect to daily life.  In fact, how everything is connected and fits together. Thank you. 
+<footer> Student, Sheffield, UK</footer>
 
 > Meditation seems to be a focused-mind activity not just relaxation! Peter is great at teaching this special skill.
 > <footer> Doctor, Sydney, NSW, Australia</footer>
