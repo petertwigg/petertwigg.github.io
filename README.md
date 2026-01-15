@@ -14,7 +14,7 @@ Open terminal.
 
 In terminal type: 
 
-`cd /Users/edwardtwigg/Documents/GitHub/petertwigg.github.io`
+`cd /Users/edwardtwigg/Documents/GitHub/petertwigg.github.io` 
 
 
 Then to run locally type:
