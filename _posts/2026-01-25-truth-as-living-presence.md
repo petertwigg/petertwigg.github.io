@@ -18,7 +18,7 @@ Philosophically, truth has always been the meeting point of being and knowing �
 
 The challenge, of course, is that truth asks everything of us. It demands that we cease clinging to the false. It calls for courage — to see clearly, to feel deeply, and to remain open even when it dismantles our cherished illusions. 
 
-So if this appeals to you in some way, you can investigate my book called ‘Truth Centred Meditation’ and explores meditation from the standpoint of the Western Esoteric Tradition. If you want to try sitting quietly and saying silently to youself: ‘Not me, but Truth in me’. Observe what happens to your mind and thoughts, the space inside yourself and around you. Share you experiences in the comments below.
+So if this appeals to you in some way, you can investigate my book called ‘Truth Centred Meditation’ and explores meditation from the standpoint of the Western Esoteric Tradition. If you want to try sitting quietly and saying silently to youself: ‘Not me, but Truth in me’. Try that for 10 minutes. Observe what happens to your mind and thoughts, the space inside yourself and around you. Share you experiences in the comments below.
 
 #personalgrowth #transformation #meditation #knowthyself #stepintothefullnessofyourself https://petertwigg.com/school-of-knowing    info@petertwigg.com  
 
