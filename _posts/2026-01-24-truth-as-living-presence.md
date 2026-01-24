@@ -1,12 +1,11 @@
 layout: post
-title: What are the rules and guidelines of meditation?
+title: 
+Truth as Living Presence — Reflections on Truth Centred Meditation
  
 categories:
 - Text
 feature_image: 
 ---
-
-Truth as Living Presence — Reflections on Truth Centred Meditation
 
 In a world saturated with opinions, images, and endless information streams, truth has become one of the most elusive qualities of all. Yet truth isn’t something we invent — it’s something we uncover. Just as light reveals what was already there, truth is the quiet unveiling of the real beneath illusion. This is the essence of truth centred meditation — a return to truth not merely as an idea, but as a direct, living experience.
 
