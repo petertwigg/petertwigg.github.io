@@ -1,7 +1,5 @@
 layout: post
-title: 
-Truth as Living Presence — Reflections on Truth Centred Meditation
- 
+title: Truth as Living Presence — Reflections on Truth Centred Meditation
 categories:
 - Text
 feature_image: 
@@ -19,5 +17,6 @@ The challenge, of course, is that truth asks everything of us. It demands that w
 
 So if this appeals to you in some way, you can investigate my book called ‘Truth Centred Meditation’ and explores meditation from the standpoint of the Western Esoteric Tradition. If you want to try sitting quietly and saying silently to youself: ‘Not me, but Truth in me’. Try that for 10 minutes. Observe what happens to your mind and thoughts, the space inside yourself and around you. Share you experiences in the comments below.
 
-#truth #personalgrowth #transformation #meditation #knowthyself #stepintothefullnessofyourself https://petertwigg.com/school-of-knowing    info@petertwigg.com  
+#truth #personalgrowth #transformation #meditation #knowthyself #stepintothefullnessofyourself 
+[My Website]https://petertwigg.com/school-of-knowing    info@petertwigg.com  
 
