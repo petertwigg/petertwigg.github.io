@@ -10,7 +10,7 @@ feature_image:
 
 What are the rules and guidelines of meditation?
 
-he first rule of meditation is, if you feel pain in your knees while meditating, you must move your legs to ease that pain! That is the only rule of meditation. 
+The first rule of meditation is, if you feel pain in your knees while meditating, you must move your legs to ease that pain! That is the only rule of meditation. 
 
 The thing to understand is that the knee is a very strong and stable structure, but the tendons and ligaments that make up the internal workings of the knee, are subject to stresses. Pain is the signal that those delicate structures are under pressure. Hence the need to move your legs. A damaged knee can take months or years to heal is a great impediment to meditating.
 
