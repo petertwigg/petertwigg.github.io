@@ -10,9 +10,13 @@ To register your interest, complete your details in the side bar. If you have qu
 
 ##### Meditation - Truth - Presence - Transformation - Awakening - Mindfulness 
 
-Classes Commencing (12 month program) 
+#### Join my 7-Day Truth-Centred Meditation Challenge. 
 
-##### Your Invitation
+Have you got what it takes to meditate without moving for 1 glorious hour? Here we examine the basics and a little bit of theory and context to help you build a sustainable daily meditation practice.
+
+For a more in-depth path, my one year class commence every January & June. Enrolments are now open for June 2026. Email me at info@petertwigg.com so we can set up a time on Zoom for a short introductory chat to see whether this path is right for you at this stage of your life. In the meanwhile, if you have any questions, reach out and I will respond.   
+
+##### Your Invitation 
 
 If you are interested in developing a strong and vibrant meditation practice, consider joining my one year, weekly 2 hour online class.
 

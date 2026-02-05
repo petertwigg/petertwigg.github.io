@@ -8,7 +8,7 @@ aside: true
 
 I have been meditating for over 40 years and had the privilege of teaching meditation in workshops and private practice all around the world.
 
-I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I practice as a homoeopath and naturopath. Some of the outcomes of my work include helping people restore health and resolve emotional blockages so you are free to be yourself. 
+I also employ techniques of meditation and mindfulness to bring about health, healing and transformation. I practice as a homoeopath and naturopath. Some outcomes from my work include helping people restore health and resolve emotional blockages so you are free to be your true self. 
 
 ### Meditation & Mindfulness
 
@@ -24,7 +24,7 @@ Engaging a strong meditation practice brings an expanded awareness of states of 
 
 Techniques involving meditation practice, enhanced mindfulness, sourcing and release of emotional imprints and other therapeutic cognitive processes bring healing and harmony resulting in profound shifts. I also work with death and bereavement.  Ultimately, my work is helping you to raise the voltage of your consciousness to facilitate your way of being in the world by being open to higher dimensions of yourself.
 
-In working with students and clients, I draw from my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath into teaching. My task is to find the right tool to help you move forward. My focus also provides a framework by which people transform or heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest levels of yourself.
+In working with students and clients, I draw from my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath into teaching. My task is to use the right tools to help you move forward. That includes meditation practice, in-the-world spiritual awareness, use of rituals and mindful sourcing. My focus provides a framework by which people transform and heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest levels of yourself.
 
 ### Expertise
 
@@ -35,8 +35,9 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 If you are content with being nobody in particular, content not to stand out, you align yourself with the power of the universe. What looks like weakness to the ego is in fact the only true strength. ~ Eckhart Tolle. 
 
 ### School of Knowing 
+Join my 7-Day Truth-Centred Meditation Challenge. Have you got what it takes to meditate without moving for 1 glorious hour? Here we examine the basics and a little bit of theory and context to help you build a sustainable daily meditation practice.
 
-Classes commencing January & June 2026. Enrolments now being received. Email me at info@petertwigg.com so we can set up a time on Zoom for a short conversation to see whether this path is right for you at this stage of your life. Or if you have any questions, reach out and I will respond.   
+For a more in-depth path, one year classes commence every January & June. Enrolments are now open for June 2026. Email me at info@petertwigg.com so we can set up a time on Zoom for a short conversation to see whether this path is right for you at this stage of your life. Or if you have any questions, reach out and I will respond.   
 
 For more details refer here to my [School of Knowing](school-of-knowing) page. 
 
