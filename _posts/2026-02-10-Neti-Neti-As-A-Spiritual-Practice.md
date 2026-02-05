@@ -16,7 +16,16 @@ This insight can be tasted directly through a simple, non-sectarian practice. Si
 
 The “Not I, Not I” path is a quiet revolution. It does not build a better ego or a more spiritual identity. It reveals what has always been true beneath them. As the false self is gently denied, a deeper life comes into view—known as Christ within, as the Self beyond thought, as presence beyond all names. From there, life naturally simplifies: less self-protection, less striving, more truth, and more love.
 
-Peter Twigg School of Knowing
+Thank you for reading!
 
-#truth #meditation #awakening #SchoolofKnowing #neti-neti #spirituality #spiritualpractice
-ooo000ooo
+
+https://petertwigg.com/schoolofknowing
+info@petertwigg.com
+<center><blockquote class="photo">
+	<img src="/images/peter-twigg-photo.jpg" width="200">
+	<p>Beyond Belief — Into Knowing</p>
+	<p>Peter Twigg School of Knowing</p>
+	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
+</blockquote></center>
+
+
