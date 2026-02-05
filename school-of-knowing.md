@@ -12,9 +12,11 @@ To register your interest, complete your details in the side bar. If you have qu
 
 #### Join my 7-Day Truth-Centred Meditation Challenge. 
 
-Have you got what it takes to meditate without moving for 1 glorious hour? Here we examine the basics and a little bit of theory and context to help you build a sustainable daily meditation practice.
+Have you got what it takes to meditate without moving for 1 glorious hour? Here we examine the basics along with a little theory and context to help you build a sustainable daily meditation practice. You get to see what it is like and a taste of what it might offer you. 
 
-For a more in-depth path, my one year class commence every January & June. Enrolments are now open for June 2026. Email me at info@petertwigg.com so we can set up a time on Zoom for a short introductory chat to see whether this path is right for you at this stage of your life. In the meanwhile, if you have any questions, reach out and I will respond.   
+#### One Year Meditation Class
+
+For a more in-depth path, my one year meditation class commences every January & June. Enrolments are now open for June 2026. Email me at info@petertwigg.com so we can set up a time on Zoom for a short discovery chat to see whether this path is right for you at this stage of your life. In the meanwhile, if you have any questions, reach out and I will respond.   
 
 ##### Your Invitation 
 
@@ -43,7 +45,7 @@ The course will take you on a self discovery path to know yourself and spiritual
 
 Reveal, awaken, practice & learn about:
 
-* Your non-physical bodies
+* Underatanding our non-physical bodies
 * Awaken spiritual vision
 * The nature of the mind
 * Emotions and feelings
@@ -58,11 +60,11 @@ Reveal, awaken, practice & learn about:
 * Connect with spiritual beings & worlds including angels, gods & God in your meditation & daily life
 * Experience the Self
 
-Experience a life-changing meditation journey that leads to a deeper understanding of yourself. It leads to a right relationship with your spiritual self and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
+Experience a life-changing meditation path that leads to a deeper understanding of yourself. It leads to a right relationship with your spiritual self and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
 
 ##### What are the requirements to join?
 
-* Join me for a brief conversation to see whether this path is right for you at this stage of your life
+* Join me on a discovery call to see whether this path is right for you at this stage of your life
 * You are mentally and physically healthy (please email if you have any questions or doubts)
 * You are willing to disclose any medication or recreational drugs you take (treated in the strictest confidence)
 * Once you start you commit to attending classes regularly unless you decide to withdraw

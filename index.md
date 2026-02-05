@@ -27,11 +27,9 @@ Techniques involving meditation practice, enhanced mindfulness, sourcing and rel
 In working with students and clients, I draw from my training and depth of personal experience in meditation, self-development work and experiences of consciousness. My evolution as a practitioner has seen me move from being a naturopath and homeopath into teaching. My task is to use the right tools to help you move forward. That includes meditation practice, in-the-world spiritual awareness, use of rituals and mindful sourcing. My focus provides a framework by which people transform and heal. The work I do is often extremely subtle and profound. It is a work of depth seeking to bring about change at the deepest levels of yourself.
 
 ### Expertise
-
 In my experience many symptoms, such as anxiety, allergies, fears, depression stem from your conciousness not being free. In reality, your consciousness is independent of **your physical body**. In the 21st century however, it has become increasingly bound to the body resulting in increased mental and physical stresses. In general, the neuroses of the modern world respond well to meditation and mindfulness processes. Meditation assists by a rebalancing of consciousness that restores health and wellbeing. It is a restoration and alignment of the person who presents in the world with the deepest, most profound parts of your Self.  
 
 ### Quotes 
-
 If you are content with being nobody in particular, content not to stand out, you align yourself with the power of the universe. What looks like weakness to the ego is in fact the only true strength. ~ Eckhart Tolle. 
 
 ### School of Knowing 
@@ -57,7 +55,7 @@ In November 2023 I published my first book showing how meditating on truth can b
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
 {% include video.html id="gGgQBXxcFGc" title="Introducing Peter Twigg" %}
-Introducing myself and sharing some of my personal journey on my meditation path. I hope you can find my channel useful in your own meditation practice. 
+Introducing myself and sharing some of my personal journey on my meditation path. I hope you find my channel useful in building your own meditation practice. 
 
 ### Latest Videos 
 
