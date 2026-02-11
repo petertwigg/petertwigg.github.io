@@ -46,7 +46,7 @@ The course will take you on a self discovery path to know yourself and spiritual
 
 Reveal, awaken, practice & learn about:
 
-* Underatanding our non-physical bodies
+* Understanding our non-physical bodies
 * Awaken spiritual vision
 * The nature of the mind
 * Emotions and feelings
