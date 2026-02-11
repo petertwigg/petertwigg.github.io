@@ -8,13 +8,14 @@ aside: true
 
 To register your interest, complete your details in the side bar. If you have questions, email me at [info@petertwigg.com](info@petertwigg.com) 
 
-##### Meditation - Truth - Presence - Transformation - Awakening - Mindfulness 
+###### Meditation - Truth - Presence - Transformation - Awakening - Mindfulness 
+
 
 #### Join my 7-Day Truth-Centred Meditation Challenge. 
 
 Have you got what it takes to meditate without moving for 1 glorious hour? Here we examine the basics along with a little theory and context to help you build a sustainable daily meditation practice. You get to see what it is like and a taste of what it might offer you. 
 
-#### One Year Meditation Class
+##### One Year Meditation Class
 
 For a more in-depth path, my one year meditation class commences every January & June. Enrolments are now open for June 2026. Email me at info@petertwigg.com so we can set up a time on Zoom for a short discovery chat to see whether this path is right for you at this stage of your life. In the meanwhile, if you have any questions, reach out and I will respond.   
 
