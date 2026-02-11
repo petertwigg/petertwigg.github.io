@@ -8,7 +8,7 @@ feature_image:
 
 Meditation is the vehicle which helps your consciousness seeking to return to its source. 
 
-Your consciousness seeks to know itself. That quest to know itself is played out in every human, even though we may not know that. It comes as a search for truth in part.
+Your consciousness seeks to know itself. That quest to know itself is played out in every human, even though we may not know it. It comes as a search for the divine, truth,  .
 
 In meditation we rely on a device that helps to take you inwards to the very essence of yourself. That device can involve using the breath, or perhaps a mantra - a sacred word used to help your consciousness drive deeply towards its source. Another device often used is the focus on a chakra, itself a gateway to move deeper inside yourself. 
 
