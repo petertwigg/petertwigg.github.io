@@ -41,6 +41,8 @@ navigation_header:
   url: /blog/ 
 - title: School of Knowing
   url: /school-of-knowing/ 
+- title: 7-Day Challenge
+  url: /7dmc/
 - title: Books
   url: /books/
 - title: About
