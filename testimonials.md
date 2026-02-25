@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Client testimonials
+title: Client Testimonials | Peter Twigg Meditation 
+description: Read what students say about Peter Twigg's meditation courses, workshops and the School of Knowing.
 feature_image: "/images/bufovento-02-1664.jpg"
 feature_text:
 aside: true
