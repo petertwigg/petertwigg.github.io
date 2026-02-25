@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+nav_exclude: true
 feature_image: "/images/kyrenia-03-1600.jpg"
 feature_text: 
 aside: true 

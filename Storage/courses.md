@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Courses
+nav_exclude: true
 feature_image: "/images/bufovento-02-1664.jpg"
 feature_text: 
 aside: true

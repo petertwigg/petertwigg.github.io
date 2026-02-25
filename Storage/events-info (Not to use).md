@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events info (Not to Use)
+nav_exclude: true
 feature_image: 
 feature_text: 
 aside: true 
