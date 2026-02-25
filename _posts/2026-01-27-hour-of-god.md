@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Hour of God
+description: Inspirational comment from Sri Aurobindo when we have those moments
 categories:
 - Text
 feature_image: 

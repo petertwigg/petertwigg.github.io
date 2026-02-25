@@ -1,6 +1,7 @@
+--- 
 layout: post
 title: What are the rules and guidelines of meditation?
- 
+description: Using truth to inform and guide your meditation
 categories:
 - Text
 feature_image: 

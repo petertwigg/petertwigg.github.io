@@ -1,4 +1,11 @@
-“Not I, Not I” Path (Neti Neti) As A Spiritual Practice 
+---
+layout: post
+title: “Not I, Not I” Path (Neti Neti) As A Spiritual Practice
+description: Working and managing your energy on a daily basis
+categories:
+- Text
+feature_image: 
+---
 
 Across two great contemplative lineages—Hindu Advaita and Christian monastic mysticism—we find a strikingly similar way of awakening beyond the ego: the path of negation.
 
