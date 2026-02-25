@@ -11,7 +11,7 @@ To register your interest, complete your details in the side bar. If you have qu
 ###### Meditation - Truth - Presence - Transformation - Awakening - Mindfulness 
 
 
-#### Join my 7-Day Truth-Centred Meditation Challenge. 
+##### Join my 7-Day Truth-Centred Meditation Challenge. 
 
 Have you got what it takes to meditate without moving for 1 glorious hour? Here we examine the basics along with a little theory and context to help you build a sustainable daily meditation practice. You get to see what it is like and a taste of what it might offer you. 
 
