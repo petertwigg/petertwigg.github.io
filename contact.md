@@ -10,7 +10,7 @@ feature_text:
 
 For more information about online meditation trainings, email me at: [info@petertwigg.com](mailto:info@petertwigg.com)
 
---- 
+
 
 
 
