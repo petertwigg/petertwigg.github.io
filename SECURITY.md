@@ -1,5 +1,5 @@
 # Security Policy
-
+nav_exclude: true
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
