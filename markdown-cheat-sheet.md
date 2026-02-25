@@ -1,4 +1,4 @@
-nav_exclude: true
+
 
 # Markdown Cheat Sheet
 

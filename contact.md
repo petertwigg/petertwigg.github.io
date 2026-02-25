@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Contact Peter
+title: Contact Peter Twigg | Meditation Teacher
+description: Get in touch with Peter Twigg to learn about the School of Knowing, workshops and private meditation sessions.
 feature_image: "/images/Fire3.jpg"
 feature_text:
 ---
 
-Peter Twigg Meditation for more information about Online Meditation Trainings and videos.
-
-Email: [info@petertwigg.com](mailto:info@petertwigg.com)
+For more information about online meditation trainings and videos, email Peter at: [info@petertwigg.com](mailto:info@petertwigg.com)
 
 --- 
 

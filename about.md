@@ -1,5 +1,6 @@
 ---
-title: About Peter
+title: About Peter Twigg | 40-Year Meditation Teacher
+description: Meet Peter Twigg — homoeopath, naturopath and meditation teacher with over 40 years meditating and teaching worldwide.
 layout: page
 feature_image: "/images/kyrenia-03-1600.jpg"
 feature_text:

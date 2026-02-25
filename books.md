@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Books on meditation & mindfulness
+title: Books on Meditation | Peter Twigg
+description: Explore Peter Twigg's book on meditation, consciousness, mindfulness and spiritual development.
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
 aside: true 

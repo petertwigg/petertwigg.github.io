@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Welcome to the School of Knowing 
+title: School of Knowing | One-Year Meditation Course
+description: Join the School of Knowing offering weekly online meditation classes exploring consciousness, stillness and spiritual growth.
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
 aside: true 
