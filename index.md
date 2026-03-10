@@ -1,5 +1,6 @@
 ---
 title: Peter Twigg Meditation
+description: Deepen your meditation practice with Peter Twigg — 40 years of teaching meditation, consciousness and spiritual development worldwide. Join the School of Knowing.
 layout: page
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:
