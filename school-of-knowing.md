@@ -1,11 +1,11 @@
-	---
-	layout: page
-	title: School of Knowing | One-Year Meditation Course
-	description: Join the School of Knowing offering weekly online meditation classes exploring consciousness, stillness and spiritual growth.
-	feature_image: "/images/banner-main-01-1600.jpg"
-	feature_text: 
-	aside: true 
-	---
+---
+layout: page
+title: School of Knowing | One-Year Meditation Course
+description: Join the School of Knowing offering weekly online meditation classes exploring consciousness, stillness and spiritual growth.
+feature_image: "/images/banner-main-01-1600.jpg"
+feature_text:
+aside: true
+---
 
 To register your interest, complete your details in the side bar. If you have questions, email me at [info@petertwigg.com](info@petertwigg.com) 
 
