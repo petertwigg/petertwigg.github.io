@@ -5,6 +5,12 @@ layout: page
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:
 aside: true
+redirect_from:
+  - /Storage/rt_sessions.html
+  - /Storage/registration.html
+  - /Storage/payment.html
+  - /Storage/bookings.html
+  - /Storage/corporate.html
 ---
 
 I have been meditating for over 40 years and had the privilege of teaching meditation in workshops and private practice all around the world.

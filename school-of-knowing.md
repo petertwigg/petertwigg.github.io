@@ -5,6 +5,8 @@ description: Join the School of Knowing offering weekly online meditation classe
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:
 aside: true
+redirect_from:
+  - /school-of-knowing.html
 ---
 
 To register your interest, complete your details in the side bar. If you have questions, email me at [info@petertwigg.com](info@petertwigg.com) 

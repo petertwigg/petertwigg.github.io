@@ -1,9 +1,11 @@
 ---
 layout: post
-title: One Rule of Meditation 
+title: One Rule of Meditation
 categories:
 - Video
-feature_image: 
+feature_image:
+redirect_from:
+  - /tips/2022/07/11/one-rule-of-meditation/
 ---
 
 In this video we discuss the One Rule of Meditation, which can save a lot of pain and expense with your knees.

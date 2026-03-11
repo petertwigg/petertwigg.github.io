@@ -3,7 +3,9 @@ layout: post
 title: Spiritual Perspectives - What is Conciousness?
 categories:
 - Video
-feature_image: 
+feature_image:
+redirect_from:
+  - /context/2022/08/07/spiritual-perspectives-what-is-consciousness/
 ---
 
 The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.
