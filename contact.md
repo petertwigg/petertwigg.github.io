@@ -6,8 +6,6 @@ feature_image: "/images/Fire3.jpg"
 feature_text:
 ---
 
-### Contact
-
 For more information about online meditation trainings, email me at: [info@petertwigg.com](mailto:info@petertwigg.com)
 
 
