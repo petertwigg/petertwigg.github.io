@@ -40,7 +40,7 @@ In my experience many symptoms, such as anxiety, allergies, fears, depression st
 If you are content with being nobody in particular, content not to stand out, you align yourself with the power of the universe. What looks like weakness to the ego is in fact the only true strength. ~ Eckhart Tolle. 
 
 ### School of Knowing
-Join my [7-Day Meditation Challenge](/7dmc) — 7 live daily Zoom sessions with open Q&A, £/€/$25. Build a real daily practice in one week. And if you continue into the School of Knowing, your £/€/$25 is credited toward your first month's tuition. Next session: **17 May 2026**.
+Join my [7-Day Meditation Challenge](/7dmc) — 7 live daily Zoom sessions with open Q&A, £/€/$25. Build a real daily practice in one week. And if you continue into the School of Knowing, your £/€/$25 is credited toward your first month's tuition. Next session starting: **17 May 2026**.
 
 For a more in-depth path, one year classes commence every January & June. Enrolments are now open for June 2026. Email me at info@petertwigg.com so we can set up a time on Zoom for a short conversation to see whether this path is right for you at this stage of your life. Or if you have any questions, reach out and I will respond.   
 
