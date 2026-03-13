@@ -20,9 +20,14 @@
 
 /* Dividers — tighter than theme default */
 .sok-divider {
-  margin: 0.6rem 0;
+  margin: 0.25rem 0;
   border: none;
   border-top: 1px solid #ddd;
+}
+
+/* Preserve proportionate spacing inside boxed sections */
+.sok-box .sok-divider {
+  margin: 0.6rem 0;
 }
 
 /* Lists */
@@ -75,6 +80,24 @@
   margin-top: 1rem;
   font-size: 1.1em;
   font-weight: bold;
+}
+
+/* Ready to begin — heading and enrol link on same line */
+.sok-ready-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.sok-ready-header h2 {
+  margin: 0;
+}
+
+.sok-enrol-inline {
+  font-size: 1.1em;
+  font-weight: bold;
+  white-space: nowrap;
 }
 
 /* Responsive — single column on mobile */
