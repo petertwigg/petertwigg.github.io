@@ -70,6 +70,13 @@
   font-weight: bold;
 }
 
+/* Enrol CTA link in main column */
+.sok-enrol-cta {
+  margin-top: 1rem;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
 /* Responsive — single column on mobile */
 @media (max-width: 768px) {
   .sok-grid {
