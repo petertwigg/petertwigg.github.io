@@ -1,0 +1,78 @@
+/* ============================================================
+   7-DMC Landing Page Styles
+   petertwigg.com/7dmc
+   ============================================================ */
+
+/* Intro block — above the grid */
+.sok-intro {
+  font-size: 1.1em;
+  margin: 0.5rem 0 1.5rem;
+  color: #444;
+}
+
+/* Two-column grid: main content left, sidebar right */
+.sok-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  margin: 1rem 0;
+}
+
+/* Dividers — tighter than theme default */
+.sok-divider {
+  margin: 0.6rem 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
+/* Lists */
+.sok-list {
+  margin: 0.4rem 0;
+  padding-left: 1.5rem;
+}
+
+.sok-list li {
+  margin-bottom: 0.35rem;
+}
+
+/* Boxed sections (sidebar join box, ready to begin) */
+.sok-box {
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+/* Tagline — centred */
+.sok-tagline {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 1rem;
+}
+
+/* Small inline text (e.g. syllabus notes) */
+.sok-small {
+  font-size: 0.75em;
+  color: #888;
+  margin-left: 0.5rem;
+}
+
+/* FAQ section */
+.sok-faq details {
+  margin-bottom: 0.6rem;
+}
+
+.sok-faq summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* Responsive — single column on mobile */
+@media (max-width: 768px) {
+  .sok-grid {
+    grid-template-columns: 1fr;
+  }
+}
