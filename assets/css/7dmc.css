@@ -75,9 +75,29 @@
   font-weight: bold;
 }
 
-/* Enrol CTA link in main column */
-.sok-enrol-cta {
+/* Enrol card — photo left, text right */
+.sok-enrol-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
   margin-top: 1rem;
+}
+
+.sok-enrol-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.sok-enrol-card-text p {
+  margin: 0 0 0.5rem;
+}
+
+/* Enrol CTA link */
+.sok-enrol-cta {
+  margin-top: 0.5rem;
   font-size: 1.1em;
   font-weight: bold;
 }
