@@ -107,8 +107,21 @@
   text-align: center;
 }
 
-.sok-ready-box h2 {
+/* "Ready to begin?" and "Enrol here." on the same line */
+.sok-ready-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
   margin-bottom: 0.5rem;
+}
+
+.sok-ready-top h2 {
+  margin: 0;
+}
+
+.sok-ready-top p {
+  margin: 0;
 }
 
 .sok-ready-box p {
@@ -122,9 +135,9 @@
   text-decoration: underline;
 }
 
-/* Sidebar dates — left-aligned */
+/* Sidebar dates — indented one notch, no bullets */
 .sok-dates {
-  padding-left: 0;
+  padding-left: 1.25rem;
   list-style: none;
 }
 
