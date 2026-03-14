@@ -102,22 +102,30 @@
   font-weight: bold;
 }
 
-/* Ready to begin — heading and enrol link on same line */
-.sok-ready-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
+/* Ready to begin — centred tapering layout */
+.sok-ready-box {
+  text-align: center;
 }
 
-.sok-ready-header h2 {
-  margin: 0;
+.sok-ready-box h2 {
+  margin-bottom: 0.5rem;
 }
 
-.sok-enrol-inline {
-  font-size: 1.1em;
+.sok-ready-box p {
+  margin: 0.25rem 0;
+}
+
+/* Enrol here — bottom of page, underlined */
+.sok-enrol-bottom {
+  font-size: 1.15em;
   font-weight: bold;
-  white-space: nowrap;
+  text-decoration: underline;
+}
+
+/* Sidebar dates — left-aligned */
+.sok-dates {
+  padding-left: 0;
+  list-style: none;
 }
 
 /* Responsive — single column on mobile */
