@@ -1,0 +1,222 @@
+<section class="sok-enrol-page">
+
+  <p class="sok-intro">Reserve your place in the next 7DMC session. Complete the form below — a PayPal window will open to process your payment, and Peter will send your Zoom link within 24 hours.</p>
+
+  <div id="enrol-form-wrap">
+    <form id="enrol-form" novalidate>
+
+      <div class="enrol-field">
+        <label for="enrol-first">First name <span class="enrol-req">*</span></label>
+        <input type="text" id="enrol-first" name="first_name" required autocomplete="given-name">
+      </div>
+
+      <div class="enrol-field">
+        <label for="enrol-last">Last name <span class="enrol-req">*</span></label>
+        <input type="text" id="enrol-last" name="last_name" required autocomplete="family-name">
+      </div>
+
+      <div class="enrol-field">
+        <label for="enrol-email">Email address <span class="enrol-req">*</span></label>
+        <input type="email" id="enrol-email" name="email" required autocomplete="email">
+      </div>
+
+      <div class="enrol-field">
+        <label for="enrol-country">Country <span class="enrol-req">*</span></label>
+        <select id="enrol-country" name="country" required onchange="onCountryChange()">
+          <option value="">— Select your country —</option>
+          <option value="AU">Australia</option>
+          <option value="AT">Austria</option>
+          <option value="BE">Belgium</option>
+          <option value="CA">Canada</option>
+          <option value="HR">Croatia</option>
+          <option value="CY">Cyprus</option>
+          <option value="CZ">Czech Republic</option>
+          <option value="DK">Denmark</option>
+          <option value="EE">Estonia</option>
+          <option value="FI">Finland</option>
+          <option value="FR">France</option>
+          <option value="DE">Germany</option>
+          <option value="GR">Greece</option>
+          <option value="HK">Hong Kong</option>
+          <option value="HU">Hungary</option>
+          <option value="IS">Iceland</option>
+          <option value="IN">India</option>
+          <option value="ID">Indonesia</option>
+          <option value="IE">Ireland</option>
+          <option value="IL">Israel</option>
+          <option value="IT">Italy</option>
+          <option value="JP">Japan</option>
+          <option value="LV">Latvia</option>
+          <option value="LT">Lithuania</option>
+          <option value="LU">Luxembourg</option>
+          <option value="MY">Malaysia</option>
+          <option value="MT">Malta</option>
+          <option value="MX">Mexico</option>
+          <option value="NL">Netherlands</option>
+          <option value="NZ">New Zealand</option>
+          <option value="NO">Norway</option>
+          <option value="PH">Philippines</option>
+          <option value="PL">Poland</option>
+          <option value="PT">Portugal</option>
+          <option value="RO">Romania</option>
+          <option value="SG">Singapore</option>
+          <option value="SK">Slovakia</option>
+          <option value="SI">Slovenia</option>
+          <option value="ZA">South Africa</option>
+          <option value="KR">South Korea</option>
+          <option value="ES">Spain</option>
+          <option value="LK">Sri Lanka</option>
+          <option value="SE">Sweden</option>
+          <option value="CH">Switzerland</option>
+          <option value="TW">Taiwan</option>
+          <option value="AE">United Arab Emirates</option>
+          <option value="GB">United Kingdom</option>
+          <option value="US">United States</option>
+          <option value="OTHER">Other</option>
+        </select>
+      </div>
+
+      <div class="enrol-field">
+        <label>Session preference <span class="enrol-req">*</span></label>
+        <div class="enrol-radio">
+          <label>
+            <input type="radio" name="session" value="A">
+            Session A &mdash; Australia, Europe &amp; UK &nbsp;(4:00 PM AEST &middot; 7:00 AM BST &middot; 8:00 AM CEST)
+          </label>
+          <label>
+            <input type="radio" name="session" value="B">
+            Session B &mdash; Americas &nbsp;(12:00 PM PDT &middot; 3:00 PM EDT)
+          </label>
+        </div>
+      </div>
+
+      <div id="enrol-payment-summary" class="enrol-payment-summary" style="display:none;">
+        <p>Your payment: <strong id="enrol-amount-label"></strong> via PayPal</p>
+      </div>
+
+      <div class="enrol-field">
+        <button type="button" class="enrol-pay-btn" onclick="handleEnrolment()">Make Payment &rarr;</button>
+      </div>
+
+      <p class="enrol-note">* Required fields. Clicking "Make Payment" opens a secure PayPal window and records your registration. Peter will email your Zoom link within 24 hours of payment. Please keep that email safe.</p>
+
+    </form>
+  </div>
+
+  <div id="enrol-confirmation" class="enrol-confirm-box" style="display:none;">
+    <h2>You&rsquo;re registered!</h2>
+    <p>Your PayPal window has opened. Once payment is complete, Peter will send your Zoom link within 24 hours.</p>
+    <p>Any questions: <a href="mailto:info@petertwigg.com?subject=7DMC%20Registration">email info@petertwigg.com</a></p>
+  </div>
+
+</section>
+
+<script>
+  var PAYPAL_BASE = 'https://paypal.me/PeterTwiggSoK/';
+  var FORMSPREE_ID = 'YOUR_FORMSPREE_ID'; // Replace after Formspree setup
+
+  var currencyMap = {
+    // GBP
+    'GB': { amount: '25', currency: 'GBP', label: '£25 GBP' },
+    // EUR — eurozone
+    'AT': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'BE': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'HR': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'CY': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'EE': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'FI': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'FR': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'DE': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'GR': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'IE': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'IT': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'LV': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'LT': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'LU': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'MT': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'NL': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'PT': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'SK': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'SI': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    'ES': { amount: '25', currency: 'EUR', label: '€25 EUR' },
+    // USD
+    'US': { amount: '25', currency: 'USD', label: '$25 USD' },
+    // AUD
+    'AU': { amount: '25', currency: 'AUD', label: '$25 AUD' },
+    // CAD
+    'CA': { amount: '25', currency: 'CAD', label: '$25 CAD' },
+    // NZD
+    'NZ': { amount: '35', currency: 'NZD', label: '$35 NZD' },
+    // SGD
+    'SG': { amount: '25', currency: 'SGD', label: '$25 SGD' },
+    // HKD
+    'HK': { amount: '150', currency: 'HKD', label: '$150 HKD' },
+    // SEK
+    'SE': { amount: '290', currency: 'SEK', label: '290 SEK' },
+    // NOK
+    'NO': { amount: '290', currency: 'NOK', label: '290 NOK' },
+    // AED
+    'AE': { amount: '90', currency: 'AED', label: '90 AED' }
+  };
+
+  var DEFAULT_CURRENCY = { amount: '25', currency: 'AUD', label: '$25 AUD' };
+
+  function getCurrency(code) {
+    return currencyMap[code] || DEFAULT_CURRENCY;
+  }
+
+  function onCountryChange() {
+    var code = document.getElementById('enrol-country').value;
+    if (!code) {
+      document.getElementById('enrol-payment-summary').style.display = 'none';
+      return;
+    }
+    var curr = getCurrency(code);
+    document.getElementById('enrol-amount-label').textContent = curr.label;
+    document.getElementById('enrol-payment-summary').style.display = 'block';
+  }
+
+  function handleEnrolment() {
+    var first  = document.getElementById('enrol-first').value.trim();
+    var last   = document.getElementById('enrol-last').value.trim();
+    var email  = document.getElementById('enrol-email').value.trim();
+    var country = document.getElementById('enrol-country').value;
+    var countryLabel = document.getElementById('enrol-country').options[document.getElementById('enrol-country').selectedIndex].text;
+    var session = document.querySelector('input[name="session"]:checked');
+
+    if (!first || !last || !email || !country || !session) {
+      alert('Please complete all required fields before proceeding.');
+      return;
+    }
+    if (email.indexOf('@') < 1 || email.lastIndexOf('.') < email.indexOf('@') + 2) {
+      alert('Please enter a valid email address.');
+      return;
+    }
+
+    var curr = getCurrency(country);
+    var paypalUrl = PAYPAL_BASE + curr.amount + curr.currency;
+
+    // Submit registration to Formspree in background
+    if (FORMSPREE_ID !== 'YOUR_FORMSPREE_ID') {
+      fetch('https://formspree.io/f/' + FORMSPREE_ID, {
+        method: 'POST',
+        headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          first_name: first,
+          last_name: last,
+          email: email,
+          country: countryLabel,
+          session: 'Session ' + session.value,
+          payment: curr.label
+        })
+      }).catch(function() {});
+    }
+
+    // Open PayPal
+    window.open(paypalUrl, '_blank');
+
+    // Show confirmation
+    document.getElementById('enrol-form-wrap').style.display = 'none';
+    document.getElementById('enrol-confirmation').style.display = 'block';
+  }
+</script>

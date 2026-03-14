@@ -150,3 +150,115 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* ============================================================
+   Enrolment Form
+   ============================================================ */
+
+.sok-enrol-page {
+  max-width: 580px;
+}
+
+.enrol-field {
+  margin-bottom: 1.25rem;
+}
+
+.enrol-field > label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.4rem;
+}
+
+.enrol-field input[type="text"],
+.enrol-field input[type="email"],
+.enrol-field select {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1em;
+  font-family: inherit;
+  box-sizing: border-box;
+  background: #fff;
+}
+
+.enrol-field input[type="text"]:focus,
+.enrol-field input[type="email"]:focus,
+.enrol-field select:focus {
+  outline: none;
+  border-color: #555;
+}
+
+.enrol-req {
+  color: #c00;
+  margin-left: 2px;
+}
+
+.enrol-radio {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.enrol-radio label {
+  font-weight: normal;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+
+.enrol-radio input[type="radio"] {
+  margin-top: 0.25rem;
+  flex-shrink: 0;
+}
+
+.enrol-payment-summary {
+  background: #f0f7f0;
+  border: 1px solid #b8d8b8;
+  border-radius: 4px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.enrol-payment-summary p {
+  margin: 0;
+  font-size: 1.05em;
+}
+
+.enrol-pay-btn {
+  background: #0070ba;
+  color: #fff;
+  border: none;
+  padding: 0.8rem 2rem;
+  font-size: 1.1em;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  font-family: inherit;
+}
+
+.enrol-pay-btn:hover {
+  background: #005ea6;
+}
+
+.enrol-note {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.75rem;
+  line-height: 1.5;
+}
+
+.enrol-confirm-box {
+  background: #f0f7f0;
+  border: 1px solid #b8d8b8;
+  border-radius: 4px;
+  padding: 1.5rem;
+  margin-top: 1rem;
+}
+
+.enrol-confirm-box h2 {
+  color: #2a6e2a;
+  margin-top: 0;
+}
