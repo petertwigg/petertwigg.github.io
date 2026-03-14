@@ -135,10 +135,11 @@
   text-decoration: underline;
 }
 
-/* Sidebar dates — indented one notch, no bullets */
+/* Sidebar dates — flush left under "Upcoming sessions:", no bullets */
 .sok-dates {
-  padding-left: 1.25rem;
+  padding-left: 0;
   list-style: none;
+  margin-top: 0.25rem;
 }
 
 /* Responsive — single column on mobile */
