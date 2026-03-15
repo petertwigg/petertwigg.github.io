@@ -262,3 +262,10 @@
   color: #2a6e2a;
   margin-top: 0;
 }
+
+/* Upcoming dates note above session preference */
+.enrol-dates-note {
+  font-size: 0.9em;
+  color: #555;
+  margin: -0.5rem 0 1.25rem;
+}
