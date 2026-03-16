@@ -199,21 +199,30 @@
     var curr = getCurrency(country);
     var paypalUrl = PAYPAL_BASE + curr.amount + curr.currency;
 
+    var formData = {
+      first_name: first,
+      last_name: last,
+      email: email,
+      country: countryLabel,
+      session: 'Session ' + session.value,
+      payment: curr.label
+    };
+
     // Submit registration to Formspree in background
     if (FORMSPREE_ID !== 'YOUR_FORMSPREE_ID') {
       fetch('https://formspree.io/f/' + FORMSPREE_ID, {
         method: 'POST',
         headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          first_name: first,
-          last_name: last,
-          email: email,
-          country: countryLabel,
-          session: 'Session ' + session.value,
-          payment: curr.label
-        })
+        body: JSON.stringify(formData)
       }).catch(function() {});
     }
+
+    // Send to Make.com webhook for automated welcome email
+    fetch('https://hook.us2.make.com/j2k173fexcktumfn8evc4so3udo8xuel', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(formData)
+    }).catch(function() {});
 
     // Open PayPal
     window.open(paypalUrl, '_blank');
