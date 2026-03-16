@@ -49,6 +49,12 @@
   margin-bottom: 1rem;
 }
 
+/* Override Alembic theme aside centering — force all sidebar content left */
+.sok-grid aside,
+.sok-grid aside *:not(.sok-tagline) {
+  text-align: left !important;
+}
+
 /* Tagline — centred */
 .sok-tagline {
   text-align: center;
