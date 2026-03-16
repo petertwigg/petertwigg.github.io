@@ -220,8 +220,8 @@
     // Send to Make.com webhook for automated welcome email
     fetch('https://hook.us2.make.com/pv1bu7vbrb8yp7alq3or654hiqkpdsiw', {
       method: 'POST',
-      headers: { 'Content-Type': 'text/plain' },
-      body: JSON.stringify(formData)
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: new URLSearchParams(formData).toString()
     }).catch(function() {});
 
     // Open PayPal
