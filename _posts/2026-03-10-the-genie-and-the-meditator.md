@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Genie and the Meditator"
-date: 2026-03-19 12:00:00 +1100
+date: 2026-03-10 12:00:00 +1100
 excerpt: "Your willpower is a blind instrument — learn to give it the right task, or it will turn against you."
 ---
 
