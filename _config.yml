@@ -21,7 +21,6 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
-future: true
 
 # Site settings
 url: 'https://petertwigg.com'
