@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Mending a Broken Heart"
-date: 2026-03-19 12:00:00 +1100
 excerpt: "Heartbreak makes us wiser, but first it breaks us. Here is how meditation helps mend your heart and reveals your inner light."
 ---
 

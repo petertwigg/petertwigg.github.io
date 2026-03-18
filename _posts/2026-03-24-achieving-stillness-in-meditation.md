@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Achieving Stillness in Meditation"
-date: 2026-03-24 12:00:00 +1100
 excerpt: "Stillness in meditation is not found — it is uncovered. Here is how to stop chasing it and let it emerge."
 ---
 
