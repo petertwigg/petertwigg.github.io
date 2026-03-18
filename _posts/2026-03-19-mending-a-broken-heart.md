@@ -10,7 +10,7 @@ Part of the human experience that people go through at some stage is experiencin
 When we talk about a broken heart, we are not talking about your physical heart. That may suffer. 
 
 
-![Mending a Broken Heart - image](/assets/uploads/2026/2026-04-02-mending-a-broken-heart-img-3.jpg)
+![Mending a Broken Heart - image](/assets/uploads/2026/2026-03-19-mending-a-broken-heart-img-3.jpg)
 
 
 
@@ -30,7 +30,7 @@ This is known as 'the Fall' in religious terms and it is the original samskara f
 When your heart breaks there are essential energies in the heart that are depleted or lost. Traditional Chinese Medicine and Ayurveda discuss these essential energies at length. It is well known in these ancient healing systems but mostly forgotten in this modern world. Mending a broken heart involves reconstituting those depleted energies.
 
 
-![Mending a Broken Heart - image](/assets/uploads/2026/2026-04-02-mending-a-broken-heart-img-2.jpg)
+![Mending a Broken Heart - image](/assets/uploads/2026/2026-03-19-mending-a-broken-heart-img-2.jpg) 
 
 
 
@@ -42,7 +42,7 @@ There are several things to do. Firstly, it is important to stay present to your
 When it is appropriate, it is time to engage your meditation practice. Use that daily meditation in phases to be present to your heart. Whether you want to or not, engaging your will into your work or study or some project that will absorb you is the key that will reconstitute those essential energies of the heart. It will knit your heart back together again. The more of yourself you throw into your work, the more this will serve to mend your heart. Interestingly, people often do this unconsciously when after a heartbreak they throw themselves into their work. This is a subconscious attempt at healing their heart.
 
 
-![Mending a Broken Heart - image](/assets/uploads/2026/2026-04-02-mending-a-broken-heart-img-1.jpg)
+![Mending a Broken Heart - image](/assets/uploads/2026/2026-03-19-mending-a-broken-heart-img-1.jpg)
 
 
 If you engage your will, remain present to your heart and yourself and address the issues that caused the heartbreak, then your heart will begin to heal. As you let go and open to the world again, the kintsugi effect comes into play. This effect is where your inner light can shine through the cracks that have appeared in your heart. It is a shining from within revealing more of your essence. Your heart will mend truly and it will be stronger and more open. Your life will have become richer for the experience, painful as it was.
