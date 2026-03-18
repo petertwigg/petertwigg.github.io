@@ -11,7 +11,7 @@ The man is a little perturbed of course but he is still incredibly excited about
 
 He aspires for help and a flash of inspiration hits the man and he says to the genie: "I want you to make a flagpole. Rub grease all over the flagpole. I want you to plant the flagpole in the garden over there." The genie goes away and soon the task is complete. A nice new flagpole stands in the garden covered in grease. He returns to the man and says, "what next Master"? The man replies, "Genie, I now want you to go and climb that flagpole." As much as the genie tries, he cannot climb the flagpole. He keeps slipping back down.
 
-![The Genie and the Meditator](/assets/uploads/2026/2026-03-19-the-genie-and-the-meditator-img-1.jpg)
+![The Genie and the Meditator](/assets/uploads/2026/2026-03-10-the-genie-and-the-meditator-img-1.jpg)
 
 ## The Analogy
 
