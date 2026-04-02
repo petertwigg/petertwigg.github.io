@@ -11,6 +11,7 @@ redirect_from:
   - /Storage/payment.html
   - /Storage/bookings.html
   - /Storage/corporate.html
+  - /markdown-cheat-sheet.html
 ---
 
 I have been meditating for over 40 years and had the privilege of teaching meditation in workshops and private practice all around the world.
