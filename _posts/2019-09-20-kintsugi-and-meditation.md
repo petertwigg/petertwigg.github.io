@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Kintsugi & Meditation
+title: "Kintsugi and Meditation: Finding Light Through the Cracks"
+description: "Learn how kintsugi and meditation transforms trauma into strength. When we heal our broken places, light shines through every crack. By Peter Twigg."
 categories:
 - General
-feature_image: 
+feature_image:
 ---
 
 Kintsugi is the Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful pottery piece. 
