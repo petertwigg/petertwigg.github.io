@@ -5,6 +5,7 @@ description: Start your meditation journey with Peter Twigg's 7-day meditation c
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text:
 aside: true
+published: false
 ---
 
 <link rel="stylesheet" href="/assets/css/7dmc.css">
