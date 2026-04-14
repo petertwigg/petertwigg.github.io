@@ -49,7 +49,7 @@ These free guides give you the essentials. The book shows you the full framework
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
@@ -67,7 +67,7 @@ These free guides give you the essentials. The book shows you the full framework
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
@@ -85,7 +85,7 @@ These free guides give you the essentials. The book shows you the full framework
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({

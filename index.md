@@ -95,7 +95,7 @@ Get started with these free guides:
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
@@ -113,7 +113,7 @@ Get started with these free guides:
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
@@ -131,7 +131,7 @@ Get started with these free guides:
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
