@@ -47,80 +47,60 @@ These free guides give you the essentials. The book shows you the full framework
 
 ### Download Resources
 
-<a href="/assets/downloads/Meditation_Cheatsheet.pdf"
-   id="meditation-cheatsheet"
-   onclick="
-     const email = prompt('Enter your email to download:');
-     if (email) {
-       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
-         method: 'POST',
-         headers: {'Content-Type': 'application/json'},
-         body: JSON.stringify({
-           email: email,
-           first_name: email.split('@')[0],
-           resource: 'Meditation Cheatsheet'
-         })
-       });
-     }
-     return true;
-   ">
-  📥 Download Meditation Cheatsheet (Free)
-</a>
+<div style="margin: 20px 0;">
+  <button onclick="
+    const email = prompt('Enter your email to download:');
+    if (email) {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          email: email,
+          first_name: email.split('@')[0],
+          resource: 'Meditation Cheatsheet'
+        })
+      });
+      window.location.href = '/assets/downloads/Meditation_Cheatsheet.pdf';
+    }
+  " style="display: block; width: 100%; max-width: 400px; padding: 15px 20px; margin: 12px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 16px; font-weight: bold; cursor: pointer;">
+    Download Meditation Cheatsheet (Free)
+  </button>
 
-<a href="/assets/downloads/Creating_Meditation_Space.pdf"
-   id="space-guide"
-   onclick="
-     const email = prompt('Enter your email to download:');
-     if (email) {
-       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
-         method: 'POST',
-         headers: {'Content-Type': 'application/json'},
-         body: JSON.stringify({
-           email: email,
-           first_name: email.split('@')[0],
-           resource: 'Creating My Meditation Space'
-         })
-       });
-     }
-     return true;
-   ">
-  📥 Download Space Guide (Free)
-</a>
+  <button onclick="
+    const email = prompt('Enter your email to download:');
+    if (email) {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          email: email,
+          first_name: email.split('@')[0],
+          resource: 'Creating My Meditation Space'
+        })
+      });
+      window.location.href = '/assets/downloads/Creating_Meditation_Space.pdf';
+    }
+  " style="display: block; width: 100%; max-width: 400px; padding: 15px 20px; margin: 12px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 16px; font-weight: bold; cursor: pointer;">
+    Download Space Guide (Free)
+  </button>
 
-<a href="/assets/downloads/Meditation_Mistakes_Checklist.pdf"
-   id="mistakes-checklist"
-   onclick="
-     const email = prompt('Enter your email to download:');
-     if (email) {
-       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
-         method: 'POST',
-         headers: {'Content-Type': 'application/json'},
-         body: JSON.stringify({
-           email: email,
-           first_name: email.split('@')[0],
-           resource: 'Meditation Mistakes Checklist'
-         })
-       });
-     }
-     return true;
-   ">
-  📥 Download Mistakes Checklist (Free)
-</a>
-
-<style>
-a[id*="meditation"], a[id*="space"], a[id*="mistakes"] {
-  display: inline-block;
-  margin: 10px 0;
-  padding: 12px 20px;
-  background-color: #366092;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
-  font-weight: bold;
-}
-a[id*="meditation"]:hover, a[id*="space"]:hover, a[id*="mistakes"]:hover {
-  background-color: #254a6f;
-}
-</style>
+  <button onclick="
+    const email = prompt('Enter your email to download:');
+    if (email) {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          email: email,
+          first_name: email.split('@')[0],
+          resource: 'Meditation Mistakes Checklist'
+        })
+      });
+      window.location.href = '/assets/downloads/Meditation_Mistakes_Checklist.pdf';
+    }
+  " style="display: block; width: 100%; max-width: 400px; padding: 15px 20px; margin: 12px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 16px; font-weight: bold; cursor: pointer;">
+    Download Mistakes Checklist (Free)
+  </button>
+</div>
 
 
