@@ -4,10 +4,8 @@ title: Books on Meditation
 description: Explore Peter Twigg's book on meditation, consciousness, mindfulness and spiritual development.
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
-aside: true 
+aside: false
 ---
-
-## Books on Meditation
 
 Ground your meditation practice in truth. Master the principles behind the practice.
 
@@ -60,7 +58,7 @@ These free guides give you the essentials. The book shows you the full framework
           resource: 'Meditation Cheatsheet'
         })
       });
-      window.location.href = '/assets/downloads/Meditation_Cheatsheet.pdf';
+      window.location.href = '/documents/my_meditation_cheatsheet.pdf';
     }
   " style="display: block; width: 100%; max-width: 400px; padding: 15px 20px; margin: 12px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 16px; font-weight: bold; cursor: pointer;">
     Download Meditation Cheatsheet (Free)
@@ -78,7 +76,7 @@ These free guides give you the essentials. The book shows you the full framework
           resource: 'Creating My Meditation Space'
         })
       });
-      window.location.href = '/assets/downloads/Creating_Meditation_Space.pdf';
+      window.location.href = '/documents/creating_my_meditation_space.pdf';
     }
   " style="display: block; width: 100%; max-width: 400px; padding: 15px 20px; margin: 12px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 16px; font-weight: bold; cursor: pointer;">
     Download Space Guide (Free)
@@ -96,7 +94,7 @@ These free guides give you the essentials. The book shows you the full framework
           resource: 'Meditation Mistakes Checklist'
         })
       });
-      window.location.href = '/assets/downloads/Meditation_Mistakes_Checklist.pdf';
+      window.location.href = '/documents/meditation_mistakes_checklist.pdf';
     }
   " style="display: block; width: 100%; max-width: 400px; padding: 15px 20px; margin: 12px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 16px; font-weight: bold; cursor: pointer;">
     Download Mistakes Checklist (Free)

@@ -85,3 +85,65 @@ Refer to [Posts](/blog) for a complete list of videos.
 	<footer>Charles Tart, <i>Waking Up</i></footer>
 </blockquote>
 
+---
+
+### Free Downloads
+
+Get started with these free guides:
+
+<div style="margin: 20px 0;">
+  <button onclick="
+    const email = prompt('Enter your email to download:');
+    if (email) {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          email: email,
+          first_name: email.split('@')[0],
+          resource: 'Meditation Cheatsheet'
+        })
+      });
+      window.location.href = '/documents/my_meditation_cheatsheet.pdf';
+    }
+  " style="display: block; width: 100%; padding: 12px 16px; margin: 10px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: bold; cursor: pointer;">
+    Download Meditation Cheatsheet
+  </button>
+
+  <button onclick="
+    const email = prompt('Enter your email to download:');
+    if (email) {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          email: email,
+          first_name: email.split('@')[0],
+          resource: 'Creating My Meditation Space'
+        })
+      });
+      window.location.href = '/documents/creating_my_meditation_space.pdf';
+    }
+  " style="display: block; width: 100%; padding: 12px 16px; margin: 10px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: bold; cursor: pointer;">
+    Download Space Guide
+  </button>
+
+  <button onclick="
+    const email = prompt('Enter your email to download:');
+    if (email) {
+      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({
+          email: email,
+          first_name: email.split('@')[0],
+          resource: 'Meditation Mistakes Checklist'
+        })
+      });
+      window.location.href = '/documents/meditation_mistakes_checklist.pdf';
+    }
+  " style="display: block; width: 100%; padding: 12px 16px; margin: 10px 0; background-color: #366092; color: white; border: none; border-radius: 4px; font-size: 14px; font-weight: bold; cursor: pointer;">
+    Download Mistakes Checklist
+  </button>
+</div>
+
