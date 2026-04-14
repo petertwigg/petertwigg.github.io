@@ -98,6 +98,7 @@ Get started with these free guides:
       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
+        keepalive: true,
         body: JSON.stringify({
           email: email,
           first_name: email.split('@')[0],
@@ -116,6 +117,7 @@ Get started with these free guides:
       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
+        keepalive: true,
         body: JSON.stringify({
           email: email,
           first_name: email.split('@')[0],
@@ -134,6 +136,7 @@ Get started with these free guides:
       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
+        keepalive: true,
         body: JSON.stringify({
           email: email,
           first_name: email.split('@')[0],

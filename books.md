@@ -52,6 +52,7 @@ These free guides give you the essentials. The book shows you the full framework
       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
+        keepalive: true,
         body: JSON.stringify({
           email: email,
           first_name: email.split('@')[0],
@@ -70,6 +71,7 @@ These free guides give you the essentials. The book shows you the full framework
       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
+        keepalive: true,
         body: JSON.stringify({
           email: email,
           first_name: email.split('@')[0],
@@ -88,6 +90,7 @@ These free guides give you the essentials. The book shows you the full framework
       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
+        keepalive: true,
         body: JSON.stringify({
           email: email,
           first_name: email.split('@')[0],
