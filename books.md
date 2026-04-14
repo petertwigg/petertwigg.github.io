@@ -7,34 +7,120 @@ feature_text:
 aside: true 
 ---
 
-Discover knowledge about meditation techniques and insights in books written by Peter Twigg.
+## Books on Meditation
 
-### Unlock the Power of Truth Centred Meditation 
+Ground your meditation practice in truth. Master the principles behind the practice.
+
+### Featured: Truth Centred Meditation
 
 <blockquote class="photo">
 	<img src="/images/book-cover-truth-centred-meditation.jpg" width="200">
 	<br>
-	<br>
-	<br>
-	<p>Embark on a transformative journey with "Truth Centred Meditation."</p>
-	<footer><small><center><a href="https://amzn.to/3RGcAW5">Go to Amazon now!</a></center></small></footer>
+	<p><strong>The Complete Guide to Advanced Practice</strong></p>
+	<p>Meditation is more than technique. It is the systematic development of consciousness grounded in truth — not belief.</p>
+	<footer><small><center><a href="https://amzn.to/3RGcAW5">Buy on Amazon — 5 stars</a></center></small></footer>
 </blockquote>
 
-*Truth Centred Meditation* invites you to cultivate a robust meditation practice grounded in the essence of truth. Meditating on truth and embracing it as a way of life can profoundly enhance your existence.
+*Truth Centred Meditation* connects your practice with the Western Esoteric Tradition, transpersonal psychology, and 40 years of direct teaching experience. It answers the questions that surface practitioners ask: Why do these techniques work? How does meditation relate to human spiritual development? What's the path beyond the techniques?
 
-Within these pages, we delve into the foundational spiritual principles of truth and our profound connection to it. Together, we'll bridge the gap between meditation and truth, learning to infuse its wisdom into our daily lives.
+This book takes you beyond the checklist. You'll understand:
+- The principles underlying each meditation technique
+- How consistent practice develops consciousness systematically
+- The connection between meditation, truth, and spiritual evolution
+- Why these practices matter for your life now
 
-*Truth Centred Meditation* equips you with valuable insights, practical techniques, and essential context to fortify your meditation practice. 
-By utilizing truth as a meditative process, you align your life with spiritual realms and unlock your highest potential. 
+**Why This Book?**
+- 5-star rating from readers who went deep
+- Grounded in verified principles, not spiritual bypassing
+- 40 years of teaching distilled into actionable practice
+- The only book integrating Western Esoteric Tradition with modern meditation
 
-This book empowers you to: 
+[**Buy Truth Centred Meditation on Amazon**](https://amzn.to/3RGcAW5) — Kindle + Paperback available
 
-* Connect with your Higher Self
-* Embrace the evolving path of humanity
-* Maximize your meditation experience with expert tips and techniques
-* Benchmark your personal growth alongside the collective evolution of humanity
+ISBN: 9780645998917
 
-Experience a life-changing meditation journey that leads to a deeper understanding of yourself and your place in the world. Embrace truth, elevate your practice, and set your course toward a brighter future.
+---
+
+## Start Here — Then Go Deeper
+
+These free guides give you the essentials. The book shows you the full framework.
+
+### Download Resources
+
+<a href="/assets/downloads/Meditation_Cheatsheet.pdf"
+   id="meditation-cheatsheet"
+   onclick="
+     const email = prompt('Enter your email to download:');
+     if (email) {
+       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+         method: 'POST',
+         headers: {'Content-Type': 'application/json'},
+         body: JSON.stringify({
+           email: email,
+           first_name: email.split('@')[0],
+           resource: 'Meditation Cheatsheet'
+         })
+       });
+     }
+     return true;
+   ">
+  📥 Download Meditation Cheatsheet (Free)
+</a>
+
+<a href="/assets/downloads/Creating_Meditation_Space.pdf"
+   id="space-guide"
+   onclick="
+     const email = prompt('Enter your email to download:');
+     if (email) {
+       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+         method: 'POST',
+         headers: {'Content-Type': 'application/json'},
+         body: JSON.stringify({
+           email: email,
+           first_name: email.split('@')[0],
+           resource: 'Creating My Meditation Space'
+         })
+       });
+     }
+     return true;
+   ">
+  📥 Download Space Guide (Free)
+</a>
+
+<a href="/assets/downloads/Meditation_Mistakes_Checklist.pdf"
+   id="mistakes-checklist"
+   onclick="
+     const email = prompt('Enter your email to download:');
+     if (email) {
+       fetch('https://hooks.zapier.com/hooks/catch/26145744/u77lnd3/', {
+         method: 'POST',
+         headers: {'Content-Type': 'application/json'},
+         body: JSON.stringify({
+           email: email,
+           first_name: email.split('@')[0],
+           resource: 'Meditation Mistakes Checklist'
+         })
+       });
+     }
+     return true;
+   ">
+  📥 Download Mistakes Checklist (Free)
+</a>
+
+<style>
+a[id*="meditation"], a[id*="space"], a[id*="mistakes"] {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 12px 20px;
+  background-color: #366092;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+a[id*="meditation"]:hover, a[id*="space"]:hover, a[id*="mistakes"]:hover {
+  background-color: #254a6f;
+}
+</style>
 
 
-[Buy now on Amazon!](https://amzn.to/3RGcAW5)
