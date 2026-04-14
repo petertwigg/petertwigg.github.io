@@ -49,7 +49,7 @@ These free guides give you the essentials. The book shows you the full framework
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
+      fetch('https://hook.us2.make.com/ve32w2okld9hav3jbxgsbfny04yl33qw', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         keepalive: true,
@@ -68,7 +68,7 @@ These free guides give you the essentials. The book shows you the full framework
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
+      fetch('https://hook.us2.make.com/ve32w2okld9hav3jbxgsbfny04yl33qw', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         keepalive: true,
@@ -87,7 +87,7 @@ These free guides give you the essentials. The book shows you the full framework
   <button onclick="
     const email = prompt('Enter your email to download:');
     if (email) {
-      fetch('https://hooks.zapier.com/hooks/catch/26145744/u77pjgq/', {
+      fetch('https://hook.us2.make.com/ve32w2okld9hav3jbxgsbfny04yl33qw', {
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         keepalive: true,
