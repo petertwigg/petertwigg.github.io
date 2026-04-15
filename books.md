@@ -41,7 +41,7 @@ ISBN: 9780645998917
 
 ## Start Here — Then Go Deeper
 
-These free guides give you the essentials. The book shows you the full framework.
+These free guides help build your foundations for a strong practice. The book shows you the full framework.
 
 ### Download Resources
 
