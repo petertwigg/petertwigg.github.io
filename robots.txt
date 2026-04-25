@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /blog/page*/
 
 Sitemap: https://petertwigg.com/sitemap.xml

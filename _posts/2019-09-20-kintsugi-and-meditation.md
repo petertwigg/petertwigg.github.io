@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kintsugi and Meditation: Finding Light Through the Cracks"
-description: "Learn how kintsugi and meditation transforms trauma into strength. When we heal our broken places, light shines through every crack. By Peter Twigg."
+description: "Discover how kintsugi — Japan's ancient art of golden repair — mirrors meditation and inner healing. Transform your broken places into something stronger. By Peter Twigg."
 categories:
 - General
 feature_image:
