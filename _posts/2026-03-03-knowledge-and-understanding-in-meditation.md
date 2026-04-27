@@ -3,6 +3,8 @@ layout: post
 title: "Knowledge & Understanding in Meditation"
 date: 2026-03-03 12:00:00 +1100
 excerpt: "Real understanding comes from direct experience. In meditation that comes from sitting every single day and testing the knowledge you have acquired with your experience and observation."
+redirect_from:
+  - /context/2019/12/04/knowledge-and-understanding-in-meditation/
 ---
 
 Osho retells this story….

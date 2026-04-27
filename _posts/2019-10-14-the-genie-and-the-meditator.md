@@ -4,6 +4,7 @@ title: The Genie and the Meditator
 categories:
 - Context
 feature_image: 
+published: false
 ---
 
 There is this fable of a guy who finds a bottle. When he opens the bottle, out pops a genie. The genie says: “Thanks for saving me. I have been in that bottle for 500 years. I will reward you by granting your every wish.” The guy says, “ That’s fantastic......." The genie interrupts him and says, “But there is one condition. That one condition is, I will fulfil your every wish, but if you do not keep me busy, I will kill you!"

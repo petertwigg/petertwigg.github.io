@@ -4,6 +4,7 @@ title: Achieving Stillness in Meditation
 categories:
 - Techniques
 feature_image: 
+published: false
 ---
 
 Another aspect of meditation is stillness. Stillness is an important aspect of meditation. Stillness of mind, stillness of body. 

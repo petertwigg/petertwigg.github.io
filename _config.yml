@@ -36,6 +36,13 @@ logo: "https://s.gravatar.com/avatar/e93642b3913fe528117101c28451d28b?s=80"
 paginate: 5
 paginate_path: blog/page:num
 
+# Exclude pagination pages from sitemap
+defaults:
+  - scope:
+      path: "blog/page*"
+    values:
+      sitemap: false
+
 # Header nav
 navigation_header:
 - title: Home

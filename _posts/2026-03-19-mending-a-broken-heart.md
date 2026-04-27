@@ -2,6 +2,8 @@
 layout: post
 title: "Mending a Broken Heart"
 excerpt: "Heartbreak makes us wiser, but first it breaks us. Here is how meditation helps mend your heart and reveals your inner light."
+redirect_from:
+  - /general/2019/10/24/mending-a-broken-heart/
 ---
 
 Part of the human experience that people go through at some stage is experiencing a broken heart. It's a horrible experience yet it also makes us more mature and wiser. It brings depth to the heart, if, once broken, it can mend in a way that allows you to celebrate and live your life more fully.
