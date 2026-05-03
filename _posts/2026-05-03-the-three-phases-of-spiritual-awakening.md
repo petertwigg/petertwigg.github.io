@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Three Phases of Spiritual Awakening: Why Most People Stop at Phase One"
+title: "Meditation: The Phase Nobody Wants to Enter"
 description: "Awakening is a beginning, not a destination. After 40 years of meditation practice, here are the three phases of genuine spiritual development — and the one most people avoid."
 excerpt: "Most people who have a genuine spiritual awakening never go further. They have the insight, then quietly build a new identity around it. That is not spiritual development — that is spiritual decoration."
 categories:
