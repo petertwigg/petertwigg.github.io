@@ -3,7 +3,7 @@ layout: post
 title: "The Difference Between Psychosis, Spiritual Emergence, and Spiritual Awakening"
 description: "Three states often get folded into one. They are not the same — and the confusion costs people. After 40 years of teaching, here is how to tell them apart, and when to seek clinical help."
 excerpt: "Psychosis fragments the self. Spiritual emergence overwhelms the self in transit. Awakening sees through the self while leaving the person more, not less, present. Confusing them costs people their footing — sometimes their lives."
-date: 2026-05-05 12:00:00 +1000
+date: 2026-05-03 12:00:00 +1000
 categories:
 - Spiritual Development
 tags:
