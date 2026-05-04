@@ -7,6 +7,7 @@ feature_text:
 aside: true
 redirect_from:
   - /Storage/rt_sessions.html
+  - /Storage/rt_sessions/
   - /Storage/registration.html
   - /Storage/payment.html
   - /Storage/bookings.html
