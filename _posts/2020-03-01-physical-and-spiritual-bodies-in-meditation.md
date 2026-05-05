@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Your Physical and Spiritual Bodies in Meditation
-description: "Explore the Fourfold Subtle Body model and learn how understanding your physical and spiritual energy bodies deepens your meditation practice. By Peter Twigg."
+title: "Physical, Etheric, Astral & Ego: Subtle Bodies in Meditation"
+description: "The Fourfold Subtle Body Model — physical, etheric, astral, and Ego — explained for meditation practitioners. A practical map of your bodies of energy."
 categories:
 - Context
 feature_image: 

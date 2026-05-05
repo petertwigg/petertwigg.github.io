@@ -21,6 +21,10 @@ plugins:
 - jemoji
 - jekyll-remote-theme
 
+# RSS feed — bumped from default 10 to 20 entries (5 May 2026, for Substack import)
+feed:
+  posts_limit: 20
+
 
 # Site settings
 url: 'https://petertwigg.com'
