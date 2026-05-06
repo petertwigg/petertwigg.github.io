@@ -36,7 +36,7 @@ If you, or someone close to you, is in acute distress — fragmenting thought, s
 
 ## Spiritual Awakening
 
-Spiritual awakening is quieter than its reputation. It is not the storm. It is the seeing. A clarification — sometimes sudden, often gradual — in which something previously assumed to be solid is recognised as conditional, and something previously hidden is recognised as already present. The person does not lose function; often they function more cleanly. Reality-testing remains intact. Sleep settles rather than shatters. There can be tears, awe, a tenderness that wasn't there before, but the centre holds. Awakening makes life more workable, not less.
+Spiritual awakening is quieter than its reputation. It is not the storm. It is the seeing. A clarification — sometimes sudden, often gradual — in which something previously assumed to be solid is recognised as conditional, and something previously hidden is recognised as already present. The person does not lose function; often they function more cleanly. Reality-testing remains intact. Sleep settles rather than shatters. There can be tears, awe, realisations, a tenderness that wasn't there before, but the centre holds. Awakening makes life more workable, not less.
 
 The confusion arises because the three can look superficially alike from outside. Tears, intensity, altered perception, sleeplessness, talk of God or emptiness or unity. But the inner architecture is different. Psychosis fragments the self. Emergence overwhelms the self in transit. Awakening sees through the self while leaving the person more, not less, present.
 
@@ -50,7 +50,7 @@ Five practical tests I use:
 4. Are they functioning — paying bills, eating, showing up?
 5. Is the trajectory settling, or accelerating?
 
-If function is collapsing and the person can no longer be reached, that is psychosis territory, and clinical help is non-negotiable. If the person is overwhelmed but reachable, with coherent meaning and a recognisable trajectory, that is emergence — slow it down, ground it, hold it. If the centre is steady and the seeing has clarified life rather than scrambled it, that is awakening — and the work is integration, not management.
+If function is collapsing and the person can no longer be reached or function, that is psychosis territory, and clinical help is non-negotiable. If the person is overwhelmed but reachable, with coherent meaning and a recognisable trajectory, that is emergence — slow it down, ground it, hold it. If the centre is steady and the seeing has clarified life rather than scrambled it, that is awakening — and the work is integration, not management.
 
 Teachers are not psychiatrists, and psychiatrists are not teachers. Each carries a piece of the picture. The person in front of us deserves both vocabularies, used with humility and at the right moment.
 
