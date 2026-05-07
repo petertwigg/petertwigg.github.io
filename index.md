@@ -69,7 +69,7 @@ A few of my recent essays exploring the deeper end of meditation practice:
 
 ### Video Content
 
-I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
+I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaining how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)
 
 {% include video.html id="gGgQBXxcFGc" title="Introducing Peter Twigg" %}
 Introducing myself and sharing some of my personal journey on my meditation path. I hope you find my channel useful in building your own meditation practice. 
