@@ -39,7 +39,7 @@ If you, or someone close to you, is in acute distress — fragmenting thought, s
 
 Spiritual awakening is quieter than its reputation. It is not the storm. It is the seeing. A clarification — sometimes sudden, often gradual — in which something previously assumed to be solid is recognised as conditional, and something previously hidden is recognised as already present. The person does not lose function; often they function more cleanly. Reality-testing remains intact. Sleep settles rather than shatters. There can be tears, awe, realisations, a tenderness that wasn't there before, but the centre holds. Awakening makes life more workable, not less.
 
-The confusion arises because the three can look superficially alike from outside. Tears, intensity, altered perception, sleeplessness, talk of God or emptiness or unity. But the inner architecture is different. Psychosis fragments the self. Emergence overwhelms the self in transit. Awakening sees through the self while leaving the person more, not less, present.
+The confusion arises because the three can look superficially alike from outside. Tears, intensity, altered perception, sleeplessness, talk of God or emptiness or unity. But [the inner architecture is different](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/). Psychosis fragments the self. Emergence overwhelms the self in transit. Awakening sees through the self while leaving the person more, not less, present.
 
 ## Five Practical Tests
 
@@ -56,3 +56,7 @@ If function is collapsing and the person can no longer be reached or function, t
 Teachers are not psychiatrists, and psychiatrists are not teachers. Each carries a piece of the picture. The person in front of us deserves both vocabularies, used with humility and at the right moment.
 
 When in doubt, slow down, get assessed, and find someone who has walked the specific ground in question. The territory is real. So is the help.
+
+If you've recognised yourself or someone you love in the awakening signature, the work that follows moves through [three phases](https://petertwigg.com/2026/05/03/the-three-phases-of-spiritual-awakening/) — and what carries a person through is [Truth as a daily orientation](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/), not new experience.
+
+The [School of Knowing](https://petertwigg.com/school-of-knowing/) is a one-year course in this work — and a place where the territory is held with both care and clinical sense.

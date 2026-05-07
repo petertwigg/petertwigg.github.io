@@ -22,7 +22,7 @@ Here we are talking about your spiritual heart. Your heart chakra centred in the
 
 Part of the pain you experience with a broken heart is the exposing of a wound in your heart every human possesses. It is the original wounding from where humans separated into men and women. Death began, but so did art and music.
 
-This is known as 'the Fall' in religious terms and it is the original samskara from which your astral body (manas-maya-kosa), the layer of consciousness that thinks and has emotions, manifests. You can treat it as a myth if you prefer but know that this myth plays out in every persons' life in the world. 
+This is known as 'the Fall' in religious terms and it is the original samskara from which [your astral body](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/) (manas-maya-kosa), the layer of consciousness that thinks and has emotions, manifests. You can treat it as a myth if you prefer but know that this myth plays out in every persons' life in the world. 
 
 
 ## Essential Energies of the Heart
@@ -46,4 +46,6 @@ When it is appropriate, it is time to engage your meditation practice. Use that 
 ![Mending a Broken Heart - image](/assets/uploads/2026/2026-03-19-mending-a-broken-heart-img-1.jpg)
 
 
-If you engage your will, remain present to your heart and yourself and address the issues that caused the heartbreak, then your heart will begin to heal. As you let go and open to the world again, the kintsugi effect comes into play. This effect is where your inner light can shine through the cracks that have appeared in your heart. It is a shining from within revealing more of your essence. Your heart will mend truly and it will be stronger and more open. Your life will have become richer for the experience, painful as it was.
+If you engage your will, remain present to your heart and yourself and address the issues that caused the heartbreak, then your heart will begin to heal. As you let go and open to the world again, [the kintsugi effect](https://petertwigg.com/general/2019/09/20/kintsugi-and-meditation/) comes into play. This effect is where your inner light can shine through the cracks that have appeared in your heart. It is a shining from within revealing more of your essence. Your heart will mend truly and it will be stronger and more open. Your life will have become richer for the experience, painful as it was. And often, in the quiet that follows, [grace descends into ordinary moments](https://petertwigg.com/2026/05/03/grace-in-daily-life/) — the inner light meeting the outer world.
+
+If meditation as a path of healing speaks to you, the [School of Knowing](https://petertwigg.com/school-of-knowing/) takes this work into year-long, structured depth.

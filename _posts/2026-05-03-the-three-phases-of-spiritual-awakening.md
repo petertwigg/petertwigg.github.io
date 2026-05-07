@@ -31,7 +31,7 @@ There are three phases that appear consistently across traditions. They go by di
 
 ## Phase One: Awakening
 
-Something shifts. You glimpse something beyond the ordinary self. Identity loosens. There's insight, spaciousness, relief — a sense of 'there is more than this'. For some it happens suddenly. For others gradually. But the quality is unmistakable: you are, for a moment, not the person you thought you were.
+Something shifts. You glimpse something beyond the ordinary self. Identity loosens. There's insight, spaciousness, relief — a sense of 'there is more than this'. For some it happens suddenly. For others gradually. But the quality is unmistakable: you are, for a moment, [not the person you thought you were](https://petertwigg.com/text/2026/02/10/Neti-Neti-As-A-Spiritual-Practice/).
 
 This is real. I am not dismissing it. That first recognition — the awareness behind the thoughts, the stillness beneath the noise — is genuine, and it matters. But here is the trap: awakening feels like arrival. It produces states — peace, clarity, expansiveness — that feel like answers. And so many people stop here. They chase the states. They talk about their experiences. They begin to identify with being 'someone who has awakened'. They may even start teaching. What they have not done is enter Phase Two.
 
@@ -42,7 +42,7 @@ This is the phase nobody wants. I'll be direct with you: it is uncomfortable, un
 
 Purification is what happens when your conditioning surfaces. The emotional patterns you've been carrying for decades — the ones your awakening allowed you to briefly see around — don't disappear because you saw them. They intensify. Shadow material becomes visible. Old reactions rise up, often stronger than before. The system reorganises. What is false is burned off, but the burning is not always clean.
 
-This is where spiritual bypassing hides. Bypassing is when you use spiritual language and concepts to avoid this phase: *"I'm already beyond this." "That's just ego." "I'm working on acceptance."* These are the lines people use to stay comfortable while calling it growth.
+This is where spiritual bypassing hides. Bypassing is when you use spiritual language and concepts to avoid this phase: *"I'm already beyond this." "That's just ego." "I'm working on acceptance."* These are the lines people use to stay comfortable while calling it growth. It is also where the [confusion between awakening, spiritual emergence, and psychosis](https://petertwigg.com/2026/05/03/the-difference-between-psychosis-spiritual-emergence-and-spiritual-awakening/) does most of its damage — bypassing dressed up as one of the others.
 
 I've watched students enter Phase Two and immediately look for the exit. The exit is usually another awakening experience, a new teacher, a new practice, a new concept. Anything to avoid sitting in the discomfort of their own pattern. I've done it, there's not a meditator I know who hasn't done it. It's part of the process. The tragedy is that they are often mistaken for advanced practitioners, because they have fluent spiritual language and genuine insight. But nothing has fundamentally changed.
 
@@ -73,3 +73,7 @@ If nobody tells you this, Phase Two feels like failure. You'll think you've lost
 Forty years of practice has taught me this: the people who go furthest are not the ones with the most beautiful experiences. They are the ones who are honest enough to stay in Phase Two long enough for something real to happen.
 
 The question worth sitting with is simple: *'where are you in this cycle, and are you being honest about it?'*
+
+What holds the cycle together — what makes Phase Two survivable and Phase Three more than a plateau — is [Truth as a daily, lived orientation](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/). Not concept. Orientation. And when grace arrives, as it does, the work is to receive it without claiming it — sometimes [in the middle of an ordinary day](https://petertwigg.com/2026/05/03/grace-in-daily-life/), not only on the cushion.
+
+If this is the kind of work you want to commit to — past the experiences, into what genuinely changes — the [School of Knowing](https://petertwigg.com/school-of-knowing/) is a one-year course built on exactly this ground.

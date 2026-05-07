@@ -8,7 +8,7 @@ redirect_from:
 
 An important aspect of meditation is stillness. Stillness of mind, stillness of body. Achieving stillness is a necessary step towards achieving a silent mind. They go hand in hand. Stillness in meditation along with a silent mind comes with holding right posture.
 
-In meditation you may, from time to time, feel itches, twitches, pains, ache or desires to move as well as thought, noises and brilliant ideas that make you want you to move your body. When these occur, it is important to ignore these impulses. These are signals from your astral body, the layer of consciousness that deals with your mind - the thoughts and emotions you feel and think every moment of your day. Every time you start thinking, return to your device.
+In meditation you may, from time to time, feel itches, twitches, pains, ache or desires to move as well as thought, noises and brilliant ideas that make you want you to move your body. When these occur, it is important to ignore these impulses. These are signals from [your astral body](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/), the layer of consciousness that deals with your mind - the thoughts and emotions you feel and think every moment of your day. Every time you start thinking, return to your device.
 
 What is your device, you might ask? That my friend is a topic for another email. 
 
@@ -43,3 +43,7 @@ As Siddhartha said "...everyone can reach their goals, if he is able to think
 A Final Word
 
 Stillness is the key to contacting Cosmic Fire. Stillness is the path by which you learn to resonate with Fire. And Fire is the path by which your consciousness builds a highway from which you return to your home, your source.
+
+What stillness uncovers is not a technique but [a direct, lived knowing](https://petertwigg.com/spiritual%20development/2026/03/03/knowledge-and-understanding-in-meditation/) — and sometimes, in the deepest moments, [grace itself descends](https://petertwigg.com/2026/05/03/grace-in-daily-life/) into the room.
+
+If working with stillness as the foundation of long-term practice speaks to you, the [School of Knowing](https://petertwigg.com/school-of-knowing/) is a one-year course built on exactly this work.
