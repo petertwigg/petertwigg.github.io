@@ -42,6 +42,19 @@ ISBN: 9780645998917
 
 ---
 
+## Themes Explored in the Book
+
+A few of the essays on this site that draw on the same Truth-Centred frame the book lays out systematically:
+
+- [Truth as Living Presence](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/) — Truth as orientation rather than concept.
+- [The Three Phases of Spiritual Awakening](https://petertwigg.com/2026/05/03/the-three-phases-of-spiritual-awakening/) — what genuine spiritual development actually looks like.
+- [The Fourfold Subtle Body Model](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/) — the practitioner-level map of physical, etheric, astral and Ego.
+- [The Path of Negation (Neti Neti)](https://petertwigg.com/text/2026/02/10/Neti-Neti-As-A-Spiritual-Practice/) — Hindu Advaita and Christian mysticism converging.
+
+These are starting points. The book takes the framework through systematically.
+
+---
+
 ## Start Here — Then Go Deeper
 
 These free guides help build your foundation for a strong practice. The book shows you the full framework.

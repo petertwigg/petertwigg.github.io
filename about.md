@@ -11,6 +11,8 @@ I have been a practicing homeopath and naturopath for over 30 years. I've been m
 
 My training is rooted in the Western Esoteric Tradition through the Clairvision School of Samuel Sagan — a lineage that maps consciousness through [the fourfold subtle body model](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/) and orients practice around [Truth as a living, direct presence](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/) rather than concept.
 
+I am the author of *[Truth Centred Meditation](https://petertwigg.com/books/)* (Cauthray Publishing, 2023) — the systematic frame behind the practice, drawn from forty years of meditation and teaching.
+
 <blockquote class="photo">
 	<img src="/images/peter-twigg-photo.jpg" width="500">
 	<footer>Peter Twigg<br></footer>
