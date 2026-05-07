@@ -84,6 +84,8 @@ When the mind is calmer, your decisions are better.
 
 Classically, the goal isn't just balance — it's freedom from identifying with any temporary state. Meditation teaches us that we are not our moods, but the awareness behind them.
 
+If you'd like a deeper map of the layers of consciousness this awareness operates through, see [the fourfold subtle body model](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/) — the practitioner-level frame behind the Three Gunas.
+
 Understanding the Gunas gives context — not control — but it gives you the power to choose where you place your energy.
 
 ## ✅ Daily Life Takeaways You Can Apply Today
@@ -93,6 +95,8 @@ Understanding the Gunas gives context — not control — but it gives you the p
 - Slow your mind when overwhelmed
 - Nourish your body with whole foods
 - Prioritise rest, joy, and clarity
+
+If you'd like to put this into practice, the [7-Day Truth-Centred Meditation Challenge](https://petertwigg.com/7dmc-enrol/) is a one-week structured introduction — the simplest place to start.
 
 ---
 

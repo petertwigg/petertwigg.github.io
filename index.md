@@ -59,6 +59,14 @@ In November 2023 I published my first book showing how meditating on truth can b
 	<footer>Peter Twigg<br><small>Meditation Teacher, Healer & Naturopath</small></footer>
 </blockquote>
 
+### Recent Writing
+
+A few of my recent essays exploring the deeper end of meditation practice:
+
+* [The Three Phases of Spiritual Awakening](/2026/05/03/the-three-phases-of-spiritual-awakening/) — what genuine spiritual development actually looks like, and the phase most people avoid.
+* [The Difference Between Psychosis, Spiritual Emergence, and Spiritual Awakening](/2026/05/03/the-difference-between-psychosis-spiritual-emergence-and-spiritual-awakening/) — three states often folded into one. They aren't the same.
+* [Truth as Living Presence](/text/2026/01/25/truth-as-living-presence/) — Truth as orientation rather than concept, the heart of Truth-Centred meditation.
+
 ### Video Content
 
 I've spoken to many people who have said they have tried meditation but 'it's not for them', or, 'it's too hard.' To this end I offer short videos with tips, techniques and context explaning how to improve your meditation practice. Click on [Posts](/blog) or go directly to [YouTube](https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw)

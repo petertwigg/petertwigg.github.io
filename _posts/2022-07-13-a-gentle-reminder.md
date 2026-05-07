@@ -19,3 +19,7 @@ Therefore fight, O descendent of Bharata! He who considers this (Self) as a slay
 This (Self) is never born, nor does It die, nor after once having been, does It go into non-being. This (Self) is unborn, eternal, changeless, ancient." 
 
 Bhagavad Gita, II, 15-20, translated by Swami Paramandenda, The Wisdom of China and India, The Modern Library, New York, Random House, 1942, p.62.
+
+If this orientation toward equanimity speaks to you, the same ground appears in [Truth as Living Presence — Reflections on Truth-Centred Meditation](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/) — Truth as orientation rather than concept.
+
+If you'd like to start building a daily practice on this ground, the [7-Day Truth-Centred Meditation Challenge](https://petertwigg.com/7dmc-enrol/) is the simplest place to begin.

@@ -80,6 +80,15 @@ Experience a life-changing meditation path that leads to a deeper understanding 
 * Not for app-style consumption
 * Not for bypassing psychological work
 
+##### Recent Reflections
+
+A few of the essays that explore the territory we work with in the School:
+
+* [The Three Phases of Spiritual Awakening](https://petertwigg.com/2026/05/03/the-three-phases-of-spiritual-awakening/) — what genuine spiritual development actually looks like, and the phase most people avoid.
+* [Truth as Living Presence](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/) — Truth not as concept, but as a daily orientation of being.
+* [The Fourfold Subtle Body Model](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/) — the map of physical, etheric, astral and Ego that grounds the work.
+* [The Path of Negation (Neti Neti)](https://petertwigg.com/text/2026/02/10/Neti-Neti-As-A-Spiritual-Practice/) — Hindu Advaita and Christian mysticism converging on the same inner movement.
+
 #### Tuition: 
 
 * £/$/€ 25.00 per month or the equivalent in your local currency.
