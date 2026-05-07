@@ -1,7 +1,7 @@
---- 
+---
 layout: post
-title: What are the rules and guidelines of meditation?
-description: Using truth to inform and guide your meditation
+title: "Truth as Living Presence: Reflections on Truth-Centred Meditation"
+description: "Truth is not a possession of the mind but an orientation of being. How meditation shifts truth from idea to direct, living experience — through the lens of Truth-Centred practice."
 categories:
 - Text
 feature_image: 

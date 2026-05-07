@@ -6,7 +6,7 @@ categories:
 feature_image: 
 ---
 
-An important aspect of meditation practice is cultivating your sense of Truth. It’s one of the foundation stones of your practice and a discerning factor needed to foster a stronger connection to your Higher Self. 
+An important aspect of meditation practice is cultivating [your sense of Truth](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/). It’s one of the foundation stones of your practice and a discerning factor needed to foster a stronger connection to your Higher Self. 
 
 We have spoken about the Higher Self in previous articles. It’s also important to understand your [spiritual anatomy]( https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/) as a pretext to understanding yourself and your life. A pretext is a purpose or motive alleged, or an appearance assumed in order to cloak the real intention or state of affairs. And isn’t that a great allegory for human life where we got so caught up in the affairs of the world that we forgot the important things about life? 
 
@@ -56,6 +56,8 @@ Samuel adds:
 		<p>“Sincerity is of another nature. Deep inside some things feel right, and some others feel wrong. It is the knowingness of the Spirit and that is what you have to tune into. It does not scream inside like certain desires. You have to listen to it carefully. It is like an inner sense, the embryonic version of what will later become your capacity to know ‘the Truth’. It is faint in the beginning, so you have to take care of it. The more you listen to it, meaning the more you put into action what you know to be right, the more the knowingness grows. The more you ignore it, the more it fades. And if you really don’t know what is right or wrong, then tune inside and ask for help. You will be surprised how swiftly Truth can come to the rescue of those who seek Truth without compromising”.</p>
 </blockquote>
 
+Sincerity opens a parallel discipline known in contemplative traditions as [the path of negation](https://petertwigg.com/text/2026/02/10/Neti-Neti-As-A-Spiritual-Practice/) — false identifications dropped one by one until what remains is what cannot be removed.
+
 #### Learning
 <blockquote cite="">
 	<p>“It does not matter if you make some mistakes while following your truth. What is a mistake anyway? The white line that leads you straight to the Divine is full of meanderings, when seen from the eyes of a non-initiate. But to the vision of Truth, certain detours and failures appear as the surest and most direct way to the Goal”.</p>
@@ -66,7 +68,9 @@ Samuel adds:
 	<p>“If you consistently follow your truth, your capacity to discern will grow like a Banyon tree and your sense of what is true or untrue will become more tangible than your perception of hot or cold. Even if the sense of Truth is faint in the beginning, you should cherish and nurture it as the most precious quality that may ever been given to you. For, ultimately, there is no real protection but the power of Truth”. </p>
 </blockquote>
 
-Not only is Truth an important guiding principle in meditation practice but an important guide to living your life. Using Truth as your sword and shield becomes your greatest protection and discernment to a good life based on principle, integrity and discernment. 
+Not only is Truth an important guiding principle in meditation practice but an important guide to living your life. Using Truth as your sword and shield becomes your greatest protection and discernment to a good life based on principle, integrity and discernment. It is what distinguishes [knowledge from genuine understanding](https://petertwigg.com/spiritual%20development/2026/03/03/knowledge-and-understanding-in-meditation/) — the long, patient work of letting Truth become lived experience.
+
+Truth as a daily orientation is one of the foundations of the [School of Knowing](https://petertwigg.com/school-of-knowing/). If this resonates with where you are in your practice, you're welcome to apply.
 
 #### References
 <a id="[1]">[1]:</a> Sagan Samuel, Dr: 
