@@ -14,7 +14,7 @@ Kintsugi is the Japanese art of putting broken pottery pieces back together with
 It is said to be reflected in the teachings of Wabi Sabi, the art of acceptance and appreciation of imperfections. A theme that runs through Japanese culture. An early form of aesthetic recycling you might say. Embracing the flawed or the imperfect, less is more and perfection is achieved through bringing into focus what is already present. Every break is unique and instead of repairing an item like new, or throwing it away, the 400-year-old technique actually highlights the "scars" as a part of the design. 
 
 ##### The Metaphor
-Kintsugi is also a metaphor for healing ourselves. As author Candace Kumai writes: “It teaches us an important lesson: Sometimes in the process of repairing things that have broken, we actually create something more unique, beautiful and resilient.”
+Kintsugi is also a metaphor for healing ourselves. As author Candace Kumai writes: “It teaches us an important lesson: Sometimes in the process of repairing things that have broken, we actually create something more unique, beautiful and resilient.” When the breaking is heartbreak, [the meditation work of mending](https://petertwigg.com/2026/03/19/mending-a-broken-heart/) becomes a path of its own.
 
 {% include figure.html image="/images/kintsugi2.jpg" caption="" width="200" %}
 
@@ -36,8 +36,10 @@ In meditation, having experienced a trauma of some sort, sit with the emotions, 
 {% include figure.html image="/images/kintsugi6.jpg" caption="" width="200" %}
 
 ##### The Experience
-The sense of emerging into a bigger part of yourself will occur the more you persevere. And then comes the light. Feeling held, feeling loved. Feeling like you are in harmony and complete. Feeling other aspects of yourself. Keep repeating this as often as you need while the trauma remains to the forefront of your awareness. Do not use meditation or any of the usual tricks (alcohol, drugs, sex, etc) to avoid or minimise the pain. This is how the vessel is mended. How you find a new strength inside yourself. How the light is able to shine through the cracks. How healing takes place. 
+The sense of emerging into a bigger part of yourself will occur the more you persevere. And then comes the light. Feeling held, feeling loved. Feeling like you are in harmony and complete. Feeling other aspects of yourself. Keep repeating this as often as you need while the trauma remains to the forefront of your awareness. Do not use meditation or any of the usual tricks (alcohol, drugs, sex, etc) to avoid or minimise the pain. This is how the vessel is mended. How you find a new strength inside yourself. How the light is able to shine through the cracks. How healing takes place. It is also how [grace descends into ordinary moments](https://petertwigg.com/2026/05/03/grace-in-daily-life/) — not only on the cushion, but in the middle of a busy life.
 
 {% include figure.html image="/images/kintsugi7.jpg" caption="" width="200" %}
+
+If meditation as a path of healing and inner repair speaks to you, the [School of Knowing](https://petertwigg.com/school-of-knowing/) takes this work into year-long, structured depth.
 
 ---

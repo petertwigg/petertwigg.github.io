@@ -28,4 +28,6 @@ Having willpower does not mean that you solve all your problems. More likely you
 
 Make sure you complete tasks, spending the whole time meditating and not cutting your time short. Making sure saying and doing become the same thing. These are some vehicles to help you build willpower.
 
-You need willpower when you meditate. To persevere. When your meditation gets intense, that is when you stick with it. Your genie can carry you through. The rewards for persevering with your meditation are immense. But you must go the distance to find the stillness, the silent mind, the sense of alignment, the grace.
+You need willpower when you meditate. To persevere. When your meditation gets intense, that is when you stick with it. Your genie can carry you through. The rewards for persevering with your meditation are immense. But you must go the distance to find the stillness, the silent mind, [the sense of alignment](https://petertwigg.com/context/2020/03/01/physical-and-spiritual-bodies-in-meditation/), [the grace](https://petertwigg.com/2026/05/03/grace-in-daily-life/).
+
+Cultivating willpower in meditation is part of the work explored in the [School of Knowing](https://petertwigg.com/school-of-knowing/) — a one-year course in genuine, sustained practice.

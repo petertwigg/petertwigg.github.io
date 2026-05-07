@@ -16,12 +16,16 @@ At this time it is appropriate to ask or aspire for what you want. Aspiring with
 {% include figure.html image="/images/sleeping_angel.jpg" caption="Sleeping Angel" width="200" %}
 
 #### Truth
-Possibly the highest aspiration you can make is to aspire for truth. Truth, or rightness, is the thing that can set you free from attachment to situations, your mind, and its beliefs. Truth brings clarity and in its burning light, brings an opening and opportunity of change to the areas of your life that need it. Truth is what helps you to attain alignment with the ethereal parts of yourself. In that alignment comes the potential for you to step into the fullness of who you can be.
+Possibly the highest aspiration you can make is to aspire for truth. Truth, or rightness, is the thing that can set you free from attachment to situations, your mind, and its beliefs. Truth brings clarity and in its burning light, brings an opening and opportunity of change to the areas of your life that need it. Truth is what helps you to attain alignment with the ethereal parts of yourself. In that alignment comes the potential for you to step into the fullness of who you can be. This is what [Truth as a living presence](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/) means in practice — not concept, but orientation.
 
 Truth is something that resonates with your Higher Self. Your Higher Self is the part of you that loves Truth. It is the part of you that works to lead you back towards yourself and Truth. You may have seen people who have ignored their Truth. They may have achieved great things but in the end they may lose everything.
 
 #### Turning Up
 So, when your meditation is finished, turn your whole awareness up above your head. Aspire for what you need, or, simply aspire for Truth. This is not about being spiritual. It’s just about wanting to lead a good life. It’s about bringing change into your life so that you can achieve your potential as a human being. It’s about living your life in Truth.
+
+A complementary discipline is [the path of negation (neti neti)](https://petertwigg.com/text/2026/02/10/Neti-Neti-As-A-Spiritual-Practice/) — quietly releasing what is not Truth so that what remains can stand on its own ground. Aspiration and negation work together: one calls Truth in, the other clears the room.
+
+If aspiring toward Truth is the orientation you want to build your practice on, the [School of Knowing](https://petertwigg.com/school-of-knowing/) is a year-long course in exactly this work.
 
 ---
 

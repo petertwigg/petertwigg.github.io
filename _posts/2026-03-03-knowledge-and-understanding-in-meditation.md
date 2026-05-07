@@ -46,6 +46,10 @@ Osho retells this story….
 
 I'm sure the beauty of this story can't fail to touch you as it did me. I first read it 25 years ago reading books by Osho, and have remembered this fable ever since.
 
-Real understanding comes from direct experience. In meditation that comes from sitting every single day and testing the knowledge you have acquired with your experience and observation. Keeping a journal becomes an important part of this journey. With experience comes realisation and understanding. Just like the three monks.
+Real understanding comes from direct experience. In meditation that comes from sitting every single day and testing the knowledge you have acquired with your experience and observation. Keeping a journal becomes an important part of this journey. With experience comes realisation and understanding. Just like the three monks. This is what [Truth-Centred meditation as a living presence](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/) actually points to — Truth not as concept but as a daily, embodied orientation.
+
+The work that follows genuine realisation moves through [three distinct phases](https://petertwigg.com/2026/05/03/the-three-phases-of-spiritual-awakening/) — and the one most people quietly avoid is the one that matters most. Real understanding is not the destination; it is the beginning of the long path.
 
 I hope you enjoyed this fable….. it brings me great joy to share it with you.
+
+If this kind of patient, lived-experience practice is what you're looking for, the [School of Knowing](https://petertwigg.com/school-of-knowing/) is a one-year course built on exactly that ground.
