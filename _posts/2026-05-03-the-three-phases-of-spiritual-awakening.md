@@ -3,8 +3,9 @@ layout: post
 title: "Meditation: The Phase Nobody Wants to Enter"
 description: "Awakening is a beginning, not a destination. After 40 years of meditation practice, here are the three phases of genuine spiritual development — and the one most people avoid."
 excerpt: "Most people who have a genuine spiritual awakening never go further. They have the insight, then quietly build a new identity around it. That is not spiritual development — that is spiritual decoration."
-categories:
-- Spiritual Development
+redirect_from:
+  - /spiritual development/2026/05/03/the-three-phases-of-spiritual-awakening/
+  - /spiritual%20development/2026/05/03/the-three-phases-of-spiritual-awakening/
 tags:
 - spiritual awakening
 - meditation

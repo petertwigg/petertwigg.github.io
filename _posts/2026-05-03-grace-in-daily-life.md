@@ -3,8 +3,9 @@ layout: post
 title: "Grace in Daily Life: Receiving Stillness Beyond the Meditation Cushion"
 description: "Grace does not only descend in meditation. Sometimes it arrives in the middle of an ordinary day. Here is how to recognise it, receive it, and let it nourish you."
 excerpt: "There are times when a superior stillness descends upon you and the room in which you sit. Within that stillness there is peace, harmony, a receiving, a grace — and sometimes it arrives in the middle of a busy life."
-categories:
-- Spiritual Development
+redirect_from:
+  - /spiritual development/2026/05/03/grace-in-daily-life/
+  - /spiritual%20development/2026/05/03/grace-in-daily-life/
 tags:
 - grace
 - meditation

@@ -5,6 +5,9 @@ description: Explore Peter Twigg's book on meditation, consciousness, mindfulnes
 feature_image: "/images/banner-main-01-1600.jpg"
 feature_text: 
 aside: false
+redirect_from:
+  - /books
+  - /books.html
 ---
 
 Ground your meditation practice in truth. Master the principles behind the practice.
