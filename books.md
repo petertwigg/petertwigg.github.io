@@ -42,6 +42,37 @@ ISBN: 9780645998917
 
 ---
 
+### Featured: Repertory of Jungian Archetypes & Complexes
+
+<blockquote class="photo">
+	<img src="/images/book-cover-repertory.jpg" width="200">
+	<br>
+	<p><strong>A Desktop Ready Reckoner for the Working Practitioner and the Training Student</strong></p>
+	<p>Jung's twenty volumes, consolidated. A working reference for the field — not another summary.</p>
+	<footer><small><center><em>Publication: 2 June 2026 — paperback and hardcover</em></center></small></footer>
+</blockquote>
+
+*Repertory of Jungian Archetypes & Complexes* brings together the classical Jungian canon — the Collected Works of C. G. Jung and the interpretive scholarship of Marie-Louise von Franz, Erich Neumann, and Edward Edinger — into a single, organised reference. Each entry presents the defining characteristics, core dynamics, symbolic expressions, developmental task, and key source references for the archetype or complex under examination.
+
+Designed as a desktop ready reckoner — not introductory reading, and not a substitute for the primary texts. The Repertory complements the reading and study required of practitioners and training candidates, serving as the working tool kept at hand alongside Jung's Collected Works, supervisory casework, and clinical practice.
+
+**Why This Book?**
+- The only Jungian repertory of its kind in print
+- ~70 verified citations against the primary literature
+- Designed for every level of engagement with Jungian thought — from senior practitioner to first-year candidate to independent reader
+- Two formats: portable paperback and library-grade hardcover
+- Drawn from the homoeopathic clinical *repertory* tradition, applied here to Jungian terrain
+
+**Editions**
+- Paperback — ISBN 978-0-6459989-2-4
+- Hardcover (case laminate matte) — ISBN 978-0-6459989-3-1
+
+[**Download the Trade Sheet (PDF)**](/documents/repertory-trade-sheet.pdf) — full specifications, both editions, for libraries, institutes, bookstores, and serious readers.
+
+*Available globally via Amazon and IngramSpark from 2 June 2026. Purchase links will appear here on publication day.*
+
+---
+
 ## Themes Explored in the Book
 
 A few of the essays on this site that draw on the same Truth-Centred frame the book lays out systematically:
