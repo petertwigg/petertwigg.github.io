@@ -67,6 +67,14 @@ Designed as a desktop ready reckoner — not introductory reading, and not a sub
 - Paperback — ISBN 978-0-6459989-2-4
 - Hardcover (case laminate matte) — ISBN 978-0-6459989-3-1
 
+> *"This repertory is an excellent Jungian resource, bringing archetypes and complexes together in one accessible place. What makes it especially valuable is that each entry is referenced back to the original Jungian and post-Jungian sources, making deeper study easy. A thoughtful and highly practical guide for anyone engaged in depth psychology."*
+>
+> — Brett Traynor, MA (Jungian Psy), Dip-JCC | Jungian Coach & Consultant, IAJCC Member | C. G. Jung Institute Zurich, Diploma Candidate
+
+> *"Peter Twigg's Repertory of Jungian Archetypes & Complexes provides a clear and systematic ready reference for psychoanalysts, students and enthusiasts alike of analytical psychology. Its consistent structure highlights the classically core Jungian Archetypes and Complexes through a standardized format. With the inclusion of paragraph citations for Jung's Collected Works, this book serves as a handy ready reference to the primary literature, offering an organized way to navigate Jung's often terse and deep terrain."*
+>
+> — Kane Parsons, Jungian Analyst (Diploma Candidate, C. G. Jung Institute Switzerland), Counsellor (MCouns), Philosopher (Dip) & Naturopathic Medicine Practitioner (AdvDip), Member PACFA (Reg. Clinical), ATMS (Naturopathy, Nutrition and Herbal Medicine)
+
 [**Download the Trade Sheet (PDF)**](/documents/repertory-trade-sheet.pdf) — full specifications, both editions, for libraries, institutes, bookstores, and serious readers.
 
 *Available globally via Amazon and IngramSpark from 2 June 2026. Purchase links will appear here on publication day.*
