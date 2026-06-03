@@ -1,7 +1,21 @@
 ---
 layout: post
 title: "Meditation: The App Might Be the Problem"
+description: "Meditation apps teach technique but rarely deliver the deeper reach practitioners are looking for. After 40 years of practice, here is why — and what real meditation actually does."
 excerpt: "The thing designed to help you meditate may be the very thing keeping you at the surface."
+date: 2026-05-26 12:00:00 +1000
+tags:
+- meditation
+- meditation apps
+- contemplative practice
+- mindfulness
+- spiritual practice
+- depth meditation
+- presence
+- beyond technique
+- advanced meditation
+- consciousness
+author: Peter Twigg
 ---
 
 Here's something worth sitting with.
@@ -46,11 +60,11 @@ That sense is real. Trust it.
 
 If the sounds are holding your attention at the surface — if you feel your practice is being held back rather than carried forward — those aren't signs of failure. They're signs of readiness. If it feels like you are waiting at the entrance to a deep hole you long to dive into, then you're ready.
 
-Many people find that when they sit without the app, something unexpected opens. The silence isn't empty. A deeper stillness becomes available. More profound states begin to emerge.
+Many people find that when they sit without the app, something unexpected opens. The silence isn't empty. A [deeper stillness](/2026/03/24/achieving-stillness-in-meditation/) becomes available. More profound states begin to emerge.
 
 This isn't something to believe. It's something you can know directly.
 
-If you're ready to try it, sit without the app this week. Notice what's there. I'd be glad to hear what you find — reply to this email or drop a comment below.
+If you're ready to try it, sit without the app this week. Notice what's there. I'd be glad to hear what you find — reply to this email or drop a comment below. If you want to go deeper into the principles behind real practice, my [School of Knowing](/school-of-knowing/) is built for exactly that work, and *[Truth Centred Meditation](/books/)* is the written ground for it.
 
 *Beyond Belief — Into Knowing.*
 

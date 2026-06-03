@@ -1,7 +1,21 @@
 ---
 layout: post
 title: "The Gatekeeper and the Catalyst"
+description: "The mystics report from a country they have walked. Institutional religion guards the door and forgets the fire. After 40 years of practice, here is the difference."
 excerpt: "Why institutional religion forgets what it has found anew."
+date: 2026-05-12 12:00:00 +1000
+tags:
+- mysticism
+- contemplative tradition
+- spiritual teaching
+- meditation
+- direct experience
+- christian mysticism
+- sufi tradition
+- religion
+- spiritual practice
+- catalyst
+author: Peter Twigg
 ---
 
 There is a moment, sitting in any of the great cathedrals, when something speaks. The light, the geometry, the centuries of breath held in stone. And then the sermon begins, and the speaking stops.
@@ -36,11 +50,11 @@ The same is true of the Quran, once you read it through the Sufi lens rather tha
 
 So what does any of this mean for someone sitting in a meditation, or trying to find their way spiritually in 2026?
 
-It means this. Be wary of any framework — religious, secular, wellness-flavoured — that asks you to believe rather than to practise. Belief is cheap. Practice is the only currency that buys actual change. The traditions that have endured longest at depth are the ones that kept their gatekeepers honest, or routed around them entirely.
+It means this. Be wary of any framework — religious, secular, wellness-flavoured — that asks you to believe rather than to practise. Belief is cheap. Practice is the only currency that buys actual change. The traditions that have endured longest at depth are the ones that kept their gatekeepers honest, or [routed around them entirely](/2026/03/03/knowledge-and-understanding-in-meditation/).
 
 It also means: do not throw out the Christian or Islamic streams because their institutional forms went sideways. The gold is still in the rivers. The early fathers, the desert mystics, the Sufi poets, the Christian contemplatives — they are still reporting, and the report still works. You just have to read them as practitioners read, not as believers read.
 
-A catalyst sends you into the fire. The fire is real. A gatekeeper offers eternal life in heaven — for the price of your faith, and your tithe. Whatever tradition you come from, find the catalysts. Walk past the gatekeepers.
+A catalyst sends you into the fire. The fire is real. A gatekeeper offers eternal life in heaven — for the price of your faith, and your tithe. Whatever tradition you come from, find the catalysts. Walk past the gatekeepers. If you are looking for that kind of practice, my [School of Knowing](/school-of-knowing/) and *[Truth Centred Meditation](/books/)* are built for the work, not the doctrine.
 
 
 ## Beyond Belief — Into Knowing
