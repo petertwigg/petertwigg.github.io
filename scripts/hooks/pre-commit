@@ -1,0 +1,85 @@
+#!/usr/bin/env bash
+# Pre-commit hook — Front-matter & internal-link enforcement on _posts/
+#
+# Installed 3 June 2026 (session 88) — closes the regression class where
+# 4 consecutive posts (Gatekeeper, Long Light, Apps, Jungian Analysis) went
+# live with title-only front matter and zero internal links.
+#
+# To enable on a machine:
+#   git config core.hooksPath scripts/hooks
+# To bypass intentionally (rare):
+#   git commit --no-verify
+#
+# Checks each STAGED _posts/*.md file for:
+#   1. description: field present and non-empty
+#   2. tags: block with ≥5 entries
+#   3. ≥1 internal link of the form ](/...) anywhere in the body
+
+set -e
+
+# Collect staged _posts/*.md files (Added or Modified)
+files=$(git diff --cached --name-only --diff-filter=AM | grep -E '^_posts/.*\.md$' || true)
+
+if [ -z "$files" ]; then
+  exit 0
+fi
+
+fail=0
+
+for f in $files; do
+  echo "🔍 Checking $f"
+
+  # Extract front matter block (between first two --- lines)
+  fm=$(awk '/^---$/{n++; if(n==2)exit} {if(n==1)print}' "$f")
+
+  # 1. description present and non-empty
+  if ! echo "$fm" | grep -qE '^description:[[:space:]]*".+"'; then
+    echo "   ❌ MISSING or empty: description"
+    echo "      Add a one-sentence meta description, ≤160 chars, keyword-anchored."
+    fail=1
+  fi
+
+  # 2. tags block with ≥5 entries
+  tag_count=$(echo "$fm" | awk '/^tags:/{flag=1; next} /^[a-z_]+:/{flag=0} flag && /^- /' | wc -l | tr -d ' ')
+  if [ "$tag_count" -lt 5 ]; then
+    echo "   ❌ INSUFFICIENT tags: found $tag_count, need ≥5"
+    echo "      Add tags from the established taxonomy (audit existing /tags/<x>/ pages)."
+    fail=1
+  fi
+
+  # 3. ≥1 internal link in body (form: ](/anything)
+  body=$(awk '/^---$/{n++; next} n==2' "$f")
+  link_count=$(echo "$body" | grep -oE '\]\(/[^)]+\)' | wc -l | tr -d ' ')
+  if [ "$link_count" -lt 1 ]; then
+    echo "   ❌ ZERO internal links (need ≥1, target ≥3)"
+    echo "      Required: ≥1 to /books/, ≥1 to /school-of-knowing/,"
+    echo "                ≥1 to a related cluster post (/YYYY/MM/DD/slug/)."
+    fail=1
+  elif [ "$link_count" -lt 3 ]; then
+    echo "   ⚠️  Only $link_count internal link(s) found — target ≥3 for Cluster A spine."
+    # warn but do not fail; 1 link is the hard floor
+  fi
+
+  if [ "$fail" -eq 0 ]; then
+    echo "   ✅ Pass (description ✓, $tag_count tags ✓, $link_count internal links)"
+  fi
+done
+
+if [ "$fail" -ne 0 ]; then
+  echo ""
+  echo "═══════════════════════════════════════════════════════════════════"
+  echo "❌ COMMIT BLOCKED — SEO front-matter/linking requirements not met."
+  echo "═══════════════════════════════════════════════════════════════════"
+  echo ""
+  echo "Fix the issues above and re-stage. To bypass (rare, justified cases):"
+  echo "    git commit --no-verify"
+  echo ""
+  echo "Reason: closes the session-88 regression class where new posts shipped"
+  echo "without description, tags, or internal links — undermining the Cluster A"
+  echo "linking spine deployed in session 62 (7 May 2026)."
+  echo ""
+  exit 1
+fi
+
+echo ""
+echo "✅ All staged _posts/*.md pass SEO front-matter + linking checks."

@@ -41,12 +41,22 @@ logo: "https://s.gravatar.com/avatar/e93642b3913fe528117101c28451d28b?s=80"
 paginate: 5
 paginate_path: blog/page:num
 
-# Exclude pagination pages from sitemap
+# Defaults block
+#   - Excludes pagination pages from sitemap (existing)
+#   - Auto-applies layout: post and author: Peter Twigg to all _posts (added 3 June 2026)
+#     This eliminates front-matter friction and prevents author/layout omissions.
+#     The pre-commit hook still enforces description, tags, and internal links.
 defaults:
   - scope:
       path: "blog/page*"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Peter Twigg"
 
 # Header nav
 navigation_header:
