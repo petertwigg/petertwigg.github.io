@@ -4,6 +4,7 @@ title: Why Gardening, Jogging or Surfing Doesn't Cut IT As Meditation
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Why Gardening, Jogging or Surfing Doesn't Cut IT As Meditation

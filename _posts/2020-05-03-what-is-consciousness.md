@@ -4,6 +4,7 @@ title: What is Consciousness?
 categories:
 - Context
 feature_image: 
+image: /images/image_posts/Fire2.jpg
 ---
 
 As Merriam-Webster defines [consciousness](https://www.merriam-webster.com/dictionary/consciousness) .... “at its simplest is "sentience or awareness of internal or external existence". To this day, consciousness remains a mystery, a final frontier you might say. An age old question occupying the minds of scientists and mystics alike. 

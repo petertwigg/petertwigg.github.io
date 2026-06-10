@@ -4,6 +4,7 @@ title: "The Three Temptations of Power"
 description: "Carl Jung's psychological reading of Jesus's temptation in the desert maps the three forms of power the ego offers to keep consciousness asleep — and the path of refusal that runs through all three."
 excerpt: "Why does every new political order eventually become what it overthrew?"
 date: 2026-06-09 12:00:00 +1000
+image: /images/banner-main-01-1600.jpg
 tags:
 - jungian psychology
 - depth psychology

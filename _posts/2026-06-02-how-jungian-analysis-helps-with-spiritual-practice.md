@@ -4,6 +4,7 @@ title: "How Jungian Analysis Helps with Spiritual Practice"
 description: "Jungian psychology offers one of the most precise maps available for the interior work of meditation — archetypes, complexes, the wounded healer, and the individuation path."
 excerpt: "The wound was not an obstacle to his vocation. It was the source of it."
 date: 2026-06-02 12:00:00 +1000
+image: /images/banner-main-01-1600.jpg
 tags:
 - jungian psychology
 - archetypes

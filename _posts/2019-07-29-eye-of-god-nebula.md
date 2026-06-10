@@ -4,6 +4,7 @@ title: Eye of God Nebula
 categories:
 - General
 feature_image: 
+image: /images/eye-of-god-nebula.jpg
 ---
 The beauty of the physical realm and a reminder to the spiritually minded of their place in the great scheme of things. The Helix Nebula, colloquially known as the Eye of God Nebula is the closest example of a planetary nebula created at the end of the life of a Sun-like star. 
 

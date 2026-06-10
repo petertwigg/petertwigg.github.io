@@ -5,6 +5,7 @@ categories:
 - General
 feature_image: 
 published: false
+image: /images/image_posts/meeting_death.jpg
 ---
 
 {% include figure.html image="/images/image_posts/meeting_death.jpg" caption="" width="400" %}

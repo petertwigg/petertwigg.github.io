@@ -5,6 +5,7 @@ description: "The Fourfold Subtle Body Model — physical, etheric, astral, and 
 categories:
 - Context
 feature_image: 
+image: /images/image_posts/subtle_bodies_model.jpg
 ---
 
 Today we will look at models to help you understand your subtle or spiritual bodies of energy in meditation.

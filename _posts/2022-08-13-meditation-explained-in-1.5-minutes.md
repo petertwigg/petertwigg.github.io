@@ -4,6 +4,7 @@ title: Meditation Explained in 1.5 Minutes
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 A brief summary of a vast and fascinating topic. A topic which is possibly the only game in town worth playing. Knowing yourself. 

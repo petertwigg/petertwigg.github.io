@@ -4,6 +4,7 @@ title: Spiritual Perspectives - States of Grace
 categories:
 - Video 
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 What is your experience of states of grace in meditation? Recognising states of grace in your meditation helps you in your meditations and life. 

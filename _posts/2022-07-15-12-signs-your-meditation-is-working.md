@@ -4,6 +4,7 @@ title: 12 Signs Your Meditation is Working
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 12 signs your meditation is working. Experiences we have in meditation are indicators of the success of your practice. Everything means something in meditation. This is where tips, techniques & context become invaluable in aiding you to deeper, more fulfilling meditations.

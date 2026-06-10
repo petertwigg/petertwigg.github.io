@@ -4,6 +4,7 @@ title: Awakening with Meditation
 categories:
 - General
 feature_image: 
+image: /images/angel-on-earth.jpg
 ---
 
 Some meditation processes suggest that attaining a silent or empty mind is the outcome of engaging in a meditation practice. The Holy Grail of meditation you may say. The  focus of achieving a silent mind is centred around the brain and measurable brain waves.

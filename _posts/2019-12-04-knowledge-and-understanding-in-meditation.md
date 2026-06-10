@@ -5,6 +5,7 @@ categories:
 - Context
 feature_image: 
 published: false
+image: /images/image_posts/russian_orthodox_chapel.jpg
 ---
 
 There is a Russian fable called ‘The Three Hermits’ that Leo Tolstoy wrote; the famous author of War and Peace, Anna Karenina and many other great literary delights. He rewrote ‘Three Hermits’ after experiencing his spiritual awakening. The fable coincidently illustrates the difference between knowledge and understanding and serves as a great teaching device by spiritual teachers. It goes something like this.......

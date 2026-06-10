@@ -4,6 +4,7 @@ title: Understanding Your Energy - Three Gunas Model
 categories:
 - Context
 feature_image:
+image: /images/meditation-group.jpg
 ---
 
 There is an Indian philosophical concept called Gunas which is found in nearly all Hindu schools of philosophy. It consists of three Gunas that are present in all objects and all beings in the world.

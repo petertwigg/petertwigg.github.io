@@ -4,6 +4,7 @@ title: Meditation & Grace
 categories:
 - General
 feature_image: 
+image: /images/angel-with-flowers-0583.jpg
 ---
 There are times in your meditations when a superior stillness descends upon you and the room in which you sit. Within that stillness there is peace, harmony, a receiving, a grace. I have seen rooms full of people, talking, drop into silence as this stillness descends. A pause in the busy minds of people in which something transcendent flows. 
 

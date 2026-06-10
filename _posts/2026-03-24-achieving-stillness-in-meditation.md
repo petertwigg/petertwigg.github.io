@@ -4,6 +4,7 @@ title: "Achieving Stillness in Meditation"
 excerpt: "Stillness in meditation is not found — it is uncovered. Here is how to stop chasing it and let it emerge."
 redirect_from:
   - /techniques/2019/10/07/achieving-stillness-in-meditation/
+image: /images/banner-main-01-1600.jpg
 ---
 
 An important aspect of meditation is stillness. Stillness of mind, stillness of body. Achieving stillness is a necessary step towards achieving a silent mind. They go hand in hand. Stillness in meditation along with a silent mind comes with holding right posture.

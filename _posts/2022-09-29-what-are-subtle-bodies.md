@@ -4,6 +4,7 @@ title: Spiritual Perspectives - What Are Subtle Bodies?
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 We describe our human subtle (spiritual) bodies and how they work. 

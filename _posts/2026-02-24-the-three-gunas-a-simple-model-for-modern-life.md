@@ -2,6 +2,7 @@
 layout: post
 title: "The Three Gunas — A Simple Model for Modern Life"
 date: 2026-02-24 12:00:00 +1100
+image: /images/banner-main-01-1600.jpg
 excerpt: "Human consciousness isn't static — it flows in rhythms, patterns, and cycles. One ancient model that beautifully captures this is the Three Gunas from Indian philosophy: Tamas, Rajas, and Sattva."
 ---
 

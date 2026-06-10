@@ -5,6 +5,7 @@ description: "Truth is not a possession of the mind but an orientation of being.
 categories:
 - Text
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Truth as Living Presence — Reflections on Truth Centred Meditation

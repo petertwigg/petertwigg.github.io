@@ -4,6 +4,7 @@ title: A Typical Daily Meditation Practice
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 In today's video I look at a "typical" meditation practice and why routine and set process each day helps to establish a strong meditation.

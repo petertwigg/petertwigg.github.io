@@ -33,6 +33,12 @@ baseurl: ''
 title: Peter Twigg Meditation | One-Year Online Meditation Course
 description: Deepen your practice with a meditation practitioner of over forty years, with thirty years of teaching. Join the School of Knowing one year course in consciousness and spiritual meditation.
 
+# Site-wide default social-preview image (Open Graph / Twitter Card).
+# jekyll-seo-tag uses this for og:image when a post has no per-post `image:` in front matter.
+# Per-post imagery in front matter overrides this default.
+# Added 10 June 2026 — unblocks Make.com Tuesday Launch Automation Module 7 (og:image regex extract).
+image: /images/banner-main-01-1600.jpg
+
 permalink: pretty
 future: true
 logo: "https://s.gravatar.com/avatar/e93642b3913fe528117101c28451d28b?s=80"

@@ -4,6 +4,7 @@ title: Finding Silence in Meditation
 categories:
 - Techniques
 feature_image: 
+image: /images/image_posts/lotus.jpg
 ---
 
 Many people say meditation doesn’t work for them. When I enquire about their meditation practice it often appears that a misunderstanding exists about the nature of the mind, thinking and how to meditate. I’ve written this article to help shed light on dealing with your mind in meditation.

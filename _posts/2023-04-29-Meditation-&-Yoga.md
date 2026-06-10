@@ -4,6 +4,7 @@ title: Meditation & Yoga
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 In this video we explore how yoga can potentiate your meditation practice. 

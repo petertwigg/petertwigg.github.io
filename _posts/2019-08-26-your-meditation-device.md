@@ -4,6 +4,7 @@ title: Your Meditation Device
 categories:
 - Techniques
 feature_image: 
+image: /images/image_posts/heart-chakra.jpg
 ---
 
 Meditation is the vehicle which helps your consciousness seeking to return to its source. 

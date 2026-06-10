@@ -4,6 +4,7 @@ title: Working With The Three Gunas Model
 categories:
 - Video 
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Use modalities found in human nature to change your mind and body state, in meditation and life, for better. Learn what to do to change your state at will. 

@@ -4,6 +4,7 @@ title: How I Use Mudras In Meditation
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 We look at using mudras in meditation to enhance your experience. 

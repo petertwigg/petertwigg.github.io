@@ -5,6 +5,7 @@ description: "Discover how kintsugi — Japan's ancient art of golden repair —
 categories:
 - General
 feature_image:
+image: /images/kintsugi1.jpg
 ---
 
 Kintsugi is the Japanese art of putting broken pottery pieces back together with gold — built on the idea that in embracing flaws and imperfections, you can create an even stronger, more beautiful pottery piece. 

@@ -4,6 +4,7 @@ title: "Knowledge and Understanding in Meditation: The Fable of the Three Hermit
 description: "Tolstoy's fable of the Three Hermits, retold by Osho, illustrates the difference between knowledge and understanding — and why direct experience is the heart of real meditation practice."
 excerpt: "Real understanding comes from direct experience. In meditation that comes from sitting every single day and testing the knowledge you have acquired with your experience and observation."
 date: 2026-03-03 12:00:00 +1100
+image: /images/banner-main-01-1600.jpg
 categories:
 - Spiritual Development
 tags:

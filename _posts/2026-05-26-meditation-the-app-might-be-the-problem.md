@@ -4,6 +4,7 @@ title: "Meditation: The App Might Be the Problem"
 description: "Meditation apps teach technique but rarely deliver the deeper reach practitioners are looking for. After 40 years of practice, here is why — and what real meditation actually does."
 excerpt: "The thing designed to help you meditate may be the very thing keeping you at the surface."
 date: 2026-05-26 12:00:00 +1000
+image: /images/banner-main-01-1600.jpg
 tags:
 - meditation
 - meditation apps

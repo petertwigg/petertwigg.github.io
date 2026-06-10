@@ -5,6 +5,7 @@ categories:
 - General
 feature_image: 
 published: false
+image: /images/image_posts/broken_heart.jpg
 ---
 
 Part of the human experience that most people go through at some stage is to experience a broken heart. It’s a horrible experience yet it also makes us more mature and wiser. It brings depth to the heart, if, once broken, it can mend in a way that allows you to celebrate and live your life more fully.

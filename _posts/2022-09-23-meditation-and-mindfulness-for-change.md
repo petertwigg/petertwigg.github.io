@@ -4,6 +4,7 @@ title: Meditation & Mindfulness For Change
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 We explore meditation & mindfulness as powerful vehicles for changing aspects of your way of being in the world - emotions, reactions & persona.

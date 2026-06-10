@@ -4,6 +4,7 @@ title:
 categories:
 - Text
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Interested in knowing yourself to the most profound levels? 

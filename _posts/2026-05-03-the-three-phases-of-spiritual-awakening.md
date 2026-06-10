@@ -16,6 +16,7 @@ tags:
 - shadow work
 - consciousness
 author: Peter Twigg
+image: /images/banner-main-01-1600.jpg
 ---
 
 I want to tell you something that most teachers won't say out loud.

@@ -4,6 +4,7 @@ title: Truth as Sword & Shield in Meditation & Life
 categories:
 - Context
 feature_image: 
+image: /images/image_posts/Angel_B&W.jpeg
 ---
 
 An important aspect of meditation practice is cultivating [your sense of Truth](https://petertwigg.com/text/2026/01/25/truth-as-living-presence/). It’s one of the foundation stones of your practice and a discerning factor needed to foster a stronger connection to your Higher Self. 

@@ -4,6 +4,7 @@ title: Spiritual Perspectives - What Are Chakras Really?
 categories:
 - Text
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 

@@ -4,6 +4,7 @@ title: Leading the Paracelsus Lifestyle
 categories:
 - Text
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Leading the Paracelsus Lifestyle: Meditation, Transformation & Life  

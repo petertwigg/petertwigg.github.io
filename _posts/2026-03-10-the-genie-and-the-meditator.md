@@ -4,6 +4,7 @@ title: "The Genie and the Meditator"
 excerpt: "Your willpower is a blind instrument — learn to give it the right task, or it will turn against you."
 redirect_from:
   - /context/2019/10/14/the-genie-and-the-meditator/
+image: /assets/uploads/2026/2026-03-10-the-genie-and-the-meditator-img-1.jpg
 ---
 
 There is this fable of a guy who finds a bottle. When he opens the bottle, out pops a genie. The genie says: "Thanks for saving me. I have been in that bottle for 500 years. I will reward you by granting your every wish." The guy says, "That's fantastic……." The genie interrupts him and says, "But there is one condition. That one condition is, I will fulfil your every wish, but if you do not keep me busy, I will kill you!"

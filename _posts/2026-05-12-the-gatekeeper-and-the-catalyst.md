@@ -4,6 +4,7 @@ title: "The Gatekeeper and the Catalyst"
 description: "The mystics report from a country they have walked. Institutional religion guards the door and forgets the fire. After 40 years of practice, here is the difference."
 excerpt: "Why institutional religion forgets what it has found anew."
 date: 2026-05-12 12:00:00 +1000
+image: /images/banner-main-01-1600.jpg
 tags:
 - mysticism
 - contemplative tradition

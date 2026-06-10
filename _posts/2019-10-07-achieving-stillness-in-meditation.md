@@ -5,6 +5,7 @@ categories:
 - Techniques
 feature_image: 
 published: false
+image: /images/image_posts/intense-fire.jpg
 ---
 
 Another aspect of meditation is stillness. Stillness is an important aspect of meditation. Stillness of mind, stillness of body. 

@@ -5,6 +5,7 @@ description: Working and managing your energy on a daily basis
 categories:
 - Text
 feature_image: 
+image: /images/peter-twigg-photo.jpg
 ---
 
 Across two great contemplative lineages—Hindu Advaita and Christian monastic mysticism—we find a strikingly similar way of awakening beyond the ego: the path of negation.

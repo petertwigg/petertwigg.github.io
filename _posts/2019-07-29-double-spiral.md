@@ -4,6 +4,7 @@ title: Double Spiral Helix
 categories:
 - General
 feature_image: 
+image: /images/double-spiral.jpg
 ---
 The double spiral helix, reflecting a microcosm of spiritual worlds. The atom effect found in chakras and nadis, energy centres of the body and its attendant flows of energy into and out of chakra centres. 
 

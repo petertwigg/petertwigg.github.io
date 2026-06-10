@@ -18,6 +18,7 @@ tags:
 - consciousness
 - spiritual nourishment
 author: Peter Twigg
+image: /images/banner-main-01-1600.jpg
 ---
 
 There are times in your meditations when a superior stillness descends upon you and the room in which you sit. Within that stillness there is peace, harmony, a receiving, a grace.

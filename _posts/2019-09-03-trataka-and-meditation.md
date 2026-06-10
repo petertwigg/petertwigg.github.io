@@ -4,6 +4,7 @@ title: Trataka & Meditation
 categories:
 - Techniques
 feature_image: 
+image: /images/trataka-flame.jpg
 ---
 
 Trataka means to look or to gaze. Trataka is one of the Shatkarma, a block of yoga techniques focused on purifying the body. Other techniques in this set include neti, sutra neti, shankhaprakshalana, agnisar kriya, kunjal kriya, vastra dhauti and others.

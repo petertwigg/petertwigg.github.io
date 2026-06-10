@@ -4,6 +4,7 @@ title: Can Meditation Put People At Risk?
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Does meditation put meditators at risk? We provide answers and context to help understand the issues.

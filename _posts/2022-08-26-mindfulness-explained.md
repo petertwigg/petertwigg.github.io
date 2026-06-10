@@ -4,6 +4,7 @@ title: Mindfulness Explained
 categories:
 - Video 
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Examining mindfulness..... the start of your adventure in consciousness.

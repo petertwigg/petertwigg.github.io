@@ -4,6 +4,7 @@ title: Aches, Pains & Emotions in Meditation
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 In this video we discuss what to do when aches, pains & emotions come up in meditation. 

@@ -4,6 +4,7 @@ title: Rituals & Meditation
 categories:
 - Context
 feature_image: 
+image: /images/image_posts/ritual1.jpg
 ---
 
 An important aspect of meditation is the application of rituals along with your meditation practice. It’s useful to note that all spiritual paths and indeed, the great religions employ ritual as a tool connecting humans to spiritual beings (angels, gods, etc) and worlds. 

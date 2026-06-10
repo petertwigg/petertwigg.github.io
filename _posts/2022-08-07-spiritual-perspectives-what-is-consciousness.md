@@ -6,6 +6,7 @@ categories:
 feature_image:
 redirect_from:
   - /context/2022/08/07/spiritual-perspectives-what-is-consciousness/
+image: /images/banner-main-01-1600.jpg
 ---
 
 The very essence of meditation is the exploration of consciousness! Consciousness knowing itself. Here we discuss consciousness and provide experiential understanding of consciousness in a meditation and cosmological context.

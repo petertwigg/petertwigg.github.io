@@ -4,6 +4,7 @@ title: A Gentle Reminder
 categories:
 - Context
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Extract from the Bhagavad Gita......

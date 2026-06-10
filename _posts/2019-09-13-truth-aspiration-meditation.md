@@ -4,6 +4,7 @@ title: Truth, Aspiration & Meditation
 categories:
 - Tips
 feature_image: 
+image: /images/sleeping_angel.jpg
 ---
 
 Whether in daily life or meditation, cultivating an aspiration for truth is a most powerful way to build your life and meditation practice.

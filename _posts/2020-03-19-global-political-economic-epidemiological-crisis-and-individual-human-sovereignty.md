@@ -4,6 +4,7 @@ title: Global Political, Economic & Epidemiological Crisis and Individual Human 
 categories:
 - Context
 feature_image: 
+image: /images/image_posts/James_Madison.jpg
 ---
 
 Observing the current political, economic and pandemic health crisis makes you wonder what is going on in the world. Has the world gone mad?

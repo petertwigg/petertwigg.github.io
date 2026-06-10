@@ -5,6 +5,7 @@ description: Inspirational comment from Sri Aurobindo when we have those moments
 categories:
 - Text
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 The Hour of God
 

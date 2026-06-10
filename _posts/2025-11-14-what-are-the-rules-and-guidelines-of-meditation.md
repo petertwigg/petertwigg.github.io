@@ -5,6 +5,7 @@ title: What are the rules and guidelines of meditation?
 categories:
 - Text
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 

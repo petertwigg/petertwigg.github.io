@@ -4,6 +4,7 @@ title: Meditation & the Virus
 categories:
 - General
 feature_image: 
+image: /images/image_posts/kintsugi5.jpg
 ---
 
  It is said than when storms prevail, fishermen wait patiently, mending their nets. 

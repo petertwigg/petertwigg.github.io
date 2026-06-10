@@ -4,6 +4,7 @@ title: Drugs & Meditation
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 Exploring the impact of recreational & medicinal drugs on meditation. 

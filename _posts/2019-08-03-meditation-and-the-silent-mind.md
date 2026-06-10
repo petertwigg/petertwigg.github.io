@@ -4,6 +4,7 @@ title: Meditation & the Silent Mind
 categories:
 - General
 feature_image: 
+image: /images/chalice-0588.jpg
 ---
 Meditation is promoted as a path to achieving a silent mind. What a relief to be able to stop the mind chatter!
 

@@ -4,6 +4,7 @@ title: Spiritual Perspectives - What Do You Rest on in Meditation?
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 In this video we explore what you rest on in meditation? We discuss the device on which your consciousness rests.

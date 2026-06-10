@@ -4,6 +4,7 @@ title: "The Long Light: Direct Knowing from Chaldea to the West"
 description: "An unbroken transmission of contemplative practice — from the Chaldean Oracles through Neoplatonism, Sufi mysticism, and the Renaissance into the meditation seat today."
 excerpt: "An unbroken conversation across three thousand years — from the Babylonian star-priests to the meditation seat you may be sitting on now."
 date: 2026-05-19 12:00:00 +1000
+image: /images/banner-main-01-1600.jpg
 tags:
 - chaldean oracles
 - western esoteric tradition

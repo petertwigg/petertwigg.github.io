@@ -4,6 +4,7 @@ title: What is Your Device in Meditation?
 categories:
 - Video 
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 We ask the question 'What is Your Device in Meditation'? 

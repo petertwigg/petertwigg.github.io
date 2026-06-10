@@ -4,6 +4,7 @@ title: Creating a Meditation Space for Yourself
 categories:
 - Video
 feature_image: 
+image: /images/banner-main-01-1600.jpg
 ---
 
 We discuss some of the things you need to take into account when you are creating a meditation space for yourself. 
