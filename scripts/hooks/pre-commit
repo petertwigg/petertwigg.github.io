@@ -5,6 +5,19 @@
 # 4 consecutive posts (Gatekeeper, Long Light, Apps, Jungian Analysis) went
 # live with title-only front matter and zero internal links.
 #
+# Hardened 15 June 2026 (session 100):
+#   - Body extractor no longer miscounts body-level horizontal rules (`---`)
+#     as front-matter delimiters. Previously every `---` in the body stopped
+#     body extraction, so internal links placed after a section break were
+#     invisible to the link check (caused a false block on 14 Jun; worked
+#     around at the time by switching body separators to `* * *`). Authors
+#     may now use `---` as a section break freely.
+#   - Infra-only changes are skipped. If a MODIFIED post's body is byte-for-byte
+#     identical to HEAD (i.e. only front-matter changed — e.g. a bulk `image:`
+#     backfill), SEO checks are skipped for that file. New posts (not in HEAD)
+#     always get full enforcement. Removes the need for `--no-verify` on
+#     metadata-only sweeps (the session-94 case).
+#
 # To enable on a machine:
 #   git config core.hooksPath scripts/hooks
 # To bypass intentionally (rare):
@@ -17,6 +30,14 @@
 
 set -e
 
+# Extract the post body (everything after the closing front-matter ---).
+# Only the FIRST TWO `---` lines are treated as front-matter delimiters;
+# any `---` after that is body content (a Markdown horizontal rule) and is
+# printed normally. Reads from stdin.
+extract_body() {
+  awk 'BEGIN{n=0} /^---$/ && n<2 {n++; next} n>=2 {print}'
+}
+
 # Collect staged _posts/*.md files (Added or Modified)
 files=$(git diff --cached --name-only --diff-filter=AM | grep -E '^_posts/.*\.md$' || true)
 
@@ -28,6 +49,18 @@ fail=0
 
 for f in $files; do
   echo "🔍 Checking $f"
+
+  # Infra-only skip: if the file exists in HEAD and its body is unchanged,
+  # only front matter moved (e.g. an `image:` backfill). The post passed these
+  # checks when it was first committed; don't re-block a metadata-only edit.
+  if git cat-file -e "HEAD:$f" 2>/dev/null; then
+    head_body=$(git show "HEAD:$f" | extract_body)
+    work_body=$(extract_body < "$f")
+    if [ "$head_body" = "$work_body" ]; then
+      echo "   ⏭  Infra-only change (body unchanged vs HEAD) — SEO checks skipped."
+      continue
+    fi
+  fi
 
   # Extract front matter block (between first two --- lines)
   fm=$(awk '/^---$/{n++; if(n==2)exit} {if(n==1)print}' "$f")
@@ -48,7 +81,7 @@ for f in $files; do
   fi
 
   # 3. ≥1 internal link in body (form: ](/anything)
-  body=$(awk '/^---$/{n++; next} n==2' "$f")
+  body=$(extract_body < "$f")
   link_count=$(echo "$body" | grep -oE '\]\(/[^)]+\)' | wc -l | tr -d ' ')
   if [ "$link_count" -lt 1 ]; then
     echo "   ❌ ZERO internal links (need ≥1, target ≥3)"
