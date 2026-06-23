@@ -33,10 +33,11 @@ baseurl: ''
 title: Peter Twigg Meditation | One-Year Online Meditation Course
 description: Deepen your practice with a meditation practitioner of over forty years, with thirty years of teaching. Join the School of Knowing one year course in consciousness and spiritual meditation.
 
-# Site-wide default social-preview image (Open Graph / Twitter Card).
-# jekyll-seo-tag uses this for og:image when a post has no per-post `image:` in front matter.
-# Per-post imagery in front matter overrides this default.
-# Added 10 June 2026 — unblocks Make.com Tuesday Launch Automation Module 7 (og:image regex extract).
+# Site-level image key (kept for reference / other plugins).
+# ⚠️ NOTE (23 Jun 2026): jekyll-seo-tag does NOT use this top-level `image:` for og:image —
+# it reads `page.image`. The 23 Jun launch failed because new posts had no per-post `image:`
+# and this default emitted nothing. The REAL og:image fallback now lives in the `defaults:`
+# block below (applied to every post). Per-post `image:` still overrides.
 image: /images/banner-main-01-1600.jpg
 
 permalink: pretty
@@ -63,6 +64,7 @@ defaults:
     values:
       layout: "post"
       author: "Peter Twigg"
+      image: "/images/banner-main-01-1600.jpg"   # og:image for EVERY post (jekyll-seo-tag reads page.image); per-post `image:` overrides. Added 23 Jun 2026 — the real fix for the Make.com og:image dependency that the top-level `image:` never provided.
 
 # Header nav
 navigation_header:
