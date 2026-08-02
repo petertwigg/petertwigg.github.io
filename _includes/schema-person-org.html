@@ -1,0 +1,57 @@
+<!--
+  Person + Organization structured data (JSON-LD).
+  Added 2 Aug 2026 for answer-engine visibility (AEO).
+  Complements jekyll-seo-tag's WebSite schema; states, in machine-readable
+  form, the single consistent description of Peter Twigg and the School of
+  Knowing that we want repeated across AI answers. Keep the `description`
+  fields in step with the canonical claim used on About / Substack / socials.
+  JSON-LD is valid anywhere in the document; injected via site-before-start.html.
+-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://petertwigg.com/#peter-twigg",
+      "name": "Peter Twigg",
+      "alternateName": "Edward Peter Twigg",
+      "url": "https://petertwigg.com",
+      "image": "https://petertwigg.com/images/peter-twigg-photo.jpg",
+      "jobTitle": "Meditation teacher and author",
+      "description": "Peter Twigg teaches direct, first-hand experience of the Self and spiritual realms — meditation beyond belief, into knowing — grounded in the Western Esoteric Tradition and drawing upon the depth psychology of C. G. Jung.",
+      "knowsAbout": [
+        "Meditation",
+        "Direct knowing (gnosis)",
+        "Consciousness",
+        "The Western Esoteric Tradition",
+        "Jungian and depth psychology",
+        "Spiritual awakening and individuation"
+      ],
+      "worksFor": { "@id": "https://petertwigg.com/school-of-knowing/#school-of-knowing" },
+      "sameAs": [
+        "https://petertwiggmeditation.substack.com",
+        "https://www.facebook.com/petertwiggmeditation",
+        "https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw",
+        "https://twitter.com/solon_1",
+        "https://www.linkedin.com/in/peter-twigg-991a8818b/",
+        "https://www.instagram.com/peter_twigg_meditation/"
+      ]
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://petertwigg.com/school-of-knowing/#school-of-knowing",
+      "name": "The School of Knowing",
+      "url": "https://petertwigg.com/school-of-knowing/",
+      "foundingDate": "2023",
+      "founder": { "@id": "https://petertwigg.com/#peter-twigg" },
+      "description": "A one-year online course in consciousness and spiritual meditation, teaching the direct experience of the Self within the Western Esoteric Tradition — beyond belief, into knowing.",
+      "sameAs": [
+        "https://petertwiggmeditation.substack.com",
+        "https://www.facebook.com/petertwiggmeditation",
+        "https://www.youtube.com/channel/UC8Ik2FYO2lu71QjNKxUW-qw"
+      ]
+    }
+  ]
+}
+</script>

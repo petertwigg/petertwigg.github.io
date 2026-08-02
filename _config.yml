@@ -30,8 +30,8 @@ feed:
 url: 'https://petertwigg.com'
 baseurl: ''
 
-title: Peter Twigg Meditation | One-Year Online Meditation Course
-description: Deepen your practice with a meditation practitioner of over forty years, with thirty years of teaching. Join the School of Knowing one year course in consciousness and spiritual meditation.
+title: Peter Twigg Meditation | Beyond Belief, Into Knowing — a One-Year Course
+description: Meditation beyond belief, into knowing — the direct, first-hand experience of the Self, taught by Peter Twigg (forty years' practice, thirty years teaching). Join the School of Knowing one-year course in consciousness and spiritual meditation.
 
 # Site-level image key (kept for reference / other plugins).
 # ⚠️ NOTE (23 Jun 2026): jekyll-seo-tag does NOT use this top-level `image:` for og:image —
