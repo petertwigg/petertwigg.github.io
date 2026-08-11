@@ -41,7 +41,10 @@ description: Meditation beyond belief, into knowing — the direct, first-hand e
 image: /images/banner-main-01-1600.jpg
 
 permalink: pretty
-future: true
+# future:false hides future-dated posts until their date; the scheduled cron
+# build in .github/workflows/jekyll.yml releases them automatically (server-side,
+# no local push needed). Changed from true on 11 Aug 2026 — see that commit.
+future: false
 logo: "https://s.gravatar.com/avatar/e93642b3913fe528117101c28451d28b?s=80"
 
 # Pagination

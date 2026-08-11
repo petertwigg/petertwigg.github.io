@@ -4,6 +4,13 @@ on:
   push:
     branches: ["master"]
   workflow_dispatch:
+  schedule:
+    # Auto-release future-dated posts on their date without a local push.
+    # future:false hides a post until its date; these daily rebuilds let it
+    # through the morning its date arrives. Two runs = belt-and-braces vs cron lag.
+    # Cron is UTC. Tuesday launch is 12:00 AEST — both runs land before it.
+    - cron: '30 23 * * *'   # ~09:30 AEST / 10:30 AEDT
+    - cron: '30 0 * * *'    # ~10:30 AEST / 11:30 AEDT
 
 permissions:
   contents: read
