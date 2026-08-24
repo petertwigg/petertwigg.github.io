@@ -3,8 +3,9 @@ layout: post
 title: "The Divine Spark — the Hidden Stone in You"
 description: "The divine spark, the alchemists' hidden stone: the buried light in the prima materia, the three colours of the opus, and the gnosis that fixes it into something that lasts."
 excerpt: "The alchemists began every Work with matter they called worthless — because sealed inside the discarded stuff was a seed of light. This one is about that light."
-date: 2026-08-25 12:00:00 +1000
+date: 2026-08-24 09:00:00 +1000
 slug: the-divine-spark
+permalink: /2026/08/25/the-divine-spark/
 tags:
 - divine spark
 - alchemy
