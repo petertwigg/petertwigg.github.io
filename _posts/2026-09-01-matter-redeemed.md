@@ -4,6 +4,7 @@ title: "Matter Redeemed — Where the Work Is Actually Done"
 description: "Is the body the obstacle to the spiritual life, or the instrument of it? The alchemists' redemption of matter, and why the deepest knowing is reached through the body, not by escaping it."
 excerpt: "There is a moment, early in the contemplative life, when you decide the body is the problem. It feels like renunciation. It is actually a kind of flinching."
 date: 2026-09-01 09:00:00 +1000
+permalink: /2026/09/01/matter-redeemed/
 slug: matter-redeemed
 tags:
 - matter
