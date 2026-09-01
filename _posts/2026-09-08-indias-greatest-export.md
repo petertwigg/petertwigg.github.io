@@ -4,6 +4,7 @@ title: "India's Greatest Export"
 description: "Neti neti — 'not this, not this' — the road of unmaking traced from the Upanishads to now, and why the oldest contemplative instrument reads as if forged this morning."
 excerpt: "If I had to name India's greatest export, I wouldn't say the spices, or the zero. I'd say neti neti — knowing what you are by setting down all you are not."
 date: 2026-09-08 09:00:00 +1000
+permalink: /2026/09/08/indias-greatest-export/
 tags:
 - neti neti
 - via negativa

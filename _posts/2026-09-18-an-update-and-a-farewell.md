@@ -4,6 +4,7 @@ title: "An Update, and a Farewell for a While"
 description: "Peter Twigg is stepping off the page to walk the Camino — an update, a farewell for a while, and a door left open for anyone ready to begin."
 excerpt: "I am going to do the thing I have spent these months writing about. I am going to walk the Camino."
 date: 2026-09-18 12:00:00 +1000
+permalink: /2026/09/18/an-update-and-a-farewell/
 slug: an-update-and-a-farewell
 tags:
 - camino

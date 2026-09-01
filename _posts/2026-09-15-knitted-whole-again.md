@@ -4,6 +4,7 @@ title: "Knitted Whole Again"
 description: "The coagula — what the unmaking was always for. The survivor of the descent becomes the maker, and what gets built is congealed light. With Descartes as the false coagula."
 excerpt: "Subtraction was never the destination. You take the same wool you unravelled and knit it whole again — under your own true centre."
 date: 2026-09-15 09:00:00 +1000
+permalink: /2026/09/15/knitted-whole-again/
 tags:
 - solve et coagula
 - coagulatio
