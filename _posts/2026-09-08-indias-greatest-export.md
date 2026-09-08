@@ -46,6 +46,6 @@ The Vedantist calls that survivor the Atman. Jung called it the Self. The Wester
 
 Which is exactly where this first movement has to end, on a question rather than an answer. Something remains. *What is it for?* You did not empty the room to stand in an empty room. You emptied it to make space for something. The negation was never the destination — it was the clearing.
 
-What the cleared ground is *for* is the whole of the second movement. That is where we build — in the companion essay, *Knitted Whole Again*, which takes up exactly here, on this threshold. (It follows next Tuesday.)
+What the cleared ground is *for* is the whole of the second movement. That is where we build — in the companion essay, [*Knitted Whole Again*](/2026/09/15/knitted-whole-again/), which takes up exactly here, on this threshold. (It follows next Tuesday.)
 
 Beyond belief — into knowing. First, the long unmaking.
