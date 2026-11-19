@@ -3,8 +3,8 @@ layout: post
 title: "What Will We Become? — Part Two: The Beast We Bring With Us"
 description: "Part Two — the honest assessment: when the machines take the struggle away, the survival drive doesn't vanish, it seeks a road. Most will choose the frictionless exit. Why the inward path is the road of the few — and why that changes nothing about the door."
 excerpt: "Part One was the hopeful half. Here is the other half, the one truthfulness costs: the inward turn is one road, and it is not the one most of us will take."
-date: 2026-12-01 07:00:00 +1100
-permalink: /2026/12/01/the-beast-we-bring-with-us/
+date: 2026-12-15 07:00:00 +1100
+permalink: /2026/12/15/the-beast-we-bring-with-us/
 slug: the-beast-we-bring-with-us
 tags:
 - ai
@@ -46,7 +46,7 @@ Beyond belief, beyond comfort — into knowing.
 
 ---
 
-This is Part Two. Part One — *[What Will We Become?](/2026/11/24/what-will-we-become/)* — is the hopeful half: why the inward frontier is the one thing left.
+This is Part Two. Part One — *[What Will We Become?](/2026/12/08/what-will-we-become/)* — is the hopeful half: why the inward frontier is the one thing left.
 
 If you'd like to walk this more deliberately than an essay allows, the door is open — come and have a look at the [School of Knowing](/school-of-knowing/), and take only what is genuinely yours to take.
 

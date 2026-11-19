@@ -3,8 +3,8 @@ layout: post
 title: "What Will We Become?"
 description: "A response to Peter Diamandis: when AI can do everything better, the last human frontier is not what we will do but what we will become — the turn inward."
 excerpt: "When the machines can do everything, the last frontier is inward. My answer to Diamandis is not a longer list — it is a change of verb."
-date: 2026-11-24 07:00:00 +1100
-permalink: /2026/11/24/what-will-we-become/
+date: 2026-12-08 07:00:00 +1100
+permalink: /2026/12/08/what-will-we-become/
 slug: what-will-we-become
 tags:
 - ai
