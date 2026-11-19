@@ -3,7 +3,7 @@ layout: post
 title: "What Will We Become? — Part Two: The Beast We Bring With Us"
 description: "Part Two — the honest assessment: when the machines take the struggle away, the survival drive doesn't vanish, it seeks a road. Most will choose the frictionless exit. Why the inward path is the road of the few — and why that changes nothing about the door."
 excerpt: "Part One was the hopeful half. Here is the other half, the one truthfulness costs: the inward turn is one road, and it is not the one most of us will take."
-date: 2026-12-15 07:00:00 +1100
+date: 2026-12-15 09:00:00 +1100
 permalink: /2026/12/15/the-beast-we-bring-with-us/
 slug: the-beast-we-bring-with-us
 tags:

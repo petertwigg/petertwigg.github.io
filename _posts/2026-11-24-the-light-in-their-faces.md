@@ -3,7 +3,7 @@ layout: post
 title: "The Light in Their Faces"
 description: "Back from the Camino — a first letter home: the people, the light in their faces, and how simple living makes room for what the noise had hidden."
 excerpt: "For me the Camino was never about the landscape or the distance. It was about the people — and the light in their faces."
-date: 2026-11-24 07:00:00 +1100
+date: 2026-11-24 09:00:00 +1100
 permalink: /2026/11/24/the-light-in-their-faces/
 slug: the-light-in-their-faces
 tags:
